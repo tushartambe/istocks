@@ -1,12 +1,13 @@
-import React, { Component, useState } from 'react';
-import { Typography, Card, Avatar, Button, Row, Col } from 'antd';
-import { EditOutlined, EllipsisOutlined, SettingOutlined, HeartOutlined } from '@ant-design/icons';
+import { HeartOutlined } from '@ant-design/icons';
+import { Avatar, Button, Card, Col, InputNumber, Row, Space, Tabs, Typography } from 'antd';
+import React from 'react';
 import CustomLayout from '../components/CustomLayout';
-import { INR } from "../constants/constants";
 import CustomPropertyText from '../components/CustomPropertyText';
+import { INR } from "../constants/constants";
 
-const { Title, Link } = Typography;
+const { Title, Link, Text } = Typography;
 const { Meta } = Card;
+const { TabPane } = Tabs;
 const StockDetails = (props) => {
   const symbol = props.match.params.symbol;
   // const [stockInfo, setStockInfo] = useState();
@@ -25,12 +26,7 @@ const StockDetails = (props) => {
     <CustomLayout>
       <div style={{ marginRight: '25%', marginLeft: '25%', marginTop: '10px' }}>
         <Card
-          style={{}}
-          actions={[
-            <Button type="primary" block>Buy</Button>,
-            <Button type="primary" danger block>Sell</Button>,
-            <HeartOutlined key="favorite" />
-          ]}
+          extra={<Button style={{ borderStyle: 'none' }} shape='circle' icon={<HeartOutlined />}></Button>}
         >
           <Meta
             avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
@@ -62,10 +58,35 @@ const StockDetails = (props) => {
           <Link href={`https://www.nseindia.com/get-quotes/equity?symbol=${symbol}`} target="_blank">
             More Information..
           </Link>
+          <Tabs defaultActiveKey="1" onChange={() => { }}>
+            <TabPane
+              tab={
+                <Text type="success">
+                  Buy
+              </Text>}
+              key="1">
+              <Space>
+                <InputNumber min={1} max={10} defaultValue={1} /> Shares @ {INR + stockInfo.currentPrice}
+                <Button type="primary">Buy Now</Button>
+              </Space>
+            </TabPane>
+            <TabPane
+              tab={
+                <Text type="danger">
+                  Sell
+                </Text>}
+              key="2">
+              <Space>
+                <InputNumber min={1} max={10} defaultValue={1} /> Shares @ {INR + stockInfo.currentPrice}
+                <Button type="primary" danger>Sell Now</Button>
+              </Space>
+            </TabPane>
+          </Tabs>
         </Card>
       </div>
     </CustomLayout>
   );
 };
+
 
 export default StockDetails;
