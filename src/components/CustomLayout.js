@@ -12,7 +12,7 @@ const CustomLayout = (props) => {
         <Header>
           <CustomHeader></CustomHeader>
         </Header>
-        <Content>{props.children}</Content>
+        <Content style={{ margin: 10 }}>{props.children}</Content>
         <Footer>
           <CustomFooter></CustomFooter>
         </Footer>
