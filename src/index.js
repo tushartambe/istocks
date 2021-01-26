@@ -1,12 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import StockDetails from './pages/StockDetails';
+import Home from './pages/Home';
+import Investments from './pages/Investments';
+import Transactions from './pages/Transactions';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route path="/stocks" component={StockDetails} />
+        <Route path="/my-investments" component={Investments} />
+        <Route path="/transactions" component={Transactions} />
+      </Switch>
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );
