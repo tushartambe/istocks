@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import axios from "axios";
 import CustomLayout from '../components/CustomLayout';
 import StockCard from '../components/StockCard';
 import StockCardList from '../components/StockCardList';
@@ -88,14 +89,65 @@ const Home = (props) => {
       previousClose: 9187
     }
   ]
+
+  useEffect(() => {
+    axios.get('http://localhost:3000/nse/get_gainers')
+      .then(res => {
+        const quotes = res.data.data;
+        quotes.map(q => {
+          axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
+            .then(res => {
+              const quote = res.data.data[0];
+              setTopGainers(state => {
+                return [...state, {
+                  symbol: quote.symbol,
+                  name: quote.companyName,
+                  dayHigh: quote.dayHigh,
+                  dayLow: quote.dayLow,
+                  previousClose: quote.previousClose,
+                  currentPrice: quote.closePrice,
+                  yearLow: quote.low52,
+                  yearHigh: quote.high52,
+                  openPrice: quote.open
+                }]
+              })
+            })
+        })
+      })
+
+    axios.get('http://localhost:3000/nse/get_losers')
+      .then(res => {
+        const quotes = res.data.data;
+        quotes.map(q => {
+          axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
+            .then(res => {
+              const quote = res.data.data[0];
+              setTopLosers(state => {
+                return [...state, {
+                  symbol: quote.symbol,
+                  name: quote.companyName,
+                  dayHigh: quote.dayHigh,
+                  dayLow: quote.dayLow,
+                  previousClose: quote.previousClose,
+                  currentPrice: quote.closePrice,
+                  yearLow: quote.low52,
+                  yearHigh: quote.high52,
+                  openPrice: quote.open
+                }]
+              })
+            })
+        })
+      })
+  }, []);
+
   return (
     <CustomLayout>
       <Collapse defaultActiveKey={['1', '2']} ghost>
         <Panel header={<Title type="success" level={4}>Top Gainers</Title>} showArrow={false} key="1">
-          <StockCardList stockList={stocks}></StockCardList>
+          <StockCardList stockList={topGainers}></StockCardList>
         </Panel>
         <Panel header={<Title type="danger" level={4}>Top Losers</Title>} showArrow={false} key="2">
-          <StockCardList stockList={stocks1}></StockCardList>
+          <StockCardList stockList={topLosers}></StockCardList>
         </Panel>
       </Collapse>
     </CustomLayout>

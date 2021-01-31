@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
+import CustomLayout from '../components/CustomLayout';
 
 const Investments = (props) => {
   return (
-    <div>
+    <CustomLayout>
       Investments
-    </div>
+    </CustomLayout>
   );
 };
 

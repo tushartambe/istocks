@@ -3,7 +3,7 @@ import { Avatar, Button, Card, Col, InputNumber, Row, Space, Tabs, Typography } 
 import React from 'react';
 import CustomLayout from '../components/CustomLayout';
 import CustomPropertyText from '../components/CustomPropertyText';
-import { INR } from "../constants/constants";
+import { INR, NSE_QUOTE_URL } from "../constants/constants";
 
 const { Title, Link, Text } = Typography;
 const { Meta } = Card;
@@ -55,7 +55,7 @@ const StockDetails = (props) => {
               <CustomPropertyText name="52 week high" value={stockInfo.yearHigh} prefix={INR}></CustomPropertyText>
             </Col>
           </Row>
-          <Link href={`https://www.nseindia.com/get-quotes/equity?symbol=${symbol}`} target="_blank">
+          <Link href={NSE_QUOTE_URL + symbol} target="_blank">
             More Information..
           </Link>
           <Tabs defaultActiveKey="1" onChange={() => { }}>

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Card, Avatar, Typography } from 'antd';
 import { INR } from "../constants/constants";
 import { useHistory } from 'react-router';
+import roundToTwo from '../utils/utils';
 const { Text } = Typography;
 const { Meta } = Card;
 
