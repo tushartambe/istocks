@@ -1,8 +1,7 @@
-import React, { Component } from 'react';
-import { Card, Avatar, Typography } from 'antd';
-import { INR } from "../constants/constants";
+import { Avatar, Card, Typography } from 'antd';
+import React from 'react';
 import { useHistory } from 'react-router';
-import roundToTwo from '../utils/utils';
+import { INR } from "../constants/constants";
 const { Text } = Typography;
 const { Meta } = Card;
 
