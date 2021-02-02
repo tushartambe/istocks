@@ -1,4 +1,4 @@
-import { Avatar, Card, Typography } from 'antd';
+import { Avatar, Card, Skeleton, Typography } from 'antd';
 import React from 'react';
 import { useHistory } from 'react-router';
 import { INR } from "../constants/constants";
@@ -19,14 +19,16 @@ const StockCard = (props) => {
         history.push(`/stocks/${props.symbol}`)
       }
     >
-      <Meta
-        avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
-        title={props.name}
-        description={props.symbol}
-      />
-      <Text>{INR + props.currentPrice}</Text>
-      <br />
-      <Text type={textType}>{'+'.repeat(dayChange >= 0) + dayChange}</Text>
+      <Skeleton loading={props.loading} avatar active>
+        <Meta
+          avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
+          title={props.name}
+          description={props.symbol}
+        />
+        <Text>{INR + props.currentPrice}</Text>
+        <br />
+        <Text type={textType}>{'+'.repeat(dayChange >= 0) + dayChange}</Text>
+      </Skeleton>
     </Card>
   );
 };

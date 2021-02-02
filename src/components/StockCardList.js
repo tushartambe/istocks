@@ -5,11 +5,16 @@ import { Card, Col, Row } from 'antd';
 import StockCard from './StockCard';
 
 const StockCardList = (props) => {
+  let stockList = props.stockList;
+  const dummySkeletons = new Array(5).fill({});;
+  if (props.loading) {
+    stockList = dummySkeletons;
+  }
 
   return (
     <Row >
       {
-        props.stockList.map((stock, index) => {
+        stockList.map((stock, index) => {
           return (
             <Col key={index}>
               <StockCard
@@ -17,6 +22,7 @@ const StockCardList = (props) => {
                 symbol={stock.symbol}
                 currentPrice={stock.currentPrice}
                 previousClose={stock.previousClose}
+                loading={props.loading}
               />
             </Col>
           )

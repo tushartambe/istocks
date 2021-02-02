@@ -9,6 +9,7 @@ const { Panel } = Collapse;
 const { Title } = Typography;
 
 const Home = (props) => {
+  const [loading, setLoading] = useState(true);
   const [topGainers, setTopGainers] = useState([]);
   const [topLosers, setTopLosers] = useState([]);
 
@@ -90,64 +91,66 @@ const Home = (props) => {
     }
   ]
 
-  useEffect(() => {
-    axios.get('http://localhost:3000/nse/get_gainers')
-      .then(res => {
-        const quotes = res.data.data;
-        quotes.map(q => {
-          axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
-            .then(res => {
-              const quote = res.data.data[0];
-              setTopGainers(state => {
-                return [...state, {
-                  symbol: quote.symbol,
-                  name: quote.companyName,
-                  dayHigh: quote.dayHigh,
-                  dayLow: quote.dayLow,
-                  previousClose: quote.previousClose,
-                  currentPrice: quote.closePrice,
-                  yearLow: quote.low52,
-                  yearHigh: quote.high52,
-                  openPrice: quote.open
-                }]
-              })
-            })
-        })
-      })
+  setTimeout(function () { setLoading(false); }, 3000);
 
-    axios.get('http://localhost:3000/nse/get_losers')
-      .then(res => {
-        const quotes = res.data.data;
-        quotes.map(q => {
-          axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
-            .then(res => {
-              const quote = res.data.data[0];
-              setTopLosers(state => {
-                return [...state, {
-                  symbol: quote.symbol,
-                  name: quote.companyName,
-                  dayHigh: quote.dayHigh,
-                  dayLow: quote.dayLow,
-                  previousClose: quote.previousClose,
-                  currentPrice: quote.closePrice,
-                  yearLow: quote.low52,
-                  yearHigh: quote.high52,
-                  openPrice: quote.open
-                }]
-              })
-            })
-        })
-      })
-  }, []);
+  // useEffect(() => {
+  //   axios.get('http://localhost:3000/nse/get_gainers')
+  //     .then(res => {
+  //       const quotes = res.data.data;
+  //       quotes.map(q => {
+  //         axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
+  //           .then(res => {
+  //             const quote = res.data.data[0];
+  //             setTopGainers(state => {
+  //               return [...state, {
+  //                 symbol: quote.symbol,
+  //                 name: quote.companyName,
+  //                 dayHigh: quote.dayHigh,
+  //                 dayLow: quote.dayLow,
+  //                 previousClose: quote.previousClose,
+  //                 currentPrice: quote.closePrice,
+  //                 yearLow: quote.low52,
+  //                 yearHigh: quote.high52,
+  //                 openPrice: quote.open
+  //               }]
+  //             })
+  //           })
+  //       })
+  //     })
+
+  //   axios.get('http://localhost:3000/nse/get_losers')
+  //     .then(res => {
+  //       const quotes = res.data.data;
+  //       quotes.map(q => {
+  //         axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
+  //           .then(res => {
+  //             const quote = res.data.data[0];
+  //             setTopLosers(state => {
+  //               return [...state, {
+  //                 symbol: quote.symbol,
+  //                 name: quote.companyName,
+  //                 dayHigh: quote.dayHigh,
+  //                 dayLow: quote.dayLow,
+  //                 previousClose: quote.previousClose,
+  //                 currentPrice: quote.closePrice,
+  //                 yearLow: quote.low52,
+  //                 yearHigh: quote.high52,
+  //                 openPrice: quote.open
+  //               }]
+  //             })
+  //           })
+  //       })
+  //     })
+  // }, []);
 
   return (
     <CustomLayout>
       <Collapse defaultActiveKey={['1', '2']} ghost>
         <Panel header={<Title type="success" level={4}>Top Gainers</Title>} showArrow={false} key="1">
-          <StockCardList stockList={topGainers}></StockCardList>
+          <StockCardList stockList={stocks} loading={loading}></StockCardList>
         </Panel>
         <Panel header={<Title type="danger" level={4}>Top Losers</Title>} showArrow={false} key="2">
-          <StockCardList stockList={topLosers}></StockCardList>
+          <StockCardList stockList={stocks1} loading={loading}></StockCardList>
         </Panel>
       </Collapse>
     </CustomLayout>
