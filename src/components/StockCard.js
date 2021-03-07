@@ -2,6 +2,7 @@ import { Avatar, Card, Skeleton, Typography } from 'antd';
 import React from 'react';
 import { useHistory } from 'react-router';
 import { INR } from "../constants/constants";
+import { getAvatarText } from '../utils/utils';
 const { Text } = Typography;
 const { Meta } = Card;
 
@@ -21,7 +22,7 @@ const StockCard = (props) => {
     >
       <Skeleton loading={props.loading} avatar active>
         <Meta
-          avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
+          avatar={<Avatar >{getAvatarText(props.name)}</Avatar>}
           title={props.name}
           description={props.symbol}
         />

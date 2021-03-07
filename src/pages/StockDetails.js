@@ -4,6 +4,7 @@ import React from 'react';
 import CustomLayout from '../components/CustomLayout';
 import CustomPropertyText from '../components/CustomPropertyText';
 import { INR, NSE_QUOTE_URL } from "../constants/constants";
+import { getAvatarText } from '../utils/utils';
 
 const { Title, Link, Text } = Typography;
 const { Meta } = Card;
@@ -29,7 +30,7 @@ const StockDetails = (props) => {
           extra={<Button style={{ borderStyle: 'none' }} shape='circle' icon={<HeartOutlined />}></Button>}
         >
           <Meta
-            avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
+            avatar={<Avatar>{getAvatarText(stockInfo.name)}</Avatar>}
             title={<Title level={4}>{stockInfo.name}</Title>}
             description={<Title level={5}>{INR}{stockInfo.currentPrice}</Title>}
           />
