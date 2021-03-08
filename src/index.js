@@ -8,6 +8,7 @@ import StockDetails from './pages/StockDetails';
 import Home from './pages/Home';
 import Investments from './pages/Investments';
 import Transactions from './pages/Transactions';
+import Favorites from './pages/Favorites';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -17,6 +18,7 @@ ReactDOM.render(
         <Route path="/stocks/:symbol" component={StockDetails} />
         <Route path="/my-investments" component={Investments} />
         <Route path="/transactions" component={Transactions} />
+        <Route path="/favorites" component={Favorites} />
       </Switch>
     </Router>
   </React.StrictMode>,
