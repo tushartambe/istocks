@@ -12,7 +12,7 @@ const CustomHeader = (props) => {
 
   const onSelect = (value) => {
     let URL = "/stocks/" + value;
-    return <Redirect to={URL} />
+    window.location.href = URL;
   };
 
   return (

@@ -4,6 +4,7 @@ import CustomLayout from '../components/CustomLayout';
 import StockCard from '../components/StockCard';
 import StockCardList from '../components/StockCardList';
 import { Collapse, Typography } from 'antd';
+import IndexCard from '../components/IndexCard';
 
 const { Panel } = Collapse;
 const { Title } = Typography;
@@ -145,6 +146,13 @@ const Home = (props) => {
 
   return (
     <CustomLayout>
+      <IndexCard
+        indexName={"NIFTY"}
+        exchangeName={"NSE"}
+        currentValue={13000}
+        previousClose={12000}
+      >
+      </IndexCard>
       <Collapse defaultActiveKey={['1', '2']} ghost>
         <Panel header={<Title type="success" level={4}>Top Gainers</Title>} showArrow={false} key="1">
           <StockCardList stockList={stocks} loading={loading}></StockCardList>
