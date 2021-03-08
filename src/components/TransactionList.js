@@ -97,6 +97,7 @@ const TransactionList = (props) => {
           rowExpandable: record => record.stockDetails !== null,
           expandRowByClick: true
         }}
+        rowKey="transactionId"
         size='large'
       />
     </div>

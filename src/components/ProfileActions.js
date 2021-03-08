@@ -15,7 +15,7 @@ const ProfileActions = (props) => {
   const history = useHistory();
   const menu = (
     <Menu>
-      <Menu.Item key="1" icon={<WalletOutlined />} onClick={() => history.push("/my-investments")}>
+      <Menu.Item key="1" icon={<WalletOutlined />} onClick={() => history.push("/transactions")}>
         Wallet
     </Menu.Item>
       <Menu.Item key="2" icon={<FileDoneOutlined />} onClick={() => history.push("/transactions")}>
