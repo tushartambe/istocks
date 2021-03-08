@@ -149,8 +149,8 @@ const Home = (props) => {
       <IndexCard
         indexName={"NIFTY"}
         exchangeName={"NSE"}
-        currentValue={13000}
-        previousClose={12000}
+        currentValue={13000.90}
+        previousClose={13100.11}
       >
       </IndexCard>
       <Collapse defaultActiveKey={['1', '2']} ghost>

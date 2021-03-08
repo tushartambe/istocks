@@ -7,3 +7,7 @@ export const getAvatarText = (input) => {
     return initails[0][0] + (initails[1] ? initails[1][0] : "");
   }
 }
+
+export const roundToTwoDigits = (number) => {
+  return Math.round(number * 100) / 100;
+}
