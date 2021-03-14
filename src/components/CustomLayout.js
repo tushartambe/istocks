@@ -1,23 +1,21 @@
+import { Layout } from 'antd';
 import React from 'react';
-import CustomHeader from './CustomHeader';
 import { layoutStyle } from '../styles';
 import CustomFooter from './CustomFooter';
-import { Input, Layout, Typography } from 'antd';
+import CustomHeader from './CustomHeader';
 
 const { Footer, Header, Content } = Layout;
 const CustomLayout = (props) => {
   return (
-    <div>
-      <Layout style={layoutStyle}>
-        <Header>
-          <CustomHeader></CustomHeader>
-        </Header>
-        <Content style={{ margin: 10 }}>{props.children}</Content>
-        <Footer>
-          <CustomFooter></CustomFooter>
-        </Footer>
-      </Layout>
-    </div>
+    <Layout style={layoutStyle}>
+      <Header>
+        <CustomHeader></CustomHeader>
+      </Header>
+      <Content style={{ margin: 10 }}>{props.children}</Content>
+      <Footer>
+        <CustomFooter></CustomFooter>
+      </Footer>
+    </Layout>
   );
 };
 

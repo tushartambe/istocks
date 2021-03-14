@@ -2,19 +2,22 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import StockDetails from './pages/StockDetails';
+import Favorites from './pages/Favorites';
 import Home from './pages/Home';
 import Investments from './pages/Investments';
+import Login from './pages/Login';
+import Register from './pages/Register';
+import StockDetails from './pages/StockDetails';
 import Transactions from './pages/Transactions';
-import Favorites from './pages/Favorites';
+import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <Router>
       <Switch>
         <Route exact path="/" component={Home} />
+        <Route path="/login" component={Login} />
+        <Route path="/register" component={Register} />
         <Route path="/stocks/:symbol" component={StockDetails} />
         <Route path="/my-investments" component={Investments} />
         <Route path="/transactions" component={Transactions} />
