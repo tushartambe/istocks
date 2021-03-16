@@ -3,16 +3,28 @@ import {
   FileDoneOutlined,
   HeartOutlined,
   LogoutOutlined,
-  WalletOutlined,
-  UserOutlined
+  UserOutlined,
+  WalletOutlined
 } from '@ant-design/icons';
-import { Menu, Dropdown, Button } from 'antd';
+import { Button, Dropdown, Menu, notification } from 'antd';
 import React from 'react';
-import { Link, useHistory } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
+import { JWT_TOKEN } from '../utils/APIUtils';
 
 
 const ProfileActions = (props) => {
   const history = useHistory();
+
+  const logout = () => {
+    localStorage.removeItem(JWT_TOKEN);
+
+    history.push("/login");
+
+    notification.success({
+      message: 'iStocks',
+      description: "You've successfully logged out.",
+    });
+  }
   const menu = (
     <Menu>
       <Menu.Item key="1" icon={<WalletOutlined />} onClick={() => history.push("/transactions")}>
@@ -27,7 +39,7 @@ const ProfileActions = (props) => {
       <Menu.Item key="4" icon={<HeartOutlined />} onClick={() => history.push("/favorites")}>
         Favorites
     </Menu.Item>
-      <Menu.Item key="5" icon={<LogoutOutlined />} onClick={() => history.push("/logout")}>
+      <Menu.Item key="5" icon={<LogoutOutlined />} onClick={logout}>
         Log Out
     </Menu.Item>
     </Menu>

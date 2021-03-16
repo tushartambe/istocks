@@ -1,9 +1,9 @@
-import { StockOutlined, DownOutlined, UserOutlined } from '@ant-design/icons';
-import { Button, Input, AutoComplete, Typography, Dropdown } from 'antd';
-import React, { useState } from 'react';
-import { Link, Redirect } from 'react-router-dom';
-import ProfileActions from './ProfileActions';
+import { StockOutlined } from '@ant-design/icons';
+import { AutoComplete, Input, Typography } from 'antd';
+import React from 'react';
+import { Link } from 'react-router-dom';
 import allStocks from "../constants/allStocks";
+import ProfileActions from './ProfileActions';
 
 const { Title } = Typography;
 const { Search } = Input;
