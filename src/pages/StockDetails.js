@@ -3,6 +3,7 @@ import { Avatar, Button, Card, Col, Tooltip, Slider, InputNumber, Divider, Row, 
 import React from 'react';
 import CustomLayout from '../components/CustomLayout';
 import CustomPropertyText from '../components/CustomPropertyText';
+import allStocks from '../constants/allStocks';
 import { INR, NSE_QUOTE_URL } from "../constants/constants";
 import { getAvatarText } from '../utils/utils';
 import './StockDetails.css';
@@ -15,6 +16,7 @@ const StockDetails = (props) => {
   // const [stockInfo, setStockInfo] = useState();
   const stockInfo = {
     name: "Tata Motors",
+    symbol: "TATAMOTORS",
     currentPrice: 9807,
     openPrice: 9789,
     previousClose: 7788,
@@ -23,6 +25,8 @@ const StockDetails = (props) => {
     yearLow: 8890,
     yearHigh: 10200
   }
+
+  const stock = allStocks.find(element => element.value === stockInfo.symbol);
 
   const tipFormatter = (value) => {
     return (
@@ -39,7 +43,7 @@ const StockDetails = (props) => {
           extra={<Button style={{ borderStyle: 'none' }} shape='circle' icon={<HeartOutlined />}></Button>}
         >
           <Meta
-            avatar={<Avatar>{getAvatarText(stockInfo.name)}</Avatar>}
+            avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle' }} size="large" gap={4}>{getAvatarText(stockInfo.name)}</Avatar>}
             title={<Title level={4}>{stockInfo.name}</Title>}
             description={<Title level={5}>{INR}{stockInfo.currentPrice}</Title>}
           />

@@ -1,7162 +1,8952 @@
 export default [
   {
     "value": "RELIANCE",
-    "label": "Reliance Industries Limited"
+    "label": "Reliance Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "TCS",
-    "label": "Tata Consultancy Services Limited"
+    "label": "Tata Consultancy Services Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "HDFCBANK",
-    "label": "HDFC Bank Limited"
+    "label": "HDFC Bank Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "HINDUNILVR",
-    "label": "Hindustan Unilever Limited"
+    "label": "Hindustan Unilever Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "INFY",
-    "label": "Infosys Limited"
+    "label": "Infosys Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "HDFC",
-    "label": "Housing Development Finance Corporation Limited"
+    "label": "Housing Development Finance Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "KOTAKBANK",
-    "label": "Kotak Mahindra Bank Limited"
+    "label": "Kotak Mahindra Bank Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "ICICIBANK",
-    "label": "ICICI Bank Limited"
+    "label": "ICICI Bank Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "BAJFINANCE",
-    "label": "Bajaj Finance Limited"
+    "label": "Bajaj Finance Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "BHARTIARTL",
-    "label": "Bharti Airtel Limited"
+    "label": "Bharti Airtel Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "ASIANPAINT",
-    "label": "Asian Paints Limited"
+    "label": "Asian Paints Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "ITC",
-    "label": "ITC Limited"
+    "label": "ITC Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "HCLTECH",
-    "label": "HCL Technologies Limited"
+    "label": "HCL Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SBIN",
-    "label": "State Bank of India"
+    "label": "State Bank of India",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "MARUTI",
-    "label": "Maruti Suzuki India Limited"
+    "label": "Maruti Suzuki India Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "WIPRO",
-    "label": "Wipro Limited"
+    "label": "Wipro Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "AXISBANK",
-    "label": "Axis Bank Limited"
+    "label": "Axis Bank Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "LT",
-    "label": "Larsen & Toubro Limited"
+    "label": "Larsen & Toubro Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "DMART",
-    "label": "Avenue Supermarts Limited"
+    "label": "Avenue Supermarts Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "ADANIGREEN",
-    "label": "Adani Green Energy Limited"
+    "label": "Adani Green Energy Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "ULTRACEMCO",
-    "label": "UltraTech Cement Limited"
+    "label": "UltraTech Cement Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SUNPHARMA",
-    "label": "Sun Pharmaceutical Industries Limited"
+    "label": "Sun Pharmaceutical Industries Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "BAJAJFINSV",
-    "label": "Bajaj Finserv Limited"
+    "label": "Bajaj Finserv Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "TITAN",
-    "label": "Titan Company Limited"
+    "label": "Titan Company Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "HDFCLIFE",
-    "label": "HDFC Life Insurance Company Limited"
+    "label": "HDFC Life Insurance Company Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "ONGC",
-    "label": "Oil & Natural Gas Corporation Limited"
+    "label": "Oil & Natural Gas Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "DIVISLAB",
-    "label": "Divi's Laboratories Limited"
+    "label": "Divi's Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "HINDZINC",
-    "label": "Hindustan Zinc Limited"
+    "label": "Hindustan Zinc Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "BAJAJ-AUTO",
-    "label": "Bajaj Auto Limited"
+    "label": "Bajaj Auto Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "POWERGRID",
-    "label": "Power Grid Corporation of India Limited"
+    "label": "Power Grid Corporation of India Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "NTPC",
-    "label": "NTPC Limited"
+    "label": "NTPC Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "ADANIPORTS",
-    "label": "Adani Ports and Special Economic Zone Limited"
+    "label": "Adani Ports and Special Economic Zone Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "DABUR",
-    "label": "Dabur India Limited"
+    "label": "Dabur India Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "TECHM",
-    "label": "Tech Mahindra Limited"
+    "label": "Tech Mahindra Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "JSWSTEEL",
-    "label": "JSW Steel Limited"
+    "label": "JSW Steel Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "SBILIFE",
-    "label": "SBI Life Insurance Company Limited"
+    "label": "SBI Life Insurance Company Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "PIDILITIND",
-    "label": "Pidilite Industries Limited"
+    "label": "Pidilite Industries Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "M&M",
-    "label": "Mahindra & Mahindra Limited"
+    "label": "Mahindra & Mahindra Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SHREECEM",
-    "label": "SHREE CEMENT LIMITED"
+    "label": "SHREE CEMENT LIMITED",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "DRREDDY",
-    "label": "Dr. Reddy's Laboratories Limited"
+    "label": "Dr. Reddy's Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "BRITANNIA",
-    "label": "Britannia Industries Limited"
+    "label": "Britannia Industries Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "IOC",
-    "label": "Indian Oil Corporation Limited"
+    "label": "Indian Oil Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "COALINDIA",
-    "label": "Coal India Limited"
+    "label": "Coal India Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "BPCL",
-    "label": "Bharat Petroleum Corporation Limited"
+    "label": "Bharat Petroleum Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "SBICARD",
-    "label": "SBI Cards and Payment Services Limited"
+    "label": "SBI Cards and Payment Services Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "GODREJCP",
-    "label": "Godrej Consumer Products Limited"
+    "label": "Godrej Consumer Products Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "BERGEPAINT",
-    "label": "Berger Paints (I) Limited"
+    "label": "Berger Paints (I) Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "TATASTEEL",
-    "label": "Tata Steel Limited"
+    "label": "Tata Steel Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "ICICIPRULI",
-    "label": "ICICI Prudential Life Insurance Company Limited"
+    "label": "ICICI Prudential Life Insurance Company Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "EICHERMOT",
-    "label": "Eicher Motors Limited"
+    "label": "Eicher Motors Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "ICICIGI",
-    "label": "ICICI Lombard General Insurance Company Limited"
+    "label": "ICICI Lombard General Insurance Company Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "INDUSINDBK",
-    "label": "IndusInd Bank Limited"
+    "label": "IndusInd Bank Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "INDIGO",
-    "label": "InterGlobe Aviation Limited"
+    "label": "InterGlobe Aviation Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "CIPLA",
-    "label": "Cipla Limited"
+    "label": "Cipla Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "BANDHANBNK",
-    "label": "Bandhan Bank Limited"
+    "label": "Bandhan Bank Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "LTI",
-    "label": "Larsen & Toubro Infotech Limited"
+    "label": "Larsen & Toubro Infotech Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "HEROMOTOCO",
-    "label": "Hero MotoCorp Limited"
+    "label": "Hero MotoCorp Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "HDFCAMC",
-    "label": "HDFC Asset Management Company Limited"
+    "label": "HDFC Asset Management Company Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "INDUSTOWER",
-    "label": "Indus Towers Limited"
+    "label": "Indus Towers Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "NAUKRI",
-    "label": "Info Edge (India) Limited"
+    "label": "Info Edge (India) Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "GRASIM",
-    "label": "Grasim Industries Limited"
+    "label": "Grasim Industries Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "VEDL",
-    "label": "Vedanta Limited"
+    "label": "Vedanta Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "DLF",
-    "label": "DLF Limited"
+    "label": "DLF Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "HAVELLS",
-    "label": "Havells India Limited"
+    "label": "Havells India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "TATAMOTORS",
-    "label": "Tata Motors Limited"
+    "label": "Tata Motors Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "SIEMENS",
-    "label": "Siemens Limited"
+    "label": "Siemens Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "BIOCON",
-    "label": "Biocon Limited"
+    "label": "Biocon Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "GAIL",
-    "label": "GAIL (India) Limited"
+    "label": "GAIL (India) Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "TATACONSUM",
-    "label": "TATA CONSUMER PRODUCTS LIMITED"
+    "label": "TATA CONSUMER PRODUCTS LIMITED",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "HINDALCO",
-    "label": "Hindalco Industries Limited"
+    "label": "Hindalco Industries Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "AUROPHARMA",
-    "label": "Aurobindo Pharma Limited"
+    "label": "Aurobindo Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "ADANIENT",
-    "label": "Adani Enterprises Limited"
+    "label": "Adani Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MOTHERSUMI",
-    "label": "Motherson Sumi Systems Limited"
+    "label": "Motherson Sumi Systems Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "MARICO",
-    "label": "Marico Limited"
+    "label": "Marico Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "AMBUJACEM",
-    "label": "Ambuja Cements Limited"
+    "label": "Ambuja Cements Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "CADILAHC",
-    "label": "Cadila Healthcare Limited"
+    "label": "Cadila Healthcare Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "MUTHOOTFIN",
-    "label": "Muthoot Finance Limited"
+    "label": "Muthoot Finance Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ADANITRANS",
-    "label": "Adani Transmission Limited"
+    "label": "Adani Transmission Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "TORNTPHARM",
-    "label": "Torrent Pharmaceuticals Limited"
+    "label": "Torrent Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "YESBANK",
-    "label": "Yes Bank Limited"
+    "label": "Yes Bank Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "LUPIN",
-    "label": "Lupin Limited"
+    "label": "Lupin Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "COLPAL",
-    "label": "Colgate Palmolive (India) Limited"
+    "label": "Colgate Palmolive (India) Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "MCDOWELL-N",
-    "label": "United Spirits Limited"
+    "label": "United Spirits Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ADANIGAS",
-    "label": "Adani Gas Limited"
+    "label": "Adani Gas Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "GLAND",
-    "label": "Gland Pharma Limited"
+    "label": "Gland Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "BOSCHLTD",
-    "label": "Bosch Limited"
+    "label": "Bosch Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "PETRONET",
-    "label": "Petronet LNG Limited"
+    "label": "Petronet LNG Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "JUBLFOOD",
-    "label": "Jubilant Foodworks Limited"
+    "label": "Jubilant Foodworks Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "GODREJPROP",
-    "label": "Godrej Properties Limited"
+    "label": "Godrej Properties Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "PGHH",
-    "label": "Procter & Gamble Hygiene and Health Care Limited"
+    "label": "Procter & Gamble Hygiene and Health Care Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "UPL",
-    "label": "UPL Limited"
+    "label": "UPL Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "IGL",
-    "label": "Indraprastha Gas Limited"
+    "label": "Indraprastha Gas Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "NMDC",
-    "label": "NMDC Limited"
+    "label": "NMDC Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "ALKEM",
-    "label": "Alkem Laboratories Limited"
+    "label": "Alkem Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BAJAJHLDNG",
-    "label": "Bajaj Holdings & Investment Limited"
+    "label": "Bajaj Holdings & Investment Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "APOLLOHOSP",
-    "label": "Apollo Hospitals Enterprise Limited"
+    "label": "Apollo Hospitals Enterprise Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "WHIRLPOOL",
-    "label": "Whirlpool of India Limited"
+    "label": "Whirlpool of India Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "PIIND",
-    "label": "PI Industries Limited"
+    "label": "PI Industries Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "HINDPETRO",
-    "label": "Hindustan Petroleum Corporation Limited"
+    "label": "Hindustan Petroleum Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "HONAUT",
-    "label": "Honeywell Automation India Limited"
+    "label": "Honeywell Automation India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "KANSAINER",
-    "label": "Kansai Nerolac Paints Limited"
+    "label": "Kansai Nerolac Paints Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "IDBI",
-    "label": "IDBI Bank Limited"
+    "label": "IDBI Bank Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "PEL",
-    "label": "Piramal Enterprises Limited"
+    "label": "Piramal Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MRF",
-    "label": "MRF Limited"
+    "label": "MRF Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SRF",
-    "label": "SRF Limited"
+    "label": "SRF Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "BALKRISIND",
-    "label": "Balkrishna Industries Limited"
+    "label": "Balkrishna Industries Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "CHOLAFIN",
-    "label": "Cholamandalam Investment and Finance Company Limited"
+    "label": "Cholamandalam Investment and Finance Company Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "TATACOMM",
-    "label": "Tata Communications Limited"
+    "label": "Tata Communications Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "UBL",
-    "label": "United Breweries Limited"
+    "label": "United Breweries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "PNB",
-    "label": "Punjab National Bank"
+    "label": "Punjab National Bank",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "PAGEIND",
-    "label": "Page Industries Limited"
+    "label": "Page Industries Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "SAIL",
-    "label": "Steel Authority of India Limited"
+    "label": "Steel Authority of India Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "IDEA",
-    "label": "Vodafone Idea Limited"
+    "label": "Vodafone Idea Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ACC",
-    "label": "ACC Limited"
+    "label": "ACC Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "PFC",
-    "label": "Power Finance Corporation Limited"
+    "label": "Power Finance Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "BEL",
-    "label": "Bharat Electronics Limited"
+    "label": "Bharat Electronics Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "MPHASIS",
-    "label": "MphasiS Limited"
+    "label": "MphasiS Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BANKBARODA",
-    "label": "Bank of Baroda"
+    "label": "Bank of Baroda",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "HAL",
-    "label": "Hindustan Aeronautics Limited"
+    "label": "Hindustan Aeronautics Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "ASHOKLEY",
-    "label": "Ashok Leyland Limited"
+    "label": "Ashok Leyland Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "IPCALAB",
-    "label": "IPCA Laboratories Limited"
+    "label": "IPCA Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "OFSS",
-    "label": "Oracle Financial Services Software Limited"
+    "label": "Oracle Financial Services Software Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "GLAXO",
-    "label": "GlaxoSmithKline Pharmaceuticals Limited"
+    "label": "GlaxoSmithKline Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "MINDTREE",
-    "label": "MindTree Limited"
+    "label": "MindTree Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "VOLTAS",
-    "label": "Voltas Limited"
+    "label": "Voltas Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "JINDALSTEL",
-    "label": "Jindal Steel & Power Limited"
+    "label": "Jindal Steel & Power Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "ASTRAL",
-    "label": "Astral Poly Technik Limited"
+    "label": "Astral Poly Technik Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SRTRANSFIN",
-    "label": "Shriram Transport Finance Company Limited"
+    "label": "Shriram Transport Finance Company Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "VBL",
-    "label": "Varun Beverages Limited"
+    "label": "Varun Beverages Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "RECLTD",
-    "label": "REC Limited"
+    "label": "REC Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "AUBANK",
-    "label": "AU Small Finance Bank Limited"
+    "label": "AU Small Finance Bank Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "GUJGASLTD",
-    "label": "Gujarat Gas Limited"
+    "label": "Gujarat Gas Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ABB",
-    "label": "ABB India Limited"
+    "label": "ABB India Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SYNGENE",
-    "label": "Syngene International Limited"
+    "label": "Syngene International Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "LTTS",
-    "label": "L&T Technology Services Limited"
+    "label": "L&T Technology Services Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "BHARATFORG",
-    "label": "Bharat Forge Limited"
+    "label": "Bharat Forge Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "TRENT",
-    "label": "Trent Limited"
+    "label": "Trent Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "GICRE",
-    "label": "General Insurance Corporation of India"
+    "label": "General Insurance Corporation of India",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "CONCOR",
-    "label": "Container Corporation of India Limited"
+    "label": "Container Corporation of India Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "TATAPOWER",
-    "label": "Tata Power Company Limited"
+    "label": "Tata Power Company Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "COROMANDEL",
-    "label": "Coromandel International Limited"
+    "label": "Coromandel International Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "CROMPTON",
-    "label": "Crompton Greaves Consumer Electricals Limited"
+    "label": "Crompton Greaves Consumer Electricals Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "3MINDIA",
-    "label": "3M India Limited"
+    "label": "3M India Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "PFIZER",
-    "label": "Pfizer Limited"
+    "label": "Pfizer Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "TVSMOTOR",
-    "label": "TVS Motor Company Limited"
+    "label": "TVS Motor Company Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "IRCTC",
-    "label": "Indian Railway Catering And Tourism Corporation Limited"
+    "label": "Indian Railway Catering And Tourism Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "NHPC",
-    "label": "NHPC Limited"
+    "label": "NHPC Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "M&MFIN",
-    "label": "Mahindra & Mahindra Financial Services Limited"
+    "label": "Mahindra & Mahindra Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "AARTIIND",
-    "label": "Aarti Industries Limited"
+    "label": "Aarti Industries Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ZEEL",
-    "label": "Zee Entertainment Enterprises Limited"
+    "label": "Zee Entertainment Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "NIACL",
-    "label": "The New India Assurance Company Limited"
+    "label": "The New India Assurance Company Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "OBEROIRLTY",
-    "label": "Oberoi Realty Limited"
+    "label": "Oberoi Realty Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "IDFCFIRSTB",
-    "label": "IDFC First Bank Limited"
+    "label": "IDFC First Bank Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SUPREMEIND",
-    "label": "Supreme Industries Limited"
+    "label": "Supreme Industries Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ABCAPITAL",
-    "label": "Aditya Birla Capital Limited"
+    "label": "Aditya Birla Capital Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "APLLTD",
-    "label": "Alembic Pharmaceuticals Limited"
+    "label": "Alembic Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BATAINDIA",
-    "label": "Bata India Limited"
+    "label": "Bata India Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "UNIONBANK",
-    "label": "Union Bank of India"
+    "label": "Union Bank of India",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "DALBHARAT",
-    "label": "Dalmia Bharat Limited"
+    "label": "Dalmia Bharat Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "RELAXO",
-    "label": "Relaxo Footwears Limited"
+    "label": "Relaxo Footwears Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SUNDARMFIN",
-    "label": "Sundaram Finance Limited"
+    "label": "Sundaram Finance Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "RUCHI",
-    "label": "Ruchi Soya Industries Limited"
+    "label": "Ruchi Soya Industries Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "LALPATHLAB",
-    "label": "Dr. Lal Path Labs Ltd."
+    "label": "Dr. Lal Path Labs Ltd.",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "ADANIPOWER",
-    "label": "Adani Power Limited"
+    "label": "Adani Power Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SANOFI",
-    "label": "Sanofi India Limited"
+    "label": "Sanofi India Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "ATUL",
-    "label": "Atul Limited"
+    "label": "Atul Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ENDURANCE",
-    "label": "Endurance Technologies Limited"
+    "label": "Endurance Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SUNTV",
-    "label": "Sun TV Network Limited"
+    "label": "Sun TV Network Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "LAURUSLABS",
-    "label": "Laurus Labs Limited"
+    "label": "Laurus Labs Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "GILLETTE",
-    "label": "Gillette India Limited"
+    "label": "Gillette India Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "EMAMILTD",
-    "label": "Emami Limited"
+    "label": "Emami Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "L&TFH",
-    "label": "L&T Finance Holdings Limited"
+    "label": "L&T Finance Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "RAMCOCEM",
-    "label": "The Ramco Cements Limited"
+    "label": "The Ramco Cements Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "CANBK",
-    "label": "Canara Bank"
+    "label": "Canara Bank",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "AIAENG",
-    "label": "AIA Engineering Limited"
+    "label": "AIA Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "INDIAMART",
-    "label": "Indiamart Intermesh Limited"
+    "label": "Indiamart Intermesh Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "LICHSGFIN",
-    "label": "LIC Housing Finance Limited"
+    "label": "LIC Housing Finance Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "NAM-INDIA",
-    "label": "Nippon Life India Asset Management Limited"
+    "label": "Nippon Life India Asset Management Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MFSL",
-    "label": "Max Financial Services Limited"
+    "label": "Max Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "IOB",
-    "label": "Indian Overseas Bank"
+    "label": "Indian Overseas Bank",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "NATCOPHARM",
-    "label": "Natco Pharma Limited"
+    "label": "Natco Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ESCORTS",
-    "label": "Escorts Limited"
+    "label": "Escorts Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "DHANI",
-    "label": "Dhani Services Limited"
+    "label": "Dhani Services Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "COFORGE",
-    "label": "Coforge Limited"
+    "label": "Coforge Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "EXIDEIND",
-    "label": "Exide Industries Limited"
+    "label": "Exide Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "GMRINFRA",
-    "label": "GMR Infrastructure Limited"
+    "label": "GMR Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "BANKINDIA",
-    "label": "Bank of India"
+    "label": "Bank of India",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "CUMMINSIND",
-    "label": "Cummins India Limited"
+    "label": "Cummins India Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "AMARAJABAT",
-    "label": "Amara Raja Batteries Limited"
+    "label": "Amara Raja Batteries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "HATSUN",
-    "label": "Hatsun Agro Product Limited"
+    "label": "Hatsun Agro Product Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "DIXON",
-    "label": "Dixon Technologies (India) Limited"
+    "label": "Dixon Technologies (India) Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "POLYCAB",
-    "label": "Polycab India Limited"
+    "label": "Polycab India Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "TORNTPOWER",
-    "label": "Torrent Power Limited"
+    "label": "Torrent Power Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "TIINDIA",
-    "label": "Tube Investments of India Limited"
+    "label": "Tube Investments of India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "ISEC",
-    "label": "ICICI Securities Limited"
+    "label": "ICICI Securities Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "JKCEMENT",
-    "label": "JK Cement Limited"
+    "label": "JK Cement Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SUMICHEM",
-    "label": "Sumitomo Chemical India Limited"
+    "label": "Sumitomo Chemical India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "RAJESHEXPO",
-    "label": "Rajesh Exports Limited"
+    "label": "Rajesh Exports Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "INDHOTEL",
-    "label": "The Indian Hotels Company Limited"
+    "label": "The Indian Hotels Company Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "AJANTPHARM",
-    "label": "Ajanta Pharma Limited"
+    "label": "Ajanta Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "GODREJIND",
-    "label": "Godrej Industries Limited"
+    "label": "Godrej Industries Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "SCHAEFFLER",
-    "label": "Schaeffler India Limited"
+    "label": "Schaeffler India Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "MANAPPURAM",
-    "label": "Manappuram Finance Limited"
+    "label": "Manappuram Finance Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "CRISIL",
-    "label": "CRISIL Limited"
+    "label": "CRISIL Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "GLENMARK",
-    "label": "Glenmark Pharmaceuticals Limited"
+    "label": "Glenmark Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "RBLBANK",
-    "label": "RBL Bank Limited"
+    "label": "RBL Bank Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "JUBILANT",
-    "label": "Jubilant Life Sciences Limited"
+    "label": "Jubilant Life Sciences Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "FEDERALBNK",
-    "label": "The Federal Bank  Limited"
+    "label": "The Federal Bank  Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "PHOENIXLTD",
-    "label": "The Phoenix Mills Limited"
+    "label": "The Phoenix Mills Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "AAVAS",
-    "label": "Aavas Financiers Limited"
+    "label": "Aavas Financiers Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "CUB",
-    "label": "City Union Bank Limited"
+    "label": "City Union Bank Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "NAVINFLUOR",
-    "label": "Navin Fluorine International Limited"
+    "label": "Navin Fluorine International Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "DEEPAKNTR",
-    "label": "Deepak Nitrite Limited"
+    "label": "Deepak Nitrite Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "ABFRL",
-    "label": "Aditya Birla Fashion and Retail Limited"
+    "label": "Aditya Birla Fashion and Retail Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "MAXHEALTH",
-    "label": "Max Healthcare Institute Limited"
+    "label": "Max Healthcare Institute Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "ZYDUSWELL",
-    "label": "Zydus Wellness Limited"
+    "label": "Zydus Wellness Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "UCOBANK",
-    "label": "UCO Bank"
+    "label": "UCO Bank",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "GSPL",
-    "label": "Gujarat State Petronet Limited"
+    "label": "Gujarat State Petronet Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "BHEL",
-    "label": "Bharat Heavy Electricals Limited"
+    "label": "Bharat Heavy Electricals Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "VINATIORGA",
-    "label": "Vinati Organics Limited"
+    "label": "Vinati Organics Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "CASTROLIND",
-    "label": "Castrol India Limited"
+    "label": "Castrol India Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "TATACHEM",
-    "label": "Tata Chemicals Limited"
+    "label": "Tata Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "CREDITACC",
-    "label": "CREDITACCESS GRAMEEN LIMITED"
+    "label": "CREDITACCESS GRAMEEN LIMITED",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "FORTIS",
-    "label": "Fortis Healthcare Limited"
+    "label": "Fortis Healthcare Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "ITI",
-    "label": "ITI Limited"
+    "label": "ITI Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "OIL",
-    "label": "Oil India Limited"
+    "label": "Oil India Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "PERSISTENT",
-    "label": "Persistent Systems Limited"
+    "label": "Persistent Systems Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "ALOKINDS",
-    "label": "Alok Industries Limited"
+    "label": "Alok Industries Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "ASTRAZEN",
-    "label": "AstraZeneca Pharma India Limited"
+    "label": "AstraZeneca Pharma India Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "SUVENPHAR",
-    "label": "Suven Pharmaceuticals Limited"
+    "label": "Suven Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "TATAELXSI",
-    "label": "Tata Elxsi Limited"
+    "label": "Tata Elxsi Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "PGHL",
-    "label": "Procter & Gamble Health Limited"
+    "label": "Procter & Gamble Health Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "KAJARIACER",
-    "label": "Kajaria Ceramics Limited"
+    "label": "Kajaria Ceramics Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "JSWENERGY",
-    "label": "JSW Energy Limited"
+    "label": "JSW Energy Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "APLAPOLLO",
-    "label": "APL Apollo Tubes Limited"
+    "label": "APL Apollo Tubes Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SUNDRMFAST",
-    "label": "Sundram Fasteners Limited"
+    "label": "Sundram Fasteners Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "AKZOINDIA",
-    "label": "Akzo Nobel India Limited"
+    "label": "Akzo Nobel India Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "MINDAIND",
-    "label": "Minda Industries Limited"
+    "label": "Minda Industries Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "THERMAX",
-    "label": "Thermax Limited"
+    "label": "Thermax Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "PRESTIGE",
-    "label": "Prestige Estates Projects Limited"
+    "label": "Prestige Estates Projects Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "WABCOINDIA",
-    "label": "WABCO India Limited"
+    "label": "WABCO India Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "MGL",
-    "label": "Mahanagar Gas Limited"
+    "label": "Mahanagar Gas Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "GODREJAGRO",
-    "label": "Godrej Agrovet Limited"
+    "label": "Godrej Agrovet Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "IBULHSGFIN",
-    "label": "Indiabulls Housing Finance Limited"
+    "label": "Indiabulls Housing Finance Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "APOLLOTYRE",
-    "label": "Apollo Tyres Limited"
+    "label": "Apollo Tyres Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "CHOLAHLDNG",
-    "label": "Cholamandalam Financial Holdings Limited"
+    "label": "Cholamandalam Financial Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "TIMKEN",
-    "label": "Timken India Limited"
+    "label": "Timken India Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "METROPOLIS",
-    "label": "Metropolis Healthcare Limited"
+    "label": "Metropolis Healthcare Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "SOLARINDS",
-    "label": "Solar Industries India Limited"
+    "label": "Solar Industries India Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "SJVN",
-    "label": "SJVN Limited"
+    "label": "SJVN Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "BLUEDART",
-    "label": "Blue Dart Express Limited"
+    "label": "Blue Dart Express Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "INDIANB",
-    "label": "Indian Bank"
+    "label": "Indian Bank",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "AFFLE",
-    "label": "Affle (India) Limited"
+    "label": "Affle (India) Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "CHAMBLFERT",
-    "label": "Chambal Fertilizers & Chemicals Limited"
+    "label": "Chambal Fertilizers & Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "KEC",
-    "label": "KEC International Limited"
+    "label": "KEC International Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "NH",
-    "label": "Narayana Hrudayalaya Ltd."
+    "label": "Narayana Hrudayalaya Ltd.",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "TANLA",
-    "label": "Tanla Platforms Limited"
+    "label": "Tanla Platforms Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "BBTC",
-    "label": "Bombay Burmah Trading Corporation Limited"
+    "label": "Bombay Burmah Trading Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "MOTILALOFS",
-    "label": "Motilal Oswal Financial Services Limited"
+    "label": "Motilal Oswal Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "IIFLWAM",
-    "label": "Iifl Wealth Management Limited"
+    "label": "Iifl Wealth Management Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "GRANULES",
-    "label": "Granules India Limited"
+    "label": "Granules India Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "AEGISCHEM",
-    "label": "Aegis Logistics Limited"
+    "label": "Aegis Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "KIOCL",
-    "label": "KIOCL Limited"
+    "label": "KIOCL Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "TTKPRESTIG",
-    "label": "TTK Prestige Limited"
+    "label": "TTK Prestige Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "MAHABANK",
-    "label": "Bank of Maharashtra"
+    "label": "Bank of Maharashtra",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "SFL",
-    "label": "Sheela Foam Limited"
+    "label": "Sheela Foam Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "SKFINDIA",
-    "label": "SKF India Limited"
+    "label": "SKF India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "LINDEINDIA",
-    "label": "Linde India Limited"
+    "label": "Linde India Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "ASTERDM",
-    "label": "Aster DM Healthcare Limited"
+    "label": "Aster DM Healthcare Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "CESC",
-    "label": "CESC Limited"
+    "label": "CESC Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "QUESS",
-    "label": "Quess Corp Limited"
+    "label": "Quess Corp Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "NATIONALUM",
-    "label": "National Aluminium Company Limited"
+    "label": "National Aluminium Company Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "JMFINANCIL",
-    "label": "JM Financial Limited"
+    "label": "JM Financial Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "FINPIPE",
-    "label": "Finolex Industries Limited"
+    "label": "Finolex Industries Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "VGUARD",
-    "label": "V-Guard Industries Limited"
+    "label": "V-Guard Industries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "EPL",
-    "label": "EPL Limited"
+    "label": "EPL Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "HUDCO",
-    "label": "Housing & Urban Development Corporation Limited"
+    "label": "Housing & Urban Development Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "GRINDWELL",
-    "label": "Grindwell Norton Limited"
+    "label": "Grindwell Norton Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "VAIBHAVGBL",
-    "label": "Vaibhav Global Limited"
+    "label": "Vaibhav Global Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "AMBER",
-    "label": "Amber Enterprises India Limited"
+    "label": "Amber Enterprises India Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "CENTRALBK",
-    "label": "Central Bank of India"
+    "label": "Central Bank of India",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "ERIS",
-    "label": "Eris Lifesciences Limited"
+    "label": "Eris Lifesciences Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "STAR",
-    "label": "Strides Pharma Science Limited"
+    "label": "Strides Pharma Science Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "JBCHEPHARM",
-    "label": "JB Chemicals & Pharmaceuticals Limited"
+    "label": "JB Chemicals & Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "ALKYLAMINE",
-    "label": "Alkyl Amines Chemicals Limited"
+    "label": "Alkyl Amines Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "FINEORG",
-    "label": "Fine Organic Industries Limited"
+    "label": "Fine Organic Industries Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "BLUESTARCO",
-    "label": "Blue Star Limited"
+    "label": "Blue Star Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "CARBORUNIV",
-    "label": "Carborundum Universal Limited"
+    "label": "Carborundum Universal Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "NLCINDIA",
-    "label": "NLC India Limited"
+    "label": "NLC India Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "RATNAMANI",
-    "label": "Ratnamani Metals & Tubes Limited"
+    "label": "Ratnamani Metals & Tubes Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "VAKRANGEE",
-    "label": "Vakrangee Limited"
+    "label": "Vakrangee Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "PVR",
-    "label": "PVR Limited"
+    "label": "PVR Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "JCHAC",
-    "label": "Johnson Controls - Hitachi Air Conditioning India Limited"
+    "label": "Johnson Controls - Hitachi Air Conditioning India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "STLTECH",
-    "label": "Sterlite Technologies Limited"
+    "label": "Sterlite Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SYMPHONY",
-    "label": "Symphony Limited"
+    "label": "Symphony Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "AVANTIFEED",
-    "label": "Avanti Feeds Limited"
+    "label": "Avanti Feeds Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "GALAXYSURF",
-    "label": "Galaxy Surfactants Limited"
+    "label": "Galaxy Surfactants Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "FSL",
-    "label": "Firstsource Solutions Limited"
+    "label": "Firstsource Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "BASF",
-    "label": "BASF India Limited"
+    "label": "BASF India Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "UTIAMC",
-    "label": "UTI Asset Management Company Limited"
+    "label": "UTI Asset Management Company Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "SHRIRAMCIT",
-    "label": "Shriram City Union Finance Limited"
+    "label": "Shriram City Union Finance Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "BAJAJELEC",
-    "label": "Bajaj Electricals Limited"
+    "label": "Bajaj Electricals Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "BSOFT",
-    "label": "BIRLASOFT LIMITED"
+    "label": "BIRLASOFT LIMITED",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "IEX",
-    "label": "Indian Energy Exchange Limited"
+    "label": "Indian Energy Exchange Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "WELSPUNIND",
-    "label": "Welspun India Limited"
+    "label": "Welspun India Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "UJJIVANSFB",
-    "label": "Ujjivan Small Finance Bank Limited"
+    "label": "Ujjivan Small Finance Bank Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "RITES",
-    "label": "RITES Limited"
+    "label": "RITES Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "ASAHIINDIA",
-    "label": "Asahi India Glass Limited"
+    "label": "Asahi India Glass Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "BURGERKING",
-    "label": "Burger King India Limited"
+    "label": "Burger King India Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "CANFINHOME",
-    "label": "Can Fin Homes Limited"
+    "label": "Can Fin Homes Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "AARTIDRUGS",
-    "label": "Aarti Drugs Limited"
+    "label": "Aarti Drugs Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MAHINDCIE",
-    "label": "Mahindra CIE Automotive Limited"
+    "label": "Mahindra CIE Automotive Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "EDELWEISS",
-    "label": "Edelweiss Financial Services Limited"
+    "label": "Edelweiss Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "SIS",
-    "label": "Security and Intelligence Services (India) Limited"
+    "label": "Security and Intelligence Services (India) Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "ROUTE",
-    "label": "ROUTE MOBILE LIMITED"
+    "label": "ROUTE MOBILE LIMITED",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "FLUOROCHEM",
-    "label": "Gujarat Fluorochemicals Limited"
+    "label": "Gujarat Fluorochemicals Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "VTL",
-    "label": "Vardhman Textiles Limited"
+    "label": "Vardhman Textiles Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "BDL",
-    "label": "Bharat Dynamics Limited"
+    "label": "Bharat Dynamics Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "MRPL",
-    "label": "Mangalore Refinery and Petrochemicals Limited"
+    "label": "Mangalore Refinery and Petrochemicals Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "DCMSHRIRAM",
-    "label": "DCM Shriram Limited"
+    "label": "DCM Shriram Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "PNBHOUSING",
-    "label": "PNB Housing Finance Limited"
+    "label": "PNB Housing Finance Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "RADICO",
-    "label": "Radico Khaitan Limited"
+    "label": "Radico Khaitan Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "EIDPARRY",
-    "label": "EID Parry India Limited"
+    "label": "EID Parry India Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "WOCKPHARMA",
-    "label": "Wockhardt Limited"
+    "label": "Wockhardt Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "KPRMILL",
-    "label": "K.P.R. Mill Limited"
+    "label": "K.P.R. Mill Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "GRAPHITE",
-    "label": "Graphite India Limited"
+    "label": "Graphite India Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "IDFC",
-    "label": "IDFC Limited"
+    "label": "IDFC Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "HATHWAY",
-    "label": "Hathway Cable & Datacom Limited"
+    "label": "Hathway Cable & Datacom Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "KRBL",
-    "label": "KRBL Limited"
+    "label": "KRBL Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "VSTIND",
-    "label": "VST Industries Limited"
+    "label": "VST Industries Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "INFIBEAM",
-    "label": "Infibeam Avenues Limited"
+    "label": "Infibeam Avenues Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "FDC",
-    "label": "FDC Limited"
+    "label": "FDC Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "HINDCOPPER",
-    "label": "Hindustan Copper Limited"
+    "label": "Hindustan Copper Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "CYIENT",
-    "label": "Cyient Limited"
+    "label": "Cyient Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "EIHOTEL",
-    "label": "EIH Limited"
+    "label": "EIH Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "CDSL",
-    "label": "Central Depository Services (India) Limited"
+    "label": "Central Depository Services (India) Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "CGCL",
-    "label": "Capri Global Capital Limited"
+    "label": "Capri Global Capital Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "BIRLACORPN",
-    "label": "Birla Corporation Limited"
+    "label": "Birla Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "GMMPFAUDLR",
-    "label": "GMM Pfaudler Limited"
+    "label": "GMM Pfaudler Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "POWERINDIA",
-    "label": "ABB Power Products and Systems India Limited"
+    "label": "ABB Power Products and Systems India Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "RALLIS",
-    "label": "Rallis India Limited"
+    "label": "Rallis India Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SUNCLAYLTD",
-    "label": "Sundaram Clayton Limited"
+    "label": "Sundaram Clayton Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "JYOTHYLAB",
-    "label": "Jyothy Labs Limited"
+    "label": "Jyothy Labs Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "DBL",
-    "label": "Dilip Buildcon Limited"
+    "label": "Dilip Buildcon Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "VARROC",
-    "label": "Varroc Engineering Limited"
+    "label": "Varroc Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "ZENSARTECH",
-    "label": "Zensar Technologies Limited"
+    "label": "Zensar Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "TV18BRDCST",
-    "label": "TV18 Broadcast Limited"
+    "label": "TV18 Broadcast Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "FINCABLES",
-    "label": "Finolex Cables Limited"
+    "label": "Finolex Cables Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SUZLON",
-    "label": "Suzlon Energy Limited"
+    "label": "Suzlon Energy Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "NBCC",
-    "label": "NBCC (India) Limited"
+    "label": "NBCC (India) Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "INDIACEM",
-    "label": "The India Cements Limited"
+    "label": "The India Cements Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "CENTURYPLY",
-    "label": "Century Plyboards (India) Limited"
+    "label": "Century Plyboards (India) Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "VIPIND",
-    "label": "VIP Industries Limited"
+    "label": "VIP Industries Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "REDINGTON",
-    "label": "Redington (India) Limited"
+    "label": "Redington (India) Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "HEIDELBERG",
-    "label": "HeidelbergCement India Limited"
+    "label": "HeidelbergCement India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SUNTECK",
-    "label": "Sunteck Realty Limited"
+    "label": "Sunteck Realty Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "BRIGADE",
-    "label": "Brigade Enterprises Limited"
+    "label": "Brigade Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SPARC",
-    "label": "Sun Pharma Advanced Research Company Limited"
+    "label": "Sun Pharma Advanced Research Company Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "MASFIN",
-    "label": "MAS Financial Services Limited"
+    "label": "MAS Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "TATAINVEST",
-    "label": "Tata Investment Corporation Limited"
+    "label": "Tata Investment Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "HAPPSTMNDS",
-    "label": "Happiest Minds Technologies Limited"
+    "label": "Happiest Minds Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "GODFRYPHLP",
-    "label": "Godfrey Phillips India Limited"
+    "label": "Godfrey Phillips India Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "TRIDENT",
-    "label": "Trident Limited"
+    "label": "Trident Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "RVNL",
-    "label": "Rail Vikas Nigam Limited"
+    "label": "Rail Vikas Nigam Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "RESPONIND",
-    "label": "Responsive Industries Limited"
+    "label": "Responsive Industries Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "GARFIBRES",
-    "label": "Garware Technical Fibres Limited"
+    "label": "Garware Technical Fibres Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "ENGINERSIN",
-    "label": "Engineers India Limited"
+    "label": "Engineers India Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "KALPATPOWR",
-    "label": "Kalpataru Power Transmission Limited"
+    "label": "Kalpataru Power Transmission Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "LAXMIMACH",
-    "label": "Lakshmi Machine Works Limited"
+    "label": "Lakshmi Machine Works Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "COCHINSHIP",
-    "label": "Cochin Shipyard Limited"
+    "label": "Cochin Shipyard Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "ROSSARI",
-    "label": "Rossari Biotech Limited"
+    "label": "Rossari Biotech Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "ELGIEQUIP",
-    "label": "Elgi Equipments Limited"
+    "label": "Elgi Equipments Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "SPANDANA",
-    "label": "Spandana Sphoorty Financial Limited"
+    "label": "Spandana Sphoorty Financial Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "THYROCARE",
-    "label": "Thyrocare Technologies Limited"
+    "label": "Thyrocare Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "ORIENTELEC",
-    "label": "Orient Electric Limited"
+    "label": "Orient Electric Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "IFBIND",
-    "label": "IFB Industries Limited"
+    "label": "IFB Industries Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "GPPL",
-    "label": "Gujarat Pipavav Port Limited"
+    "label": "Gujarat Pipavav Port Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "VMART",
-    "label": "V-Mart Retail Limited"
+    "label": "V-Mart Retail Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "CENTURYTEX",
-    "label": "Century Textiles & Industries Limited"
+    "label": "Century Textiles & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "KNRCON",
-    "label": "KNR Constructions Limited"
+    "label": "KNR Constructions Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "PNCINFRA",
-    "label": "PNC Infratech Limited"
+    "label": "PNC Infratech Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "TEAMLEASE",
-    "label": "Teamlease Services Limited"
+    "label": "Teamlease Services Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "POLYMED",
-    "label": "Poly Medicure Limited"
+    "label": "Poly Medicure Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "PRSMJOHNSN",
-    "label": "Prism Johnson Limited"
+    "label": "Prism Johnson Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "CERA",
-    "label": "Cera Sanitaryware Limited"
+    "label": "Cera Sanitaryware Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MAZDOCK",
-    "label": "Mazagon Dock Shipbuilders Limited"
+    "label": "Mazagon Dock Shipbuilders Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "CEATLTD",
-    "label": "CEAT Limited"
+    "label": "CEAT Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "TATASTLBSL",
-    "label": "Tata Steel Bsl Limited"
+    "label": "Tata Steel Bsl Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "IOLCP",
-    "label": "IOL Chemicals and Pharmaceuticals Limited"
+    "label": "IOL Chemicals and Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "MAHSCOOTER",
-    "label": "Maharashtra Scooters Limited"
+    "label": "Maharashtra Scooters Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "IIFL",
-    "label": "IIFL Finance Limited"
+    "label": "IIFL Finance Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "EQUITASBNK",
-    "label": "Equitas Small Finance Bank Limited"
+    "label": "Equitas Small Finance Bank Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "DELTACORP",
-    "label": "Delta Corp Limited"
+    "label": "Delta Corp Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "KEI",
-    "label": "KEI Industries Limited"
+    "label": "KEI Industries Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "JSWHL",
-    "label": "JSW Holdings Limited"
+    "label": "JSW Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "FRETAIL",
-    "label": "Future Retail Limited"
+    "label": "Future Retail Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "RAIN",
-    "label": "Rain Industries Limited"
+    "label": "Rain Industries Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "SOLARA",
-    "label": "Solara Active Pharma Sciences Limited"
+    "label": "Solara Active Pharma Sciences Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SEQUENT",
-    "label": "Sequent Scientific Limited"
+    "label": "Sequent Scientific Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "INTELLECT",
-    "label": "Intellect Design Arena Limited"
+    "label": "Intellect Design Arena Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "LUXIND",
-    "label": "Lux Industries Limited"
+    "label": "Lux Industries Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "IRB",
-    "label": "IRB Infrastructure Developers Limited"
+    "label": "IRB Infrastructure Developers Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SWSOLAR",
-    "label": "Sterling And Wilson Solar Limited"
+    "label": "Sterling And Wilson Solar Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SONATSOFTW",
-    "label": "Sonata Software Limited"
+    "label": "Sonata Software Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "STARCEMENT",
-    "label": "Star Cement Limited"
+    "label": "Star Cement Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "BHARATRAS",
-    "label": "Bharat Rasayan Limited"
+    "label": "Bharat Rasayan Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SCI",
-    "label": "Shipping Corporation Of India Limited"
+    "label": "Shipping Corporation Of India Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "IRCON",
-    "label": "Ircon International Limited"
+    "label": "Ircon International Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "JUSTDIAL",
-    "label": "Just Dial Limited"
+    "label": "Just Dial Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "BEML",
-    "label": "BEML Limited"
+    "label": "BEML Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "JKLAKSHMI",
-    "label": "JK Lakshmi Cement Limited"
+    "label": "JK Lakshmi Cement Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "MMTC",
-    "label": "MMTC Limited"
+    "label": "MMTC Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "SOBHA",
-    "label": "Sobha Limited"
+    "label": "Sobha Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "KPITTECH",
-    "label": "KPIT Technologies Limited"
+    "label": "KPIT Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "NESCO",
-    "label": "Nesco Limited"
+    "label": "Nesco Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "GESHIP",
-    "label": "The Great Eastern Shipping Company Limited"
+    "label": "The Great Eastern Shipping Company Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "INDOSTAR",
-    "label": "IndoStar Capital Finance Limited"
+    "label": "IndoStar Capital Finance Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "CAPLIPOINT",
-    "label": "Caplin Point Laboratories Limited"
+    "label": "Caplin Point Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "CSBBANK",
-    "label": "CSB Bank Limited"
+    "label": "CSB Bank Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "CHALET",
-    "label": "Chalet Hotels Limited"
+    "label": "Chalet Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "NETWORK18",
-    "label": "Network18 Media & Investments Limited"
+    "label": "Network18 Media & Investments Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "MIDHANI",
-    "label": "Mishra Dhatu Nigam Limited"
+    "label": "Mishra Dhatu Nigam Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "ADVENZYMES",
-    "label": "Advanced Enzyme Technologies Limited"
+    "label": "Advanced Enzyme Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "IBREALEST",
-    "label": "Indiabulls Real Estate Limited"
+    "label": "Indiabulls Real Estate Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "DCBBANK",
-    "label": "DCB Bank Limited"
+    "label": "DCB Bank Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "JSL",
-    "label": "Jindal Stainless Limited"
+    "label": "Jindal Stainless Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SHILPAMED",
-    "label": "Shilpa Medicare Limited"
+    "label": "Shilpa Medicare Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "DHANUKA",
-    "label": "Dhanuka Agritech Limited"
+    "label": "Dhanuka Agritech Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "KARURVYSYA",
-    "label": "Karur Vysya Bank Limited"
+    "label": "Karur Vysya Bank Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "BALRAMCHIN",
-    "label": "Balrampur Chini Mills Limited"
+    "label": "Balrampur Chini Mills Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "GULFOILLUB",
-    "label": "Gulf Oil Lubricants India Limited"
+    "label": "Gulf Oil Lubricants India Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "HEG",
-    "label": "HEG Limited"
+    "label": "HEG Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "CCL",
-    "label": "CCL Products (India) Limited"
+    "label": "CCL Products (India) Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "TCIEXP",
-    "label": "TCI Express Limited"
+    "label": "TCI Express Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "NCC",
-    "label": "NCC Limited"
+    "label": "NCC Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "GNFC",
-    "label": "Gujarat Narmada Valley Fertilizers and Chemicals Limited"
+    "label": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "WELCORP",
-    "label": "Welspun Corp Limited"
+    "label": "Welspun Corp Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "BORORENEW",
-    "label": "BOROSIL RENEWABLES LIMITED"
+    "label": "BOROSIL RENEWABLES LIMITED",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MOIL",
-    "label": "MOIL Limited"
+    "label": "MOIL Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "SUPPETRO",
-    "label": "Supreme Petrochem Limited"
+    "label": "Supreme Petrochem Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "UJJIVAN",
-    "label": "Ujjivan Financial Services Limited"
+    "label": "Ujjivan Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "JSLHISAR",
-    "label": "Jindal Stainless (Hisar) Limited"
+    "label": "Jindal Stainless (Hisar) Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "SUDARSCHEM",
-    "label": "Sudarshan Chemical Industries Limited"
+    "label": "Sudarshan Chemical Industries Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "HFCL",
-    "label": "HFCL Limited"
+    "label": "HFCL Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "SWANENERGY",
-    "label": "Swan Energy Limited"
+    "label": "Swan Energy Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ALLCARGO",
-    "label": "Allcargo Logistics Limited"
+    "label": "Allcargo Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "KSCL",
-    "label": "Kaveri Seed Company Limited"
+    "label": "Kaveri Seed Company Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "PRINCEPIPE",
-    "label": "Prince Pipes And Fittings Limited"
+    "label": "Prince Pipes And Fittings Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "LEMONTREE",
-    "label": "Lemon Tree Hotels Limited"
+    "label": "Lemon Tree Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "INOXLEISUR",
-    "label": "INOX Leisure Limited"
+    "label": "INOX Leisure Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "BAJAJCON",
-    "label": "Bajaj Consumer Care Limited"
+    "label": "Bajaj Consumer Care Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "ECLERX",
-    "label": "eClerx Services Limited"
+    "label": "eClerx Services Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "TASTYBITE",
-    "label": "Tasty Bite Eatables Limited"
+    "label": "Tasty Bite Eatables Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "ORIENTREF",
-    "label": "Orient Refractories Limited"
+    "label": "Orient Refractories Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BECTORFOOD",
-    "label": "Mrs. Bectors Food Specialities Limited"
+    "label": "Mrs. Bectors Food Specialities Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "BALAMINES",
-    "label": "Balaji Amines Limited"
+    "label": "Balaji Amines Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "GET&D",
-    "label": "GE T&D India Limited"
+    "label": "GE T&D India Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "PHILIPCARB",
-    "label": "Phillips Carbon Black Limited"
+    "label": "Phillips Carbon Black Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "PAISALO",
-    "label": "Paisalo Digital Limited"
+    "label": "Paisalo Digital Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "DEN",
-    "label": "Den Networks Limited"
+    "label": "Den Networks Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "MAHLOG",
-    "label": "Mahindra Logistics Limited"
+    "label": "Mahindra Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "RCF",
-    "label": "Rashtriya Chemicals and Fertilizers Limited"
+    "label": "Rashtriya Chemicals and Fertilizers Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "ESABINDIA",
-    "label": "Esab India Limited"
+    "label": "Esab India Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "GSFC",
-    "label": "Gujarat State Fertilizers & Chemicals Limited"
+    "label": "Gujarat State Fertilizers & Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "ICIL",
-    "label": "Indo Count Industries Limited"
+    "label": "Indo Count Industries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "MHRIL",
-    "label": "Mahindra Holidays & Resorts India Limited"
+    "label": "Mahindra Holidays & Resorts India Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "NIITLTD",
-    "label": "NIIT Limited"
+    "label": "NIIT Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "ICRA",
-    "label": "ICRA Limited"
+    "label": "ICRA Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "CGPOWER",
-    "label": "CG Power and Industrial Solutions Limited"
+    "label": "CG Power and Industrial Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "INDOCO",
-    "label": "Indoco Remedies Limited"
+    "label": "Indoco Remedies Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "ITDC",
-    "label": "India Tourism Development Corporation Limited"
+    "label": "India Tourism Development Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SUPRAJIT",
-    "label": "Suprajit Engineering Limited"
+    "label": "Suprajit Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "BSE",
-    "label": "BSE Limited"
+    "label": "BSE Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MASTEK",
-    "label": "Mastek Limited"
+    "label": "Mastek Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "ANGELBRKG",
-    "label": "Angel Broking Limited"
+    "label": "Angel Broking Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ALEMBICLTD",
-    "label": "Alembic Limited"
+    "label": "Alembic Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "TCNSBRANDS",
-    "label": "TCNS Clothing Co. Limited"
+    "label": "TCNS Clothing Co. Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "UFLEX",
-    "label": "UFLEX Limited"
+    "label": "UFLEX Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "TATASTLLP",
-    "label": "Tata Steel Long Products Limited"
+    "label": "Tata Steel Long Products Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "HEMIPROP",
-    "label": "Hemisphere Properties India Limited"
+    "label": "Hemisphere Properties India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "GAEL",
-    "label": "Gujarat Ambuja Exports Limited"
+    "label": "Gujarat Ambuja Exports Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "LAOPALA",
-    "label": "La Opala RG Limited"
+    "label": "La Opala RG Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "BOROLTD",
-    "label": "Borosil Limited"
+    "label": "Borosil Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "TRITURBINE",
-    "label": "Triveni Turbine Limited"
+    "label": "Triveni Turbine Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "GUJALKALI",
-    "label": "Gujarat Alkalies and Chemicals Limited"
+    "label": "Gujarat Alkalies and Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ASHOKA",
-    "label": "Ashoka Buildcon Limited"
+    "label": "Ashoka Buildcon Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "RENUKA",
-    "label": "Shree Renuka Sugars Limited"
+    "label": "Shree Renuka Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "ASTEC",
-    "label": "Astec LifeSciences Limited"
+    "label": "Astec LifeSciences Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "MARKSANS",
-    "label": "Marksans Pharma Limited"
+    "label": "Marksans Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "DISHTV",
-    "label": "Dish TV India Limited"
+    "label": "Dish TV India Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "VENKEYS",
-    "label": "Venky's (India) Limited"
+    "label": "Venky's (India) Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "JAMNAAUTO",
-    "label": "Jamna Auto Industries Limited"
+    "label": "Jamna Auto Industries Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "RUPA",
-    "label": "Rupa & Company Limited"
+    "label": "Rupa & Company Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SHARDACROP",
-    "label": "Sharda Cropchem Limited"
+    "label": "Sharda Cropchem Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "JINDALSAW",
-    "label": "Jindal Saw Limited"
+    "label": "Jindal Saw Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "BEPL",
-    "label": "Bhansali Engineering Polymers Limited"
+    "label": "Bhansali Engineering Polymers Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "NOCIL",
-    "label": "NOCIL Limited"
+    "label": "NOCIL Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "HUHTAMAKI",
-    "label": "Huhtamaki India Limited"
+    "label": "Huhtamaki India Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "TECHNOE",
-    "label": "Techno Electric & Engineering Company Limited"
+    "label": "Techno Electric & Engineering Company Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "HGS",
-    "label": "Hinduja Global Solutions Limited"
+    "label": "Hinduja Global Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "EQUITAS",
-    "label": "Equitas Holdings Limited"
+    "label": "Equitas Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "PILANIINVS",
-    "label": "Pilani Investment and Industries Corporation Limited"
+    "label": "Pilani Investment and Industries Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "RAYMOND",
-    "label": "Raymond Limited"
+    "label": "Raymond Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "KSB",
-    "label": "Ksb Limited"
+    "label": "Ksb Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SUBROS",
-    "label": "Subros Limited"
+    "label": "Subros Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "NILKAMAL",
-    "label": "Nilkamal Limited"
+    "label": "Nilkamal Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "POLYPLEX",
-    "label": "Polyplex Corporation Limited"
+    "label": "Polyplex Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "GRSE",
-    "label": "Garden Reach Shipbuilders & Engineers Limited"
+    "label": "Garden Reach Shipbuilders & Engineers Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "VESUVIUS",
-    "label": "Vesuvius India Limited"
+    "label": "Vesuvius India Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ATFL",
-    "label": "Agro Tech Foods Limited"
+    "label": "Agro Tech Foods Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "BALMLAWRIE",
-    "label": "Balmer Lawrie & Company Limited"
+    "label": "Balmer Lawrie & Company Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "JPPOWER",
-    "label": "Jaiprakash Power Ventures Limited"
+    "label": "Jaiprakash Power Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "SHOPERSTOP",
-    "label": "Shoppers Stop Limited"
+    "label": "Shoppers Stop Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "DCAL",
-    "label": "Dishman Carbogen Amcis Limited"
+    "label": "Dishman Carbogen Amcis Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "AGCNET",
-    "label": "AGC Networks Limited"
+    "label": "AGC Networks Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "JTEKTINDIA",
-    "label": "Jtekt India Limited"
+    "label": "Jtekt India Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "MAHSEAMLES",
-    "label": "Maharashtra Seamless Limited"
+    "label": "Maharashtra Seamless Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "FACT",
-    "label": "Fertilizers and Chemicals Travancore Limited"
+    "label": "Fertilizers and Chemicals Travancore Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "PRAJIND",
-    "label": "Praj Industries Limited"
+    "label": "Praj Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "DFMFOODS",
-    "label": "DFM Foods Limited"
+    "label": "DFM Foods Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "MEGH",
-    "label": "Meghmani Organics Limited"
+    "label": "Meghmani Organics Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "BLISSGVS",
-    "label": "Bliss GVS Pharma Limited"
+    "label": "Bliss GVS Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "PRIVISCL",
-    "label": "Privi Speciality Chemicals Limited"
+    "label": "Privi Speciality Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "MATRIMONY",
-    "label": "Matrimony.Com Limited"
+    "label": "Matrimony.Com Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "INGERRAND",
-    "label": "Ingersoll Rand (India) Limited"
+    "label": "Ingersoll Rand (India) Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "HCG",
-    "label": "Healthcare Global Enterprises Limited"
+    "label": "Healthcare Global Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "MINDACORP",
-    "label": "Minda Corporation Limited"
+    "label": "Minda Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "HIKAL",
-    "label": "Hikal Limited"
+    "label": "Hikal Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "SCHNEIDER",
-    "label": "Schneider Electric Infrastructure Limited"
+    "label": "Schneider Electric Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "PURVA",
-    "label": "Puravankara Limited"
+    "label": "Puravankara Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "JINDALPOLY",
-    "label": "Jindal Poly Films Limited"
+    "label": "Jindal Poly Films Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "SURYAROSNI",
-    "label": "Surya Roshni Limited"
+    "label": "Surya Roshni Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "GREAVESCOT",
-    "label": "Greaves Cotton Limited"
+    "label": "Greaves Cotton Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "TATACOFFEE",
-    "label": "Tata Coffee Limited"
+    "label": "Tata Coffee Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "RAMCOIND",
-    "label": "Ramco Industries Limited"
+    "label": "Ramco Industries Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "GHCL",
-    "label": "GHCL Limited"
+    "label": "GHCL Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "GEPIL",
-    "label": "GE Power India Limited"
+    "label": "GE Power India Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "TCI",
-    "label": "Transport Corporation of India Limited"
+    "label": "Transport Corporation of India Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "NAVNETEDUL",
-    "label": "Navneet Education Limited"
+    "label": "Navneet Education Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "TATAMETALI",
-    "label": "Tata Metaliks Limited"
+    "label": "Tata Metaliks Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "NEWGEN",
-    "label": "Newgen Software Technologies Limited"
+    "label": "Newgen Software Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "GREENLAM",
-    "label": "Greenlam Industries Limited"
+    "label": "Greenlam Industries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "MAHLIFE",
-    "label": "Mahindra Lifespace Developers Limited"
+    "label": "Mahindra Lifespace Developers Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "OAL",
-    "label": "Oriental Aromatics Limited"
+    "label": "Oriental Aromatics Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "KOLTEPATIL",
-    "label": "Kolte - Patil Developers Limited"
+    "label": "Kolte - Patil Developers Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "NFL",
-    "label": "National Fertilizers Limited"
+    "label": "National Fertilizers Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "JKTYRE",
-    "label": "JK Tyre & Industries Limited"
+    "label": "JK Tyre & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "UNICHEMLAB",
-    "label": "Unichem Laboratories Limited"
+    "label": "Unichem Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "JKPAPER",
-    "label": "JK Paper Limited"
+    "label": "JK Paper Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "KIRLOSENG",
-    "label": "Kirloskar Oil Engines Limited"
+    "label": "Kirloskar Oil Engines Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "RAMCOSYS",
-    "label": "Ramco Systems Limited"
+    "label": "Ramco Systems Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "NUCLEUS",
-    "label": "Nucleus Software Exports Limited"
+    "label": "Nucleus Software Exports Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "VRLLOG",
-    "label": "VRL Logistics Limited"
+    "label": "VRL Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "HSCL",
-    "label": "Himadri Speciality Chemical Limited"
+    "label": "Himadri Speciality Chemical Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "DAAWAT",
-    "label": "LT Foods Limited"
+    "label": "LT Foods Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "CHEMCON",
-    "label": "Chemcon Speciality Chemicals Limited"
+    "label": "Chemcon Speciality Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "KIRIINDUS",
-    "label": "Kiri Industries Limited"
+    "label": "Kiri Industries Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "RELIGARE",
-    "label": "Religare Enterprises Limited"
+    "label": "Religare Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "JPASSOCIAT",
-    "label": "Jaiprakash Associates Limited"
+    "label": "Jaiprakash Associates Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "KTKBANK",
-    "label": "The Karnataka Bank Limited"
+    "label": "The Karnataka Bank Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "BANARISUG",
-    "label": "Bannari Amman Sugars Limited"
+    "label": "Bannari Amman Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "ORIENTCEM",
-    "label": "Orient Cement Limited"
+    "label": "Orient Cement Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "THOMASCOOK",
-    "label": "Thomas Cook  (India)  Limited"
+    "label": "Thomas Cook  (India)  Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "AHLUCONT",
-    "label": "Ahluwalia Contracts (India) Limited"
+    "label": "Ahluwalia Contracts (India) Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "TRIVENI",
-    "label": "Triveni Engineering & Industries Limited"
+    "label": "Triveni Engineering & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "FLFL",
-    "label": "Future Lifestyle Fashions Limited"
+    "label": "Future Lifestyle Fashions Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "PTC",
-    "label": "PTC India Limited"
+    "label": "PTC India Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SWARAJENG",
-    "label": "Swaraj Engines Limited"
+    "label": "Swaraj Engines Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "IFCI",
-    "label": "IFCI Limited"
+    "label": "IFCI Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "FMGOETZE",
-    "label": "Federal-Mogul Goetze (India) Limited."
+    "label": "Federal-Mogul Goetze (India) Limited.",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "HIL",
-    "label": "HIL Limited"
+    "label": "HIL Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SHK",
-    "label": "S H Kelkar and Company Limited"
+    "label": "S H Kelkar and Company Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "NEOGEN",
-    "label": "Neogen Chemicals Limited"
+    "label": "Neogen Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "JAICORPLTD",
-    "label": "Jai Corp Limited"
+    "label": "Jai Corp Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "GMDCLTD",
-    "label": "Gujarat Mineral Development Corporation Limited"
+    "label": "Gujarat Mineral Development Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "GPIL",
-    "label": "Godawari Power And Ispat limited"
+    "label": "Godawari Power And Ispat limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "MAITHANALL",
-    "label": "Maithan Alloys Limited"
+    "label": "Maithan Alloys Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "J&KBANK",
-    "label": "The Jammu & Kashmir Bank Limited"
+    "label": "The Jammu & Kashmir Bank Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "BOMDYEING",
-    "label": "Bombay Dyeing & Mfg Company Limited"
+    "label": "Bombay Dyeing & Mfg Company Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "FCONSUMER",
-    "label": "Future Consumer Limited"
+    "label": "Future Consumer Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SOUTHBANK",
-    "label": "The South Indian Bank Limited"
+    "label": "The South Indian Bank Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "VSTTILLERS",
-    "label": "V.S.T Tillers Tractors Limited"
+    "label": "V.S.T Tillers Tractors Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "DEEPAKFERT",
-    "label": "Deepak Fertilizers and Petrochemicals Corporation Limited"
+    "label": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "TINPLATE",
-    "label": "The Tinplate Company of India Limited"
+    "label": "The Tinplate Company of India Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "SUBEXLTD",
-    "label": "Subex Limited"
+    "label": "Subex Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "CHENNPETRO",
-    "label": "Chennai Petroleum Corporation Limited"
+    "label": "Chennai Petroleum Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "DIAMONDYD",
-    "label": "Prataap Snacks Limited"
+    "label": "Prataap Snacks Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "PFOCUS",
-    "label": "Prime Focus Limited"
+    "label": "Prime Focus Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "TTML",
-    "label": "Tata Teleservices (Maharashtra) Limited"
+    "label": "Tata Teleservices (Maharashtra) Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "AUTOAXLES",
-    "label": "Automotive Axles Limited"
+    "label": "Automotive Axles Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "CARERATING",
-    "label": "CARE Ratings Limited"
+    "label": "CARE Ratings Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "GREENPANEL",
-    "label": "Greenpanel Industries Limited"
+    "label": "Greenpanel Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "ACE",
-    "label": "Action Construction Equipment Limited"
+    "label": "Action Construction Equipment Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "RKFORGE",
-    "label": "Ramkrishna Forgings Limited"
+    "label": "Ramkrishna Forgings Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "EVEREADY",
-    "label": "Eveready Industries India Limited"
+    "label": "Eveready Industries India Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SAGCEM",
-    "label": "Sagar Cements Limited"
+    "label": "Sagar Cements Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "IIFLSEC",
-    "label": "IIFL Securities Limited"
+    "label": "IIFL Securities Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "TIDEWATER",
-    "label": "Tide Water Oil Company (India) Limited"
+    "label": "Tide Water Oil Company (India) Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "GDL",
-    "label": "Gateway Distriparks Limited"
+    "label": "Gateway Distriparks Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "ARVINDFASN",
-    "label": "Arvind Fashions Limited"
+    "label": "Arvind Fashions Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "ORISSAMINE",
-    "label": "The Orissa Minerals Development Company Limited"
+    "label": "The Orissa Minerals Development Company Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "GABRIEL",
-    "label": "Gabriel India Limited"
+    "label": "Gabriel India Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "OMAXE",
-    "label": "Omaxe Limited"
+    "label": "Omaxe Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "GTPL",
-    "label": "GTPL Hathway Limited"
+    "label": "GTPL Hathway Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "PSPPROJECT",
-    "label": "PSP Projects Limited"
+    "label": "PSP Projects Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "CAMLINFINE",
-    "label": "Camlin Fine Sciences Limited"
+    "label": "Camlin Fine Sciences Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "INEOSSTYRO",
-    "label": "INEOS Styrolution India Limited"
+    "label": "INEOS Styrolution India Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "AMRUTANJAN",
-    "label": "Amrutanjan Health Care Limited"
+    "label": "Amrutanjan Health Care Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "PANACEABIO",
-    "label": "Panacea Biotec Limited"
+    "label": "Panacea Biotec Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "REPCOHOME",
-    "label": "Repco Home Finance Limited"
+    "label": "Repco Home Finance Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SAREGAMA",
-    "label": "Saregama India Limited"
+    "label": "Saregama India Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "HESTERBIO",
-    "label": "Hester Biosciences Limited"
+    "label": "Hester Biosciences Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "RSYSTEMS",
-    "label": "R Systems International Limited"
+    "label": "R Systems International Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "DBCORP",
-    "label": "D.B.Corp Limited"
+    "label": "D.B.Corp Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "TVSSRICHAK",
-    "label": "TVS Srichakra Limited"
+    "label": "TVS Srichakra Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "ACCELYA",
-    "label": "Accelya Solutions India Limited"
+    "label": "Accelya Solutions India Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "GREENPLY",
-    "label": "Greenply Industries Limited"
+    "label": "Greenply Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MAYURUNIQ",
-    "label": "Mayur Uniquoters Ltd"
+    "label": "Mayur Uniquoters Ltd",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "NEULANDLAB",
-    "label": "Neuland Laboratories Limited"
+    "label": "Neuland Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "HGINFRA",
-    "label": "H.G. Infra Engineering Limited"
+    "label": "H.G. Infra Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "SOMANYCERA",
-    "label": "Somany Ceramics Limited"
+    "label": "Somany Ceramics Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SANDHAR",
-    "label": "Sandhar Technologies Limited"
+    "label": "Sandhar Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "MOREPENLAB",
-    "label": "Morepen Laboratories Limited"
+    "label": "Morepen Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "HERITGFOOD",
-    "label": "Heritage Foods Limited"
+    "label": "Heritage Foods Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "JETAIRWAYS",
-    "label": "Jet Airways (India) Limited"
+    "label": "Jet Airways (India) Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "JSWISPL",
-    "label": "JSW Ispat Special Products Limited"
+    "label": "JSW Ispat Special Products Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "HCC",
-    "label": "Hindustan Construction Company Limited"
+    "label": "Hindustan Construction Company Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "INOXWIND",
-    "label": "Inox Wind Limited"
+    "label": "Inox Wind Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "TVTODAY",
-    "label": "TV Today Network Limited"
+    "label": "TV Today Network Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "DOLLAR",
-    "label": "Dollar Industries Limited"
+    "label": "Dollar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "HIMATSEIDE",
-    "label": "Himatsingka Seide Limited"
+    "label": "Himatsingka Seide Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SHRIPISTON",
-    "label": "Shriram Pistons & Rings Limited"
+    "label": "Shriram Pistons & Rings Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "APARINDS",
-    "label": "Apar Industries Limited"
+    "label": "Apar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "GEOJITFSL",
-    "label": "Geojit Financial Services Limited"
+    "label": "Geojit Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "JBMA",
-    "label": "JBM Auto Limited"
+    "label": "JBM Auto Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "IGPL",
-    "label": "IG Petrochemicals Limited"
+    "label": "IG Petrochemicals Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "ADFFOODS",
-    "label": "ADF Foods Limited"
+    "label": "ADF Foods Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "WELENT",
-    "label": "Welspun Enterprises Limited"
+    "label": "Welspun Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "WABAG",
-    "label": "VA Tech Wabag Limited"
+    "label": "VA Tech Wabag Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SHARDAMOTR",
-    "label": "Sharda Motor Industries Limited"
+    "label": "Sharda Motor Industries Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "LUMAXIND",
-    "label": "Lumax Industries Limited"
+    "label": "Lumax Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "NXTDIGITAL",
-    "label": "NXTDIGITAL LIMITED"
+    "label": "NXTDIGITAL LIMITED",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "PFS",
-    "label": "PTC India Financial Services Limited"
+    "label": "PTC India Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "GIPCL",
-    "label": "Gujarat Industries Power Company Limited"
+    "label": "Gujarat Industries Power Company Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "TEJASNET",
-    "label": "Tejas Networks Limited"
+    "label": "Tejas Networks Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "VOLTAMP",
-    "label": "Voltamp Transformers Limited"
+    "label": "Voltamp Transformers Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "CAPACITE",
-    "label": "Capacit'e Infraprojects Limited"
+    "label": "Capacit'e Infraprojects Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "GATI",
-    "label": "GATI Limited"
+    "label": "GATI Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "KSL",
-    "label": "Kalyani Steels Limited"
+    "label": "Kalyani Steels Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SASKEN",
-    "label": "Sasken Technologies Limited"
+    "label": "Sasken Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "ARVIND",
-    "label": "Arvind Limited"
+    "label": "Arvind Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "SARDAEN",
-    "label": "Sarda Energy & Minerals Limited"
+    "label": "Sarda Energy & Minerals Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "JAGRAN",
-    "label": "Jagran Prakashan Limited"
+    "label": "Jagran Prakashan Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "PDSMFL",
-    "label": "PDS Multinational Fashions Limited"
+    "label": "PDS Multinational Fashions Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "WSTCSTPAPR",
-    "label": "West Coast Paper Mills Limited"
+    "label": "West Coast Paper Mills Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "SHALBY",
-    "label": "Shalby Limited"
+    "label": "Shalby Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "ASHIANA",
-    "label": "Ashiana Housing Limited"
+    "label": "Ashiana Housing Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "DALMIASUG",
-    "label": "Dalmia Bharat Sugar and Industries Limited"
+    "label": "Dalmia Bharat Sugar and Industries Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "RTNPOWER",
-    "label": "RattanIndia Power Limited"
+    "label": "RattanIndia Power Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SUNDARMHLD",
-    "label": "Sundaram Finance Holdings Limited"
+    "label": "Sundaram Finance Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "WONDERLA",
-    "label": "Wonderla Holidays Limited"
+    "label": "Wonderla Holidays Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "WHEELS",
-    "label": "Wheels India Limited"
+    "label": "Wheels India Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SAFARI",
-    "label": "Safari Industries (India) Limited"
+    "label": "Safari Industries (India) Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "SHIL",
-    "label": "Somany Home Innovation Limited"
+    "label": "Somany Home Innovation Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "DPSCLTD",
-    "label": "DPSC Limited"
+    "label": "DPSC Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "MSTCLTD",
-    "label": "Mstc Limited"
+    "label": "Mstc Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SUVEN",
-    "label": "Suven Life Sciences Limited"
+    "label": "Suven Life Sciences Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "JMCPROJECT",
-    "label": "JMC Projects (India)  Limited"
+    "label": "JMC Projects (India)  Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "ITDCEM",
-    "label": "ITD Cementation India Limited"
+    "label": "ITD Cementation India Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SEAMECLTD",
-    "label": "Seamec Limited"
+    "label": "Seamec Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "HINDOILEXP",
-    "label": "Hindustan Oil Exploration Company Limited"
+    "label": "Hindustan Oil Exploration Company Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "HBLPOWER",
-    "label": "HBL Power Systems Limited"
+    "label": "HBL Power Systems Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "BFINVEST",
-    "label": "BF Investment Limited"
+    "label": "BF Investment Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "USHAMART",
-    "label": "Usha Martin Limited"
+    "label": "Usha Martin Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "DHAMPURSUG",
-    "label": "Dhampur Sugar Mills Limited"
+    "label": "Dhampur Sugar Mills Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "NBVENTURES",
-    "label": "Nava Bharat Ventures Limited"
+    "label": "Nava Bharat Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "TIMETECHNO",
-    "label": "Time Technoplast Limited"
+    "label": "Time Technoplast Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "OLECTRA",
-    "label": "Olectra Greentech Limited"
+    "label": "Olectra Greentech Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "SNOWMAN",
-    "label": "Snowman Logistics Limited"
+    "label": "Snowman Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "QUICKHEAL",
-    "label": "Quick Heal Technologies Limited"
+    "label": "Quick Heal Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "JINDWORLD",
-    "label": "Jindal Worldwide Limited"
+    "label": "Jindal Worldwide Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "INDORAMA",
-    "label": "Indo Rama Synthetics (India) Limited"
+    "label": "Indo Rama Synthetics (India) Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BFUTILITIE",
-    "label": "BF Utilities Limited"
+    "label": "BF Utilities Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "CIGNITITEC",
-    "label": "Cigniti Technologies Limited"
+    "label": "Cigniti Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "IFGLEXPOR",
-    "label": "IFGL Refractories Limited"
+    "label": "IFGL Refractories Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SUNFLAG",
-    "label": "Sunflag Iron And Steel Company Limited"
+    "label": "Sunflag Iron And Steel Company Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "MAGMA",
-    "label": "Magma Fincorp Limited"
+    "label": "Magma Fincorp Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "ASTRAMICRO",
-    "label": "Astra Microwave Products Limited"
+    "label": "Astra Microwave Products Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "SADBHAV",
-    "label": "Sadbhav Engineering Limited"
+    "label": "Sadbhav Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "EXCELINDUS",
-    "label": "Excel Industries Limited"
+    "label": "Excel Industries Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "IGARASHI",
-    "label": "Igarashi Motors India Limited"
+    "label": "Igarashi Motors India Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "HONDAPOWER",
-    "label": "Honda India Power Products Limited"
+    "label": "Honda India Power Products Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "CONFIPET",
-    "label": "Confidence Petroleum India Limited"
+    "label": "Confidence Petroleum India Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "BANCOINDIA",
-    "label": "Banco Products (I) Limited"
+    "label": "Banco Products (I) Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "FILATEX",
-    "label": "Filatex India Limited"
+    "label": "Filatex India Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "3IINFOTECH",
-    "label": "3i Infotech Limited"
+    "label": "3i Infotech Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "KKCL",
-    "label": "Kewal Kiran Clothing Limited"
+    "label": "Kewal Kiran Clothing Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "TIRUMALCHM",
-    "label": "Thirumalai Chemicals Limited"
+    "label": "Thirumalai Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SOTL",
-    "label": "Savita Oil Technologies Limited"
+    "label": "Savita Oil Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "KIRLOSBROS",
-    "label": "Kirloskar Brothers Limited"
+    "label": "Kirloskar Brothers Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "GENUSPOWER",
-    "label": "Genus Power Infrastructures Limited"
+    "label": "Genus Power Infrastructures Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "GALLISPAT",
-    "label": "Gallantt Ispat Limited"
+    "label": "Gallantt Ispat Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "JKIL",
-    "label": "J.Kumar Infraprojects Limited"
+    "label": "J.Kumar Infraprojects Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "MMFL",
-    "label": "MM Forgings Limited"
+    "label": "MM Forgings Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "HMT",
-    "label": "HMT Limited"
+    "label": "HMT Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "PCJEWELLER",
-    "label": "PC Jeweller Limited"
+    "label": "PC Jeweller Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SMSPHARMA",
-    "label": "SMS Pharmaceuticals Limited"
+    "label": "SMS Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ELECTCAST",
-    "label": "Electrosteel Castings Limited"
+    "label": "Electrosteel Castings Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "VINDHYATEL",
-    "label": "Vindhya Telelinks Limited"
+    "label": "Vindhya Telelinks Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "GFLLIMITED",
-    "label": "GFL Limited"
+    "label": "GFL Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "ESTER",
-    "label": "Ester Industries Limited"
+    "label": "Ester Industries Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "NRBBEARING",
-    "label": "NRB Bearing Limited"
+    "label": "NRB Bearing Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BODALCHEM",
-    "label": "Bodal Chemicals Limited"
+    "label": "Bodal Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "INSECTICID",
-    "label": "Insecticides (India) Limited"
+    "label": "Insecticides (India) Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "XCHANGING",
-    "label": "Xchanging Solutions Limited"
+    "label": "Xchanging Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "GOCLCORP",
-    "label": "GOCL Corporation Limited"
+    "label": "GOCL Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "RANEHOLDIN",
-    "label": "Rane Holdings Limited"
+    "label": "Rane Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "PARAGMILK",
-    "label": "Parag Milk Foods Limited"
+    "label": "Parag Milk Foods Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "INDIAGLYCO",
-    "label": "India Glycols Limited"
+    "label": "India Glycols Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "APEX",
-    "label": "Apex Frozen Foods Limited"
+    "label": "Apex Frozen Foods Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "LGBBROSLTD",
-    "label": "LG Balakrishnan & Bros Limited"
+    "label": "LG Balakrishnan & Bros Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "PUNJABCHEM",
-    "label": "Punjab Chemicals & Crop Protection Limited"
+    "label": "Punjab Chemicals & Crop Protection Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "RPOWER",
-    "label": "Reliance Power Limited"
+    "label": "Reliance Power Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SESHAPAPER",
-    "label": "Seshasayee Paper and Boards Limited"
+    "label": "Seshasayee Paper and Boards Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "JISLJALEQS",
-    "label": "Jain Irrigation Systems Limited"
+    "label": "Jain Irrigation Systems Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "ASHAPURMIN",
-    "label": "Ashapura Minechem Limited"
+    "label": "Ashapura Minechem Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "PRAKASH",
-    "label": "Prakash Industries Limited"
+    "label": "Prakash Industries Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "KCP",
-    "label": "KCP Limited"
+    "label": "KCP Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SHANTIGEAR",
-    "label": "Shanthi Gears Limited"
+    "label": "Shanthi Gears Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "RTNINFRA",
-    "label": "RattanIndia Infrastructure Limited"
+    "label": "RattanIndia Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MUKANDLTD",
-    "label": "Mukand Limited"
+    "label": "Mukand Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "PSB",
-    "label": "Punjab & Sind Bank"
+    "label": "Punjab & Sind Bank",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "GTLINFRA",
-    "label": "GTL Infrastructure Limited"
+    "label": "GTL Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "APOLLOPIPE",
-    "label": "Apollo Pipes Limited"
+    "label": "Apollo Pipes Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "GLOBUSSPR",
-    "label": "Globus Spirits Limited"
+    "label": "Globus Spirits Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "DHFL",
-    "label": "Dewan Housing Finance Corporation Limited"
+    "label": "Dewan Housing Finance Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "DREDGECORP",
-    "label": "Dredging Corporation of India Limited"
+    "label": "Dredging Corporation of India Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SATIA",
-    "label": "Satia Industries Limited"
+    "label": "Satia Industries Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "SIYSIL",
-    "label": "Siyaram Silk Mills Limited"
+    "label": "Siyaram Silk Mills Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "INDIANHUME",
-    "label": "Indian Hume Pipe Company Limited"
+    "label": "Indian Hume Pipe Company Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "GUFICBIO",
-    "label": "Gufic Biosciences Limited"
+    "label": "Gufic Biosciences Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "KESORAMIND",
-    "label": "Kesoram Industries Limited"
+    "label": "Kesoram Industries Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "CESCVENT",
-    "label": "CESC Ventures Limited"
+    "label": "CESC Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "COSMOFILMS",
-    "label": "Cosmo Films Limited"
+    "label": "Cosmo Films Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "NACLIND",
-    "label": "NACL Industries Limited"
+    "label": "NACL Industries Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "BLS",
-    "label": "BLS International Services Limited"
+    "label": "BLS International Services Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "GANECOS",
-    "label": "Ganesha Ecosphere Limited"
+    "label": "Ganesha Ecosphere Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SANGHIIND",
-    "label": "Sanghi Industries Limited"
+    "label": "Sanghi Industries Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "TIIL",
-    "label": "Technocraft Industries (India) Limited"
+    "label": "Technocraft Industries (India) Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "MTNL",
-    "label": "Mahanagar Telephone Nigam Limited"
+    "label": "Mahanagar Telephone Nigam Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "SHREDIGCEM",
-    "label": "Shree Digvijay Cement Co.Ltd"
+    "label": "Shree Digvijay Cement Co.Ltd",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "TEXRAIL",
-    "label": "Texmaco Rail & Engineering Limited"
+    "label": "Texmaco Rail & Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "APCOTEXIND",
-    "label": "Apcotex Industries Limited"
+    "label": "Apcotex Industries Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "ANDHRSUGAR",
-    "label": "The Andhra Sugars Limited"
+    "label": "The Andhra Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "ANDHRAPAP",
-    "label": "ANDHRA PAPER LIMITED"
+    "label": "ANDHRA PAPER LIMITED",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "LUMAXTECH",
-    "label": "Lumax Auto Technologies Limited"
+    "label": "Lumax Auto Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "TNPL",
-    "label": "Tamil Nadu Newsprint & Papers Limited"
+    "label": "Tamil Nadu Newsprint & Papers Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "ASIANTILES",
-    "label": "Asian Granito India Limited"
+    "label": "Asian Granito India Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "CLNINDIA",
-    "label": "Clariant Chemicals (India) Limited"
+    "label": "Clariant Chemicals (India) Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "MANINFRA",
-    "label": "Man Infraconstruction Limited"
+    "label": "Man Infraconstruction Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "EIHAHOTELS",
-    "label": "EIH Associated Hotels Limited"
+    "label": "EIH Associated Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "FOSECOIND",
-    "label": "Foseco India Limited"
+    "label": "Foseco India Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "TTKHLTCARE",
-    "label": "TTK Healthcare Limited"
+    "label": "TTK Healthcare Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "BUTTERFLY",
-    "label": "Butterfly Gandhimathi Appliances Limited"
+    "label": "Butterfly Gandhimathi Appliances Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "TAJGVK",
-    "label": "Taj GVK Hotels & Resorts Limited"
+    "label": "Taj GVK Hotels & Resorts Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "OCCL",
-    "label": "Oriental Carbon & Chemicals Limited"
+    "label": "Oriental Carbon & Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "THANGAMAYL",
-    "label": "Thangamayil Jewellery Limited"
+    "label": "Thangamayil Jewellery Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "FAIRCHEMOR",
-    "label": "Fairchem Organics Limited"
+    "label": "Fairchem Organics Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "YAARII",
-    "label": "Yaarii Digital Integrated Services Limited"
+    "label": "Yaarii Digital Integrated Services Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "SIRCA",
-    "label": "Sirca Paints India Limited"
+    "label": "Sirca Paints India Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "RADIOCITY",
-    "label": "Music Broadcast Limited"
+    "label": "Music Broadcast Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "HSIL",
-    "label": "HSIL Limited"
+    "label": "HSIL Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "ANANTRAJ",
-    "label": "Anant Raj Limited"
+    "label": "Anant Raj Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SHANKARA",
-    "label": "Shankara Building Products Limited"
+    "label": "Shankara Building Products Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "PNBGILTS",
-    "label": "PNB Gilts Limited"
+    "label": "PNB Gilts Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "MOLDTKPAC",
-    "label": "Mold-Tek Packaging Limited"
+    "label": "Mold-Tek Packaging Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "TAKE",
-    "label": "Take Solutions Limited"
+    "label": "Take Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SSWL",
-    "label": "Steel Strips Wheels Limited"
+    "label": "Steel Strips Wheels Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "INDNIPPON",
-    "label": "India Nippon Electricals Limited"
+    "label": "India Nippon Electricals Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "KIRLOSIND",
-    "label": "Kirloskar Industries Limited"
+    "label": "Kirloskar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "OPTIEMUS",
-    "label": "Optiemus Infracom Limited"
+    "label": "Optiemus Infracom Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "AARTISURF",
-    "label": "Aarti Surfactants Limited"
+    "label": "Aarti Surfactants Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "SPENCERS",
-    "label": "Spencer's Retail Limited"
+    "label": "Spencer's Retail Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "5PAISA",
-    "label": "5Paisa Capital Limited"
+    "label": "5Paisa Capital Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "KARDA",
-    "label": "Karda Constructions Limited"
+    "label": "Karda Constructions Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "GMBREW",
-    "label": "GM Breweries Limited"
+    "label": "GM Breweries Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "IMFA",
-    "label": "Indian Metals & Ferro Alloys Limited"
+    "label": "Indian Metals & Ferro Alloys Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ANUP",
-    "label": "The Anup Engineering Limited"
+    "label": "The Anup Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ENIL",
-    "label": "Entertainment Network (India) Limited"
+    "label": "Entertainment Network (India) Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "SUTLEJTEX",
-    "label": "Sutlej Textiles and Industries Limited"
+    "label": "Sutlej Textiles and Industries Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "FIEMIND",
-    "label": "Fiem Industries Limited"
+    "label": "Fiem Industries Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SADBHIN",
-    "label": "Sadbhav Infrastructure Project Limited"
+    "label": "Sadbhav Infrastructure Project Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "AVTNPL",
-    "label": "AVT Natural Products Limited"
+    "label": "AVT Natural Products Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "FCL",
-    "label": "Fineotex Chemical Limited"
+    "label": "Fineotex Chemical Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "GAYAPROJ",
-    "label": "Gayatri Projects Limited"
+    "label": "Gayatri Projects Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "KITEX",
-    "label": "Kitex Garments Limited"
+    "label": "Kitex Garments Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "IMPAL",
-    "label": "India Motor Parts and Accessories Limited"
+    "label": "India Motor Parts and Accessories Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "PRABHAT",
-    "label": "Prabhat Dairy Limited"
+    "label": "Prabhat Dairy Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "KELLTONTEC",
-    "label": "Kellton Tech Solutions Limited"
+    "label": "Kellton Tech Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "SRIPIPES",
-    "label": "Srikalahasthi Pipes Limited"
+    "label": "Srikalahasthi Pipes Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "RELINFRA",
-    "label": "Reliance Infrastructure Limited"
+    "label": "Reliance Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "STERTOOLS",
-    "label": "Sterling Tools Limited"
+    "label": "Sterling Tools Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "ONMOBILE",
-    "label": "OnMobile Global Limited"
+    "label": "OnMobile Global Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "CENTRUM",
-    "label": "Centrum Capital Limited"
+    "label": "Centrum Capital Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "THEINVEST",
-    "label": "The Investment Trust Of India Limited"
+    "label": "The Investment Trust Of India Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "SMLISUZU",
-    "label": "SML Isuzu Limited"
+    "label": "SML Isuzu Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "BAJAJHIND",
-    "label": "Bajaj Hindusthan Sugar Limited"
+    "label": "Bajaj Hindusthan Sugar Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "ZENTEC",
-    "label": "Zen Technologies Limited"
+    "label": "Zen Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BALAJITELE",
-    "label": "Balaji Telefilms Limited"
+    "label": "Balaji Telefilms Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "KINGFA",
-    "label": "Kingfa Science & Technology (India) Limited"
+    "label": "Kingfa Science & Technology (India) Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BHAGERIA",
-    "label": "Bhageria Industries Limited"
+    "label": "Bhageria Industries Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "PLASTIBLEN",
-    "label": "Plastiblends India Limited"
+    "label": "Plastiblends India Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "MIRZAINT",
-    "label": "Mirza International Limited"
+    "label": "Mirza International Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "DATAMATICS",
-    "label": "Datamatics Global Services Limited"
+    "label": "Datamatics Global Services Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MPSLTD",
-    "label": "MPS Limited"
+    "label": "MPS Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "TWL",
-    "label": "Titagarh Wagons Limited"
+    "label": "Titagarh Wagons Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "TARC",
-    "label": "Anant Raj Global Limited"
+    "label": "Anant Raj Global Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "NCLIND",
-    "label": "NCL Industries Limited"
+    "label": "NCL Industries Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "KOKUYOCMLN",
-    "label": "Kokuyo Camlin Limited"
+    "label": "Kokuyo Camlin Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MUTHOOTCAP",
-    "label": "Muthoot Capital Services Limited"
+    "label": "Muthoot Capital Services Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "BALAXI",
-    "label": "BALAXI PHARMACEUTICALS LIMITED"
+    "label": "BALAXI PHARMACEUTICALS LIMITED",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "GICHSGFIN",
-    "label": "GIC Housing Finance Limited"
+    "label": "GIC Housing Finance Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "NAVKARCORP",
-    "label": "Navkar Corporation Limited"
+    "label": "Navkar Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "VIDHIING",
-    "label": "Vidhi Specialty Food Ingredients Limited"
+    "label": "Vidhi Specialty Food Ingredients Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "POWERMECH",
-    "label": "Power Mech Projects Limited"
+    "label": "Power Mech Projects Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "SKIPPER",
-    "label": "Skipper Limited"
+    "label": "Skipper Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "APTECHT",
-    "label": "Aptech Limited"
+    "label": "Aptech Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "EMAMIPAP",
-    "label": "Emami Paper Mills Limited"
+    "label": "Emami Paper Mills Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "MAXVIL",
-    "label": "Max Ventures and Industries Limited"
+    "label": "Max Ventures and Industries Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "VISAKAIND",
-    "label": "Visaka Industries Limited"
+    "label": "Visaka Industries Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MANGLMCEM",
-    "label": "Mangalam Cement Limited"
+    "label": "Mangalam Cement Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "ARMANFIN",
-    "label": "Arman Financial Services Limited"
+    "label": "Arman Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "KICL",
-    "label": "Kalyani Investment Company Limited"
+    "label": "Kalyani Investment Company Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "CANTABIL",
-    "label": "Cantabil Retail India Limited"
+    "label": "Cantabil Retail India Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "WENDT",
-    "label": "Wendt (India) Limited"
+    "label": "Wendt (India) Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "MANALIPETC",
-    "label": "Manali Petrochemicals Limited"
+    "label": "Manali Petrochemicals Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "RBL",
-    "label": "Rane Brake Lining Limited"
+    "label": "Rane Brake Lining Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "PATELENG",
-    "label": "Patel Engineering Limited"
+    "label": "Patel Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "RPGLIFE",
-    "label": "RPG Life Sciences Limited"
+    "label": "RPG Life Sciences Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "RIIL",
-    "label": "Reliance Industrial Infrastructure Limited"
+    "label": "Reliance Industrial Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "MUNJALAU",
-    "label": "Munjal Auto Industries Limited"
+    "label": "Munjal Auto Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "KOPRAN",
-    "label": "Kopran Limited"
+    "label": "Kopran Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "PANAMAPET",
-    "label": "Panama Petrochem Limited"
+    "label": "Panama Petrochem Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "SUMMITSEC",
-    "label": "Summit Securities Limited"
+    "label": "Summit Securities Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "GNA",
-    "label": "GNA Axles Limited"
+    "label": "GNA Axles Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "DWARKESH",
-    "label": "Dwarikesh Sugar Industries Limited"
+    "label": "Dwarikesh Sugar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "EKC",
-    "label": "Everest Kanto Cylinder Limited"
+    "label": "Everest Kanto Cylinder Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "ASALCBR",
-    "label": "Associated Alcohols & Breweries Ltd."
+    "label": "Associated Alcohols & Breweries Ltd.",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "TEXINFRA",
-    "label": "Texmaco Infrastructure & Holdings Limited"
+    "label": "Texmaco Infrastructure & Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "SHAREINDIA",
-    "label": "Share India Securities Limited"
+    "label": "Share India Securities Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "CENTUM",
-    "label": "Centum Electronics Limited"
+    "label": "Centum Electronics Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "MUNJALSHOW",
-    "label": "Munjal Showa Limited"
+    "label": "Munjal Showa Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "PRICOLLTD",
-    "label": "Pricol Limited"
+    "label": "Pricol Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "EBIXFOREX",
-    "label": "EBIXCASH WORLD MONEY INDIA LIMITED"
+    "label": "EBIXCASH WORLD MONEY INDIA LIMITED",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "POKARNA",
-    "label": "Pokarna Limited"
+    "label": "Pokarna Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "RCOM",
-    "label": "Reliance Communications Limited"
+    "label": "Reliance Communications Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MARINE",
-    "label": "Marine Electricals (India) Limited"
+    "label": "Marine Electricals (India) Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "UNIDT",
-    "label": "United Drilling Tools Limited"
+    "label": "United Drilling Tools Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "NELCAST",
-    "label": "Nelcast Limited"
+    "label": "Nelcast Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "VADILALIND",
-    "label": "Vadilal Industries Limited"
+    "label": "Vadilal Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SHAKTIPUMP",
-    "label": "Shakti Pumps (India) Limited"
+    "label": "Shakti Pumps (India) Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "JAYBARMARU",
-    "label": "Jay Bharat Maruti Limited"
+    "label": "Jay Bharat Maruti Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "APCL",
-    "label": "Anjani Portland Cement Limited"
+    "label": "Anjani Portland Cement Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "DYNAMATECH",
-    "label": "Dynamatic Technologies Limited"
+    "label": "Dynamatic Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "RGL",
-    "label": "Renaissance Global Limited"
+    "label": "Renaissance Global Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "NECLIFE",
-    "label": "Nectar Lifesciences Limited"
+    "label": "Nectar Lifesciences Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "GRAVITA",
-    "label": "Gravita India Limited"
+    "label": "Gravita India Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "EXPLEOSOL",
-    "label": "Expleo Solutions Limited"
+    "label": "Expleo Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "MONTECARLO",
-    "label": "Monte Carlo Fashions Limited"
+    "label": "Monte Carlo Fashions Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "ALICON",
-    "label": "Alicon Castalloy Limited"
+    "label": "Alicon Castalloy Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "INDRAMEDCO",
-    "label": "Indraprastha Medical Corporation Limited"
+    "label": "Indraprastha Medical Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "FEL",
-    "label": "Future Enterprises Limited"
+    "label": "Future Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "DIGISPICE",
-    "label": "DiGiSPICE Technologies Limited"
+    "label": "DiGiSPICE Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "DECCANCE",
-    "label": "Deccan Cements Limited"
+    "label": "Deccan Cements Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "NATHBIOGEN",
-    "label": "Nath Bio-Genes (India) Limited"
+    "label": "Nath Bio-Genes (India) Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "GOLDIAM",
-    "label": "Goldiam International Limited"
+    "label": "Goldiam International Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "MANGCHEFER",
-    "label": "Mangalore Chemicals & Fertilizers Limited"
+    "label": "Mangalore Chemicals & Fertilizers Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "EVERESTIND",
-    "label": "Everest Industries Limited"
+    "label": "Everest Industries Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "XELPMOC",
-    "label": "Xelpmoc Design And Tech Limited"
+    "label": "Xelpmoc Design And Tech Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "AJMERA",
-    "label": "Ajmera Realty & Infra India Limited"
+    "label": "Ajmera Realty & Infra India Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "DCW",
-    "label": "DCW Limited"
+    "label": "DCW Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ARSHIYA",
-    "label": "Arshiya Limited"
+    "label": "Arshiya Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "UNITECH",
-    "label": "Unitech Limited"
+    "label": "Unitech Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "NSIL",
-    "label": "Nalwa Sons Investments Limited"
+    "label": "Nalwa Sons Investments Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "RICOAUTO",
-    "label": "Rico Auto Industries Limited"
+    "label": "Rico Auto Industries Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "REPRO",
-    "label": "Repro India Limited"
+    "label": "Repro India Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "BBL",
-    "label": "Bharat Bijlee Limited"
+    "label": "Bharat Bijlee Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "SPIC",
-    "label": "Southern Petrochemicals Industries Corporation  Limited"
+    "label": "Southern Petrochemicals Industries Corporation  Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "STCINDIA",
-    "label": "The State Trading Corporation of India Limited"
+    "label": "The State Trading Corporation of India Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "SHALPAINTS",
-    "label": "Shalimar Paints Limited"
+    "label": "Shalimar Paints Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "KUANTUM",
-    "label": "Kuantum Papers Limited"
+    "label": "Kuantum Papers Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "LINCOLN",
-    "label": "Lincoln Pharmaceuticals Limited"
+    "label": "Lincoln Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "AMBIKCO",
-    "label": "Ambika Cotton Mills Limited"
+    "label": "Ambika Cotton Mills Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "UNIENTER",
-    "label": "Uniphos Enterprises Limited"
+    "label": "Uniphos Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SANDESH",
-    "label": "The Sandesh Limited"
+    "label": "The Sandesh Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "ELECON",
-    "label": "Elecon Engineering Company Limited"
+    "label": "Elecon Engineering Company Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "UNIVCABLES",
-    "label": "Universal Cables Limited"
+    "label": "Universal Cables Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "VSSL",
-    "label": "Vardhman Special Steels Limited"
+    "label": "Vardhman Special Steels Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "TDPOWERSYS",
-    "label": "TD Power Systems Limited"
+    "label": "TD Power Systems Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SHRIRAMEPC",
-    "label": "Shriram EPC Limited"
+    "label": "Shriram EPC Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "ROSSELLIND",
-    "label": "Rossell India Limited"
+    "label": "Rossell India Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MARATHON",
-    "label": "Marathon Nextgen Realty Limited"
+    "label": "Marathon Nextgen Realty Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "SANGHVIMOV",
-    "label": "Sanghvi Movers Limited"
+    "label": "Sanghvi Movers Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "MANINDS",
-    "label": "Man Industries (India) Limited"
+    "label": "Man Industries (India) Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "CENTENKA",
-    "label": "Century Enka Limited"
+    "label": "Century Enka Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "VHL",
-    "label": "Vardhman Holdings Limited"
+    "label": "Vardhman Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "GVKPIL",
-    "label": "GVK Power & Infrastructure Limited"
+    "label": "GVK Power & Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "VISHWARAJ",
-    "label": "Vishwaraj Sugar Industries Limited"
+    "label": "Vishwaraj Sugar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "CYBERTECH",
-    "label": "Cybertech Systems And Software Limited"
+    "label": "Cybertech Systems And Software Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "FSC",
-    "label": "Future Supply Chain Solutions Limited"
+    "label": "Future Supply Chain Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ALLSEC",
-    "label": "Allsec Technologies Limited"
+    "label": "Allsec Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "IFBAGRO",
-    "label": "IFB Agro Industries Limited"
+    "label": "IFB Agro Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "NELCO",
-    "label": "NELCO Limited"
+    "label": "NELCO Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "RAJRATAN",
-    "label": "Rajratan Global Wire Limited"
+    "label": "Rajratan Global Wire Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "ORIENTHOT",
-    "label": "Oriental Hotels Limited"
+    "label": "Oriental Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "ORIENTPPR",
-    "label": "Orient Paper & Industries Limited"
+    "label": "Orient Paper & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "ZEELEARN",
-    "label": "Zee Learn Limited"
+    "label": "Zee Learn Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "ZOTA",
-    "label": "Zota Health Care LImited"
+    "label": "Zota Health Care LImited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "PRECAM",
-    "label": "Precision Camshafts Limited"
+    "label": "Precision Camshafts Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "PGIL",
-    "label": "Pearl Global Industries Limited"
+    "label": "Pearl Global Industries Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MAHEPC",
-    "label": "Mahindra EPC Irrigation Limited"
+    "label": "Mahindra EPC Irrigation Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "SORILINFRA",
-    "label": "SORIL Infra Resources Limited"
+    "label": "SORIL Infra Resources Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "AVADHSUGAR",
-    "label": "Avadh Sugar & Energy Limited"
+    "label": "Avadh Sugar & Energy Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "SHREEPUSHK",
-    "label": "Shree Pushkar Chemicals & Fertilisers Limited"
+    "label": "Shree Pushkar Chemicals & Fertilisers Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "BIRLATYRE",
-    "label": "Birla Tyres Limited"
+    "label": "Birla Tyres Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SRHHYPOLTD",
-    "label": "Sree Rayalaseema Hi-Strength Hypo Limited"
+    "label": "Sree Rayalaseema Hi-Strength Hypo Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "HMVL",
-    "label": "Hindustan Media Ventures Limited"
+    "label": "Hindustan Media Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BCG",
-    "label": "Brightcom Group Limited"
+    "label": "Brightcom Group Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "TBZ",
-    "label": "Tribhovandas Bhimji Zaveri Limited"
+    "label": "Tribhovandas Bhimji Zaveri Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "ZUARI",
-    "label": "Zuari Agro Chemicals Limited"
+    "label": "Zuari Agro Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "CONTROLPR",
-    "label": "Control Print Limited"
+    "label": "Control Print Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "DLINKINDIA",
-    "label": "D-Link (India) Limited"
+    "label": "D-Link (India) Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "TIPSINDLTD",
-    "label": "TIPS Industries Limited"
+    "label": "TIPS Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "CEREBRAINT",
-    "label": "Cerebra Integrated Technologies Limited"
+    "label": "Cerebra Integrated Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "SASTASUNDR",
-    "label": "Sastasundar Ventures Limited"
+    "label": "Sastasundar Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "BINDALAGRO",
-    "label": "Oswal Chemicals & Fertilizers Limited"
+    "label": "Oswal Chemicals & Fertilizers Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "NBIFIN",
-    "label": "N. B. I. Industrial Finance Company Limited"
+    "label": "N. B. I. Industrial Finance Company Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SAKSOFT",
-    "label": "Saksoft Limited"
+    "label": "Saksoft Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "SPAL",
-    "label": "S. P. Apparels Limited"
+    "label": "S. P. Apparels Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "ATULAUTO",
-    "label": "Atul Auto Limited"
+    "label": "Atul Auto Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "BAFNAPH",
-    "label": "Bafna Pharmaceuticals Limited"
+    "label": "Bafna Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "ARVSMART",
-    "label": "Arvind SmartSpaces Limited"
+    "label": "Arvind SmartSpaces Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "THEJO",
-    "label": "Thejo Engineering Limited"
+    "label": "Thejo Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "NITINSPIN",
-    "label": "Nitin Spinners Limited"
+    "label": "Nitin Spinners Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "AKASH",
-    "label": "Akash Infra-Projects Limited"
+    "label": "Akash Infra-Projects Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "TFCILTD",
-    "label": "Tourism Finance Corporation of India Limited"
+    "label": "Tourism Finance Corporation of India Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "HERCULES",
-    "label": "Hercules Hoists Limited"
+    "label": "Hercules Hoists Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "GULPOLY",
-    "label": "Gulshan Polyols Limited"
+    "label": "Gulshan Polyols Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "TNPETRO",
-    "label": "Tamilnadu PetroProducts Limited"
+    "label": "Tamilnadu PetroProducts Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "VIMTALABS",
-    "label": "Vimta Labs Limited"
+    "label": "Vimta Labs Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "GOKEX",
-    "label": "Gokaldas Exports Limited"
+    "label": "Gokaldas Exports Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "SATIN",
-    "label": "Satin Creditcare Network Limited"
+    "label": "Satin Creditcare Network Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "UTTAMSUGAR",
-    "label": "Uttam Sugar Mills Limited"
+    "label": "Uttam Sugar Mills Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "DICIND",
-    "label": "DIC India Limited"
+    "label": "DIC India Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "MANAKSIA",
-    "label": "Manaksia Limited"
+    "label": "Manaksia Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "INFOBEAN",
-    "label": "InfoBeans Technologies Limited"
+    "label": "InfoBeans Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "63MOONS",
-    "label": "63 moons technologies limited"
+    "label": "63 moons technologies limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "NRAIL",
-    "label": "N R Agarwal Industries Limited"
+    "label": "N R Agarwal Industries Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "HTMEDIA",
-    "label": "HT Media Limited"
+    "label": "HT Media Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "TI",
-    "label": "Tilaknagar Industries Limited"
+    "label": "Tilaknagar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "HARITASEAT",
-    "label": "Harita Seating Systems Limited"
+    "label": "Harita Seating Systems Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "JAYNECOIND",
-    "label": "Jayaswal Neco Industries Limited"
+    "label": "Jayaswal Neco Industries Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "DHANBANK",
-    "label": "Dhanlaxmi Bank Limited"
+    "label": "Dhanlaxmi Bank Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "ADORWELD",
-    "label": "Ador Welding Limited"
+    "label": "Ador Welding Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "SREEL",
-    "label": "Sreeleathers Limited"
+    "label": "Sreeleathers Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "INDSWFTLAB",
-    "label": "Ind-Swift Laboratories Limited"
+    "label": "Ind-Swift Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "PPAP",
-    "label": "PPAP Automotive Limited"
+    "label": "PPAP Automotive Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "BRFL",
-    "label": "Bombay Rayon Fashions Limited"
+    "label": "Bombay Rayon Fashions Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "VIKASMCORP",
-    "label": "Vikas Multicorp Limited"
+    "label": "Vikas Multicorp Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "PRECWIRE",
-    "label": "Precision Wires India Limited"
+    "label": "Precision Wires India Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "RAMKY",
-    "label": "Ramky Infrastructure Limited"
+    "label": "Ramky Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "KAYA",
-    "label": "Kaya Limited"
+    "label": "Kaya Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "ORICONENT",
-    "label": "Oricon Enterprises Limited"
+    "label": "Oricon Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "JAYAGROGN",
-    "label": "Jayant Agro Organics Limited"
+    "label": "Jayant Agro Organics Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "TCPLPACK",
-    "label": "TCPL Packaging Limited"
+    "label": "TCPL Packaging Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "STEELXIND",
-    "label": "STEEL EXCHANGE INDIA LIMITED"
+    "label": "STEEL EXCHANGE INDIA LIMITED",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "JUBLINDS",
-    "label": "Jubilant Industries Limited"
+    "label": "Jubilant Industries Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "DBREALTY",
-    "label": "D B Realty Limited"
+    "label": "D B Realty Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "V2RETAIL",
-    "label": "V2 Retail Limited"
+    "label": "V2 Retail Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "LASA",
-    "label": "Lasa Supergenerics Limited"
+    "label": "Lasa Supergenerics Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "HDIL",
-    "label": "Housing Development and Infrastructure Limited"
+    "label": "Housing Development and Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "GKWLIMITED",
-    "label": "GKW Limited"
+    "label": "GKW Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "BGRENERGY",
-    "label": "BGR Energy Systems Limited"
+    "label": "BGR Energy Systems Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "MEP",
-    "label": "MEP Infrastructure Developers Limited"
+    "label": "MEP Infrastructure Developers Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "RML",
-    "label": "Rane (Madras) Limited"
+    "label": "Rane (Madras) Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "SREINFRA",
-    "label": "SREI Infrastructure Finance Limited"
+    "label": "SREI Infrastructure Finance Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "MAXIND",
-    "label": "Max India Limited"
+    "label": "Max India Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "GSCLCEMENT",
-    "label": "Gujarat Sidhee Cement Limited"
+    "label": "Gujarat Sidhee Cement Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "MADRASFERT",
-    "label": "Madras Fertilizers Limited"
+    "label": "Madras Fertilizers Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "THEMISMED",
-    "label": "Themis Medicare Limited"
+    "label": "Themis Medicare Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "GANDHITUBE",
-    "label": "Gandhi Special Tubes Limited"
+    "label": "Gandhi Special Tubes Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "RUBYMILLS",
-    "label": "The Ruby Mills Limited"
+    "label": "The Ruby Mills Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "RSWM",
-    "label": "RSWM Limited"
+    "label": "RSWM Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "HINDCOMPOS",
-    "label": "Hindustan Composites Limited"
+    "label": "Hindustan Composites Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "CUPID",
-    "label": "Cupid Limited"
+    "label": "Cupid Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "LIKHITHA",
-    "label": "Likhitha Infrastructure Limited"
+    "label": "Likhitha Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "PENIND",
-    "label": "Pennar Industries Limited"
+    "label": "Pennar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "HLVLTD",
-    "label": "HLV LIMITED"
+    "label": "HLV LIMITED",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "URJA",
-    "label": "Urja Global Limited"
+    "label": "Urja Global Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "HINDNATGLS",
-    "label": "Hindusthan National Glass & Industries Limited"
+    "label": "Hindusthan National Glass & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "GALLANTT",
-    "label": "Gallantt Metal Limited"
+    "label": "Gallantt Metal Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "SALASAR",
-    "label": "Salasar Techno Engineering Limited"
+    "label": "Salasar Techno Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BRNL",
-    "label": "Bharat Road Network Limited"
+    "label": "Bharat Road Network Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SWELECTES",
-    "label": "Swelect Energy Systems Limited"
+    "label": "Swelect Energy Systems Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "KABRAEXTRU",
-    "label": "Kabra Extrusion Technik Limited"
+    "label": "Kabra Extrusion Technik Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "MSPL",
-    "label": "MSP Steel & Power Limited"
+    "label": "MSP Steel & Power Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "NAGAFERT",
-    "label": "Nagarjuna Fertilizers and Chemicals Limited"
+    "label": "Nagarjuna Fertilizers and Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "ASAHISONG",
-    "label": "Asahi Songwon Colors Limited"
+    "label": "Asahi Songwon Colors Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "AHLWEST",
-    "label": "Asian Hotels (West) Limited"
+    "label": "Asian Hotels (West) Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "KAMDHENU",
-    "label": "Kamdhenu Limited"
+    "label": "Kamdhenu Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "PROZONINTU",
-    "label": "Prozone Intu Properties Limited"
+    "label": "Prozone Intu Properties Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "RELCAPITAL",
-    "label": "Reliance Capital Limited"
+    "label": "Reliance Capital Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SANGAMIND",
-    "label": "Sangam (India) Limited"
+    "label": "Sangam (India) Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "ARTEMISMED",
-    "label": "Artemis Medicare Services Limited"
+    "label": "Artemis Medicare Services Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "DYNPRO",
-    "label": "Dynemic Products Limited"
+    "label": "Dynemic Products Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "PTL",
-    "label": "PTL Enterprises Limited"
+    "label": "PTL Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "VARDHACRLC",
-    "label": "Vardhman Acrylics Limited"
+    "label": "Vardhman Acrylics Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "HITECHGEAR",
-    "label": "The Hi-Tech Gears Limited"
+    "label": "The Hi-Tech Gears Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "CAREERP",
-    "label": "Career Point Limited"
+    "label": "Career Point Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "CREST",
-    "label": "Crest Ventures Limited"
+    "label": "Crest Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "VASCONEQ",
-    "label": "Vascon Engineers Limited"
+    "label": "Vascon Engineers Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "HCL-INSYS",
-    "label": "HCL Infosystems Limited"
+    "label": "HCL Infosystems Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "ALANKIT",
-    "label": "Alankit Limited"
+    "label": "Alankit Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "JPINFRATEC",
-    "label": "Jaypee Infratech Limited"
+    "label": "Jaypee Infratech Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "ORIENTBELL",
-    "label": "Orient Bell Limited"
+    "label": "Orient Bell Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "RUSHIL",
-    "label": "Rushil Decor Limited"
+    "label": "Rushil Decor Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "BIOFILCHEM",
-    "label": "Biofil Chemicals & Pharmaceuticals Limited"
+    "label": "Biofil Chemicals & Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "HPL",
-    "label": "HPL Electric & Power Limited"
+    "label": "HPL Electric & Power Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "MIRCELECTR",
-    "label": "MIRC Electronics Limited"
+    "label": "MIRC Electronics Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "MENONBE",
-    "label": "Menon Bearings Limited"
+    "label": "Menon Bearings Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "NAHARSPING",
-    "label": "Nahar Spinning Mills Limited"
+    "label": "Nahar Spinning Mills Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "PGEL",
-    "label": "PG Electroplast Limited"
+    "label": "PG Electroplast Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "SUULD",
-    "label": "Suumaya Lifestyle Limited"
+    "label": "Suumaya Lifestyle Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "TRIGYN",
-    "label": "Trigyn Technologies Limited"
+    "label": "Trigyn Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "DVL",
-    "label": "Dhunseri Ventures Limited"
+    "label": "Dhunseri Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "ZEEMEDIA",
-    "label": "Zee Media Corporation Limited"
+    "label": "Zee Media Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "KREBSBIO",
-    "label": "Krebs Biochemicals and Industries Limited"
+    "label": "Krebs Biochemicals and Industries Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "UCALFUEL",
-    "label": "Ucal Fuel Systems Limited"
+    "label": "Ucal Fuel Systems Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ORIENTABRA",
-    "label": "Orient Abrasives Limited"
+    "label": "Orient Abrasives Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "WALCHANNAG",
-    "label": "Walchandnagar Industries Limited"
+    "label": "Walchandnagar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "KDDL",
-    "label": "KDDL Limited"
+    "label": "KDDL Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "NIPPOBATRY",
-    "label": "Indo-National Limited"
+    "label": "Indo-National Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "TRIL",
-    "label": "Transformers And Rectifiers (India) Limited"
+    "label": "Transformers And Rectifiers (India) Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "LINCPEN",
-    "label": "Linc Pen & Plastics Limited"
+    "label": "Linc Pen & Plastics Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "VLSFINANCE",
-    "label": "VLS Finance Limited"
+    "label": "VLS Finance Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "KHAICHEM",
-    "label": "Khaitan Chemicals & Fertilizers Limited"
+    "label": "Khaitan Chemicals & Fertilizers Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "GOKULAGRO",
-    "label": "Gokul Agro Resources Limited"
+    "label": "Gokul Agro Resources Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "JASH",
-    "label": "Jash Engineering Limited"
+    "label": "Jash Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "LIBERTSHOE",
-    "label": "Liberty Shoes Limited"
+    "label": "Liberty Shoes Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "APOLLO",
-    "label": "Apollo Micro Systems Limited"
+    "label": "Apollo Micro Systems Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "VERTOZ",
-    "label": "Vertoz Advertising Limited"
+    "label": "Vertoz Advertising Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "GUJAPOLLO",
-    "label": "Gujarat Apollo Industries Limited"
+    "label": "Gujarat Apollo Industries Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "SINTEX",
-    "label": "Sintex Industries Limited"
+    "label": "Sintex Industries Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "NDTV",
-    "label": "New Delhi Television Limited"
+    "label": "New Delhi Television Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "VISHNU",
-    "label": "Vishnu Chemicals Limited"
+    "label": "Vishnu Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "MAHESHWARI",
-    "label": "Maheshwari Logistics Limited"
+    "label": "Maheshwari Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "BIRLAMONEY",
-    "label": "Aditya Birla Money Limited"
+    "label": "Aditya Birla Money Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "ALBERTDAVD",
-    "label": "Albert David Limited"
+    "label": "Albert David Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "MCL",
-    "label": "Madhav Copper Limited"
+    "label": "Madhav Copper Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "UFO",
-    "label": "UFO Moviez India Limited"
+    "label": "UFO Moviez India Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "HIRECT",
-    "label": "Hind Rectifiers Limited"
+    "label": "Hind Rectifiers Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "JINDRILL",
-    "label": "Jindal Drilling And Industries Limited"
+    "label": "Jindal Drilling And Industries Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "GOACARBON",
-    "label": "Goa Carbon Limited"
+    "label": "Goa Carbon Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "SHRENIK",
-    "label": "Shrenik Limited"
+    "label": "Shrenik Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "GULFPETRO",
-    "label": "GP Petroleums Limited"
+    "label": "GP Petroleums Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MBLINFRA",
-    "label": "MBL Infrastructures Limited"
+    "label": "MBL Infrastructures Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "VIPULLTD",
-    "label": "Vipul Limited"
+    "label": "Vipul Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "ZODIACLOTH",
-    "label": "Zodiac Clothing Company Limited"
+    "label": "Zodiac Clothing Company Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "ASTRON",
-    "label": "Astron Paper & Board Mill Limited"
+    "label": "Astron Paper & Board Mill Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "RAMANEWS",
-    "label": "Shree Rama Newsprint Limited"
+    "label": "Shree Rama Newsprint Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "8KMILES",
-    "label": "8K Miles Software Services Limited"
+    "label": "8K Miles Software Services Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ASHIMASYN",
-    "label": "Ashima Limited"
+    "label": "Ashima Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "ADVANIHOTR",
-    "label": "Advani Hotels & Resorts (India) Limited"
+    "label": "Advani Hotels & Resorts (India) Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "TVSELECT",
-    "label": "TVS Electronics Limited"
+    "label": "TVS Electronics Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "PPL",
-    "label": "Prakash Pipes Limited"
+    "label": "Prakash Pipes Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "AIRAN",
-    "label": "Airan Limited"
+    "label": "Airan Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "BLKASHYAP",
-    "label": "B. L. Kashyap and Sons Limited"
+    "label": "B. L. Kashyap and Sons Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "NAHARPOLY",
-    "label": "Nahar Poly Films Limited"
+    "label": "Nahar Poly Films Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "SIMPLEXINF",
-    "label": "Simplex Infrastructures Limited"
+    "label": "Simplex Infrastructures Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "CHEMBOND",
-    "label": "Chembond Chemicals Ltd"
+    "label": "Chembond Chemicals Ltd",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "RNAVAL",
-    "label": "Reliance Naval and Engineering Limited"
+    "label": "Reliance Naval and Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "PILITA",
-    "label": "PIL ITALICA LIFESTYLE LIMITED"
+    "label": "PIL ITALICA LIFESTYLE LIMITED",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "VINYLINDIA",
-    "label": "Vinyl Chemicals (India) Limited"
+    "label": "Vinyl Chemicals (India) Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "MCLEODRUSS",
-    "label": "Mcleod Russel India Limited"
+    "label": "Mcleod Russel India Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "SPECIALITY",
-    "label": "Speciality Restaurants Limited"
+    "label": "Speciality Restaurants Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "NILAINFRA",
-    "label": "Nila Infrastructures Limited"
+    "label": "Nila Infrastructures Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SCHAND",
-    "label": "S Chand And Company Limited"
+    "label": "S Chand And Company Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SILINV",
-    "label": "SIL Investments Limited"
+    "label": "SIL Investments Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "KHADIM",
-    "label": "Khadim India Limited"
+    "label": "Khadim India Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "EIFFL",
-    "label": "Euro India Fresh Foods Limited"
+    "label": "Euro India Fresh Foods Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "GIRRESORTS",
-    "label": "GIR Natureview Resorts Limited"
+    "label": "GIR Natureview Resorts Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "MANGALAM",
-    "label": "Mangalam Drugs And Organics Limited"
+    "label": "Mangalam Drugs And Organics Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "HITECH",
-    "label": "Hi-Tech Pipes Limited"
+    "label": "Hi-Tech Pipes Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "KOTHARIPRO",
-    "label": "Kothari Products Limited"
+    "label": "Kothari Products Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "JAIBALAJI",
-    "label": "Jai Balaji Industries Limited"
+    "label": "Jai Balaji Industries Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "HARRMALAYA",
-    "label": "Harrisons  Malayalam Limited"
+    "label": "Harrisons  Malayalam Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "EROSMEDIA",
-    "label": "Eros International Media Limited"
+    "label": "Eros International Media Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "PARSVNATH",
-    "label": "Parsvnath Developers Limited"
+    "label": "Parsvnath Developers Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "BASML",
-    "label": "Bannari Amman Spinning Mills Limited"
+    "label": "Bannari Amman Spinning Mills Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "BANSWRAS",
-    "label": "Banswara Syntex Limited"
+    "label": "Banswara Syntex Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "KANORICHEM",
-    "label": "Kanoria Chemicals & Industries Limited"
+    "label": "Kanoria Chemicals & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "ESSARSHPNG",
-    "label": "Essar Shipping Limited"
+    "label": "Essar Shipping Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ZUARIGLOB",
-    "label": "Zuari Global Limited"
+    "label": "Zuari Global Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "VIDEOIND",
-    "label": "Videocon Industries Limited"
+    "label": "Videocon Industries Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "AURIONPRO",
-    "label": "Aurionpro Solutions Limited"
+    "label": "Aurionpro Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "AXISCADES",
-    "label": "AXISCADES Technologies Limited"
+    "label": "AXISCADES Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SDBL",
-    "label": "Som Distilleries & Breweries Limited"
+    "label": "Som Distilleries & Breweries Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "ROHLTD",
-    "label": "Royal Orchid Hotels Limited"
+    "label": "Royal Orchid Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "PDMJEPAPER",
-    "label": "Pudumjee Paper Products Limited"
+    "label": "Pudumjee Paper Products Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "AKSHARCHEM",
-    "label": "AksharChem India Limited"
+    "label": "AksharChem India Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "MMP",
-    "label": "MMP Industries Limited"
+    "label": "MMP Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "PODDARMENT",
-    "label": "Poddar Pigments Limited"
+    "label": "Poddar Pigments Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "REFEX",
-    "label": "Refex Industries Limited"
+    "label": "Refex Industries Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "SALZERELEC",
-    "label": "Salzer Electronics Limited"
+    "label": "Salzer Electronics Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "JAYSREETEA",
-    "label": "Jayshree Tea & Industries Limited"
+    "label": "Jayshree Tea & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "SHIVAMAUTO",
-    "label": "Shivam Autotech Limited"
+    "label": "Shivam Autotech Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "MAZDA",
-    "label": "Mazda Limited"
+    "label": "Mazda Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "HITECHCORP",
-    "label": "Hitech Corporation Limited"
+    "label": "Hitech Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "SHEMAROO",
-    "label": "Shemaroo Entertainment Limited"
+    "label": "Shemaroo Entertainment Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "CHEMFAB",
-    "label": "Chemfab Alkalis Limited"
+    "label": "Chemfab Alkalis Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "GENESYS",
-    "label": "Genesys International Corporation Limited"
+    "label": "Genesys International Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SARLAPOLY",
-    "label": "Sarla Performance Fibers Limited"
+    "label": "Sarla Performance Fibers Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "SMSLIFE",
-    "label": "SMS Lifesciences India Limited"
+    "label": "SMS Lifesciences India Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "OMMETALS",
-    "label": "OM Metals Infraprojects Limited"
+    "label": "OM Metals Infraprojects Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "REPL",
-    "label": "Rudrabhishek Enterprises Limited"
+    "label": "Rudrabhishek Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "ORBTEXP",
-    "label": "Orbit Exports Limited"
+    "label": "Orbit Exports Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "SPTL",
-    "label": "Sintex Plastics Technology Limited"
+    "label": "Sintex Plastics Technology Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "EMKAY",
-    "label": "Emkay Global Financial Services Limited"
+    "label": "Emkay Global Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "AYMSYNTEX",
-    "label": "AYM Syntex Limited"
+    "label": "AYM Syntex Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "SINTERCOM",
-    "label": "Sintercom India Limited"
+    "label": "Sintercom India Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "EIMCOELECO",
-    "label": "Eimco Elecon (India) Limited"
+    "label": "Eimco Elecon (India) Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "DPABHUSHAN",
-    "label": "D. P. Abhushan Limited"
+    "label": "D. P. Abhushan Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "HEXATRADEX",
-    "label": "Hexa Tradex Limited"
+    "label": "Hexa Tradex Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "SELAN",
-    "label": "Selan Exploration Technology Limited"
+    "label": "Selan Exploration Technology Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "AHLEAST",
-    "label": "Asian Hotels (East) Limited"
+    "label": "Asian Hotels (East) Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "UGARSUGAR",
-    "label": "The Ugar Sugar Works Limited"
+    "label": "The Ugar Sugar Works Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "GENUSPAPER",
-    "label": "Genus Paper & Boards Limited"
+    "label": "Genus Paper & Boards Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "JAGSNPHARM",
-    "label": "Jagsonpal Pharmaceuticals Limited"
+    "label": "Jagsonpal Pharmaceuticals Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ADSL",
-    "label": "Allied Digital Services Limited"
+    "label": "Allied Digital Services Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "KRISHANA",
-    "label": "Krishana Phoschem Limited"
+    "label": "Krishana Phoschem Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "RAJTV",
-    "label": "Raj Television Network Limited"
+    "label": "Raj Television Network Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "KCPSUGIND",
-    "label": "KCP Sugar and Industries Corporation Limited"
+    "label": "KCP Sugar and Industries Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "VENUSREM",
-    "label": "Venus Remedies Limited"
+    "label": "Venus Remedies Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "RANEENGINE",
-    "label": "Rane Engine Valve Limited"
+    "label": "Rane Engine Valve Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "GREENPOWER",
-    "label": "Orient Green Power Company Limited"
+    "label": "Orient Green Power Company Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "GEECEE",
-    "label": "GeeCee Ventures Limited"
+    "label": "GeeCee Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "NITCO",
-    "label": "Nitco Limited"
+    "label": "Nitco Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "NAHARINDUS",
-    "label": "Nahar Industrial Enterprises Limited"
+    "label": "Nahar Industrial Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "DTIL",
-    "label": "Dhunseri Tea & Industries Limited"
+    "label": "Dhunseri Tea & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BIL",
-    "label": "Bhartiya International Limited"
+    "label": "Bhartiya International Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "CEBBCO",
-    "label": "Commercial Engineers & Body Builders Co Limited"
+    "label": "Commercial Engineers & Body Builders Co Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "DONEAR",
-    "label": "Donear Industries Limited"
+    "label": "Donear Industries Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "PITTIENG",
-    "label": "Pitti Engineering Limited"
+    "label": "Pitti Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "STARPAPER",
-    "label": "Star Paper Mills Limited"
+    "label": "Star Paper Mills Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "UNIVPHOTO",
-    "label": "Universus Photo Imagings Limited"
+    "label": "Universus Photo Imagings Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "GOKUL",
-    "label": "Gokul Refoils and Solvent Limited"
+    "label": "Gokul Refoils and Solvent Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "ANSALAPI",
-    "label": "Ansal Properties & Infrastructure Limited"
+    "label": "Ansal Properties & Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "TIL",
-    "label": "TIL Limited"
+    "label": "TIL Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "TALBROAUTO",
-    "label": "Talbros Automotive Components Limited"
+    "label": "Talbros Automotive Components Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "PREMEXPLN",
-    "label": "Premier Explosives Limited"
+    "label": "Premier Explosives Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "ANDHRACEMT",
-    "label": "Andhra Cements Limited"
+    "label": "Andhra Cements Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "BALLARPUR",
-    "label": "Ballarpur Industries Limited"
+    "label": "Ballarpur Industries Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ONWARDTEC",
-    "label": "Onward Technologies Limited"
+    "label": "Onward Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "BIRLACABLE",
-    "label": "Birla Cable Limited"
+    "label": "Birla Cable Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "OPTOCIRCUI",
-    "label": "Opto Circuits (India) Limited"
+    "label": "Opto Circuits (India) Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "ISMTLTD",
-    "label": "ISMT Limited"
+    "label": "ISMT Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "CAPTRUST",
-    "label": "Capital Trust Limited"
+    "label": "Capital Trust Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SAKUMA",
-    "label": "Sakuma Exports Limited"
+    "label": "Sakuma Exports Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "ABAN",
-    "label": "Aban Offshore Limited"
+    "label": "Aban Offshore Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BIGBLOC",
-    "label": "Bigbloc Construction Limited"
+    "label": "Bigbloc Construction Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "PENINLAND",
-    "label": "Peninsula Land Limited"
+    "label": "Peninsula Land Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "BHARATWIRE",
-    "label": "Bharat Wire Ropes Limited"
+    "label": "Bharat Wire Ropes Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ICEMAKE",
-    "label": "Ice Make Refrigeration Limited"
+    "label": "Ice Make Refrigeration Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "MAGADSUGAR",
-    "label": "Magadh Sugar & Energy Limited"
+    "label": "Magadh Sugar & Energy Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BROOKS",
-    "label": "Brooks Laboratories Limited"
+    "label": "Brooks Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "UNITEDTEA",
-    "label": "The United Nilgiri Tea Estates Company Limited"
+    "label": "The United Nilgiri Tea Estates Company Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "JOCIL",
-    "label": "Jocil Limited"
+    "label": "Jocil Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "KOTARISUG",
-    "label": "Kothari Sugars And Chemicals Limited"
+    "label": "Kothari Sugars And Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "MANAKSTEEL",
-    "label": "Manaksia Steels Limited"
+    "label": "Manaksia Steels Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "GINNIFILA",
-    "label": "Ginni Filaments Limited"
+    "label": "Ginni Filaments Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SEYAIND",
-    "label": "Seya Industries Limited"
+    "label": "Seya Industries Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "HINDMOTORS",
-    "label": "Hindustan Motors Limited"
+    "label": "Hindustan Motors Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SETCO",
-    "label": "Setco Automotive Limited"
+    "label": "Setco Automotive Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "DHUNINV",
-    "label": "Dhunseri Investments Limited"
+    "label": "Dhunseri Investments Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "RUCHINFRA",
-    "label": "Ruchi Infrastructure Limited"
+    "label": "Ruchi Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "PIONDIST",
-    "label": "Pioneer Distilleries Limited"
+    "label": "Pioneer Distilleries Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "SKMEGGPROD",
-    "label": "SKM Egg Products Export (India) Limited"
+    "label": "SKM Egg Products Export (India) Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "FCSSOFT",
-    "label": "FCS Software Solutions Limited"
+    "label": "FCS Software Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "RUCHIRA",
-    "label": "Ruchira Papers Limited"
+    "label": "Ruchira Papers Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "3RDROCK",
-    "label": "3rd Rock Multimedia Limited"
+    "label": "3rd Rock Multimedia Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "MBAPL",
-    "label": "Madhya Bharat Agro Products Limited"
+    "label": "Madhya Bharat Agro Products Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "APOLSINHOT",
-    "label": "Apollo Sindoori Hotels Limited"
+    "label": "Apollo Sindoori Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "GANESHHOUC",
-    "label": "Ganesh Housing Corporation Limited"
+    "label": "Ganesh Housing Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "IVC",
-    "label": "IL&FS Investment Managers Limited"
+    "label": "IL&FS Investment Managers Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "KAKATCEM",
-    "label": "Kakatiya Cement Sugar & Industries Limited"
+    "label": "Kakatiya Cement Sugar & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "VIVIMEDLAB",
-    "label": "Vivimed Labs Limited"
+    "label": "Vivimed Labs Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "KILITCH",
-    "label": "Kilitch Drugs (India) Limited"
+    "label": "Kilitch Drugs (India) Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "MOLDTECH",
-    "label": "Mold-Tek Technologies Limited"
+    "label": "Mold-Tek Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "VETO",
-    "label": "Veto Switchgears And Cables Limited"
+    "label": "Veto Switchgears And Cables Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "SHIVATEX",
-    "label": "Shiva Texyarn Limited"
+    "label": "Shiva Texyarn Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "NAHARCAP",
-    "label": "Nahar Capital and Financial Services Limited"
+    "label": "Nahar Capital and Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "SUPERHOUSE",
-    "label": "Superhouse Limited"
+    "label": "Superhouse Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SAKAR",
-    "label": "Sakar Healthcare Limited"
+    "label": "Sakar Healthcare Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "JHS",
-    "label": "JHS Svendgaard Laboratories Limited"
+    "label": "JHS Svendgaard Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SHYAMCENT",
-    "label": "Shyam Century Ferrous Limited"
+    "label": "Shyam Century Ferrous Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "ASIANHOTNR",
-    "label": "Asian Hotels (North) Limited"
+    "label": "Asian Hotels (North) Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "ELECTHERM",
-    "label": "Electrotherm (India) Limited"
+    "label": "Electrotherm (India) Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "REVATHI",
-    "label": "Revathi Equipment Limited"
+    "label": "Revathi Equipment Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MINDTECK",
-    "label": "Mindteck (India) Limited"
+    "label": "Mindteck (India) Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "LOVABLE",
-    "label": "Lovable Lingerie Limited"
+    "label": "Lovable Lingerie Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "INVENTURE",
-    "label": "Inventure Growth & Securities Limited"
+    "label": "Inventure Growth & Securities Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "20MICRONS",
-    "label": "20 Microns Limited"
+    "label": "20 Microns Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "UMANGDAIRY",
-    "label": "Umang Dairies Limited"
+    "label": "Umang Dairies Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "WEBELSOLAR",
-    "label": "Websol Energy System Limited"
+    "label": "Websol Energy System Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "PARACABLES",
-    "label": "Paramount Communications Limited"
+    "label": "Paramount Communications Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SHREYAS",
-    "label": "Shreyas Shipping & Logistics Limited"
+    "label": "Shreyas Shipping & Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "PONNIERODE",
-    "label": "Ponni Sugars (Erode) Limited"
+    "label": "Ponni Sugars (Erode) Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "INSPIRISYS",
-    "label": "Inspirisys Solutions Limited"
+    "label": "Inspirisys Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "EMMBI",
-    "label": "Emmbi Industries Limited"
+    "label": "Emmbi Industries Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "EMAMIREAL",
-    "label": "Emami Realty Limited"
+    "label": "Emami Realty Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "OSWALAGRO",
-    "label": "Oswal Agro Mills Limited"
+    "label": "Oswal Agro Mills Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "DEEPENR",
-    "label": "DEEP ENERGY RESOURCES LIMITED"
+    "label": "DEEP ENERGY RESOURCES LIMITED",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "NDRAUTO",
-    "label": "Ndr Auto Components Limited"
+    "label": "Ndr Auto Components Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "GPTINFRA",
-    "label": "GPT Infraprojects Limited"
+    "label": "GPT Infraprojects Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "RVHL",
-    "label": "Ravinder Heights Limited"
+    "label": "Ravinder Heights Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "KOTHARIPET",
-    "label": "Kothari Petrochemicals Limited"
+    "label": "Kothari Petrochemicals Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "DANGEE",
-    "label": "Dangee Dums Limited"
+    "label": "Dangee Dums Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "CONSOFINVT",
-    "label": "Consolidated Finvest & Holdings Limited"
+    "label": "Consolidated Finvest & Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "INDTERRAIN",
-    "label": "Indian Terrain Fashions Limited"
+    "label": "Indian Terrain Fashions Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "ARIES",
-    "label": "Aries Agro Limited"
+    "label": "Aries Agro Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "IITL",
-    "label": "Industrial Investment Trust Limited"
+    "label": "Industrial Investment Trust Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "MAWANASUG",
-    "label": "Mawana Sugars Limited"
+    "label": "Mawana Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "PRAXIS",
-    "label": "Praxis Home Retail Limited"
+    "label": "Praxis Home Retail Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ASPINWALL",
-    "label": "Aspinwall and Company Limited"
+    "label": "Aspinwall and Company Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "MAHAPEXLTD",
-    "label": "Maha Rashtra Apex Corporation Limited"
+    "label": "Maha Rashtra Apex Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "MAHASTEEL",
-    "label": "Mahamaya Steel Industries Limited"
+    "label": "Mahamaya Steel Industries Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "JMTAUTOLTD",
-    "label": "JMT Auto Limited"
+    "label": "JMT Auto Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "WELINV",
-    "label": "Welspun Investments and Commercials Limited"
+    "label": "Welspun Investments and Commercials Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "NDL",
-    "label": "Nandan Denim Limited"
+    "label": "Nandan Denim Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "ARIHANTSUP",
-    "label": "Arihant Superstructures Limited"
+    "label": "Arihant Superstructures Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "RHFL",
-    "label": "Reliance Home Finance Limited"
+    "label": "Reliance Home Finance Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "STEL",
-    "label": "Stel Holdings Limited"
+    "label": "Stel Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "TPLPLASTEH",
-    "label": "TPL Plastech Limited"
+    "label": "TPL Plastech Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "GOODLUCK",
-    "label": "Goodluck India Limited"
+    "label": "Goodluck India Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "DENORA",
-    "label": "De Nora India Limited"
+    "label": "De Nora India Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SITINET",
-    "label": "Siti Networks Limited"
+    "label": "Siti Networks Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ALPHAGEO",
-    "label": "Alphageo (India) Limited"
+    "label": "Alphageo (India) Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "CREATIVE",
-    "label": "Creative Peripherals and Distribution Limited"
+    "label": "Creative Peripherals and Distribution Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "AKSHOPTFBR",
-    "label": "Aksh Optifibre Limited"
+    "label": "Aksh Optifibre Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "RPPINFRA",
-    "label": "R.P.P. Infra Projects Limited"
+    "label": "R.P.P. Infra Projects Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "JBFIND",
-    "label": "JBF Industries Limited"
+    "label": "JBF Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "RPPL",
-    "label": "Rajshree Polypack Limited"
+    "label": "Rajshree Polypack Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "SHREYANIND",
-    "label": "Shreyans Industries Limited"
+    "label": "Shreyans Industries Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "TCIDEVELOP",
-    "label": "TCI Developers Limited"
+    "label": "TCI Developers Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "NIRAJ",
-    "label": "Niraj Cement Structurals Limited"
+    "label": "Niraj Cement Structurals Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "INDOTECH",
-    "label": "Indo Tech Transformers Limited"
+    "label": "Indo Tech Transformers Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "SUNDRMBRAK",
-    "label": "Sundaram Brake Linings Limited"
+    "label": "Sundaram Brake Linings Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "HUBTOWN",
-    "label": "Hubtown Limited"
+    "label": "Hubtown Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "SAKHTISUG",
-    "label": "Sakthi Sugars Limited"
+    "label": "Sakthi Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "NOIDATOLL",
-    "label": "Noida Toll Bridge Company Limited"
+    "label": "Noida Toll Bridge Company Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "PRIMESECU",
-    "label": "Prime Securities Limited"
+    "label": "Prime Securities Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "SMARTLINK",
-    "label": "Smartlink Holdings Limited"
+    "label": "Smartlink Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "GRPLTD",
-    "label": "GRP Limited"
+    "label": "GRP Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "ADHUNIKIND",
-    "label": "Adhunik Industries Limited"
+    "label": "Adhunik Industries Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "TTL",
-    "label": "T T Limited"
+    "label": "T T Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "EMKAYTOOLS",
-    "label": "Emkay Taps and Cutting Tools Limited"
+    "label": "Emkay Taps and Cutting Tools Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "SOUTHWEST",
-    "label": "South West Pinnacle Exploration Limited"
+    "label": "South West Pinnacle Exploration Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "DPWIRES",
-    "label": "D P Wires Limited"
+    "label": "D P Wires Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "SILVERTUC",
-    "label": "Silver Touch Technologies Limited"
+    "label": "Silver Touch Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "MARALOVER",
-    "label": "Maral Overseas Limited"
+    "label": "Maral Overseas Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "WANBURY",
-    "label": "Wanbury Limited"
+    "label": "Wanbury Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "MGEL",
-    "label": "Mangalam Global Enterprise Limited"
+    "label": "Mangalam Global Enterprise Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "RKEC",
-    "label": "RKEC Projects Limited"
+    "label": "RKEC Projects Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "WINDMACHIN",
-    "label": "Windsor Machines Limited"
+    "label": "Windsor Machines Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "BETA",
-    "label": "Beta Drugs Limited"
+    "label": "Beta Drugs Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "OSIAHYPER",
-    "label": "Osia Hyper Retail Limited"
+    "label": "Osia Hyper Retail Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BHAGYANGR",
-    "label": "Bhagyanagar India Limited"
+    "label": "Bhagyanagar India Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "ELGIRUBCO",
-    "label": "Elgi Rubber Company Limited"
+    "label": "Elgi Rubber Company Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "BPL",
-    "label": "BPL Limited"
+    "label": "BPL Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "MACPOWER",
-    "label": "Macpower CNC Machines Limited"
+    "label": "Macpower CNC Machines Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "UTTAMSTL",
-    "label": "Uttam Galva Steels Limited"
+    "label": "Uttam Galva Steels Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "VIKASECO",
-    "label": "Vikas EcoTech Limited"
+    "label": "Vikas EcoTech Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "FMNL",
-    "label": "Future Market Networks Limited"
+    "label": "Future Market Networks Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "KMSUGAR",
-    "label": "K.M.Sugar Mills Limited"
+    "label": "K.M.Sugar Mills Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "RANASUG",
-    "label": "Rana Sugars Limited"
+    "label": "Rana Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "VIPCLOTHNG",
-    "label": "VIP Clothing Limited"
+    "label": "VIP Clothing Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "AHLADA",
-    "label": "Ahlada Engineers Limited"
+    "label": "Ahlada Engineers Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "PODDARHOUS",
-    "label": "Poddar Housing and Development Limited"
+    "label": "Poddar Housing and Development Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "TRF",
-    "label": "TRF Limited"
+    "label": "TRF Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "AGARIND",
-    "label": "Agarwal Industrial Corporation Limited"
+    "label": "Agarwal Industrial Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "MURUDCERA",
-    "label": "Murudeshwar Ceramics Limited"
+    "label": "Murudeshwar Ceramics Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "DRSDILIP",
-    "label": "DRS Dilip Roadlines Limited"
+    "label": "DRS Dilip Roadlines Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "KECL",
-    "label": "Kirloskar Electric Company Limited"
+    "label": "Kirloskar Electric Company Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "AMJLAND",
-    "label": "Amj Land Holdings Limited"
+    "label": "Amj Land Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "BBTCL",
-    "label": "B&B Triplewall Containers Limited"
+    "label": "B&B Triplewall Containers Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "KAPSTON",
-    "label": "Kapston Facilities Management Limited"
+    "label": "Kapston Facilities Management Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "TEMBO",
-    "label": "Tembo Global Industries Limited"
+    "label": "Tembo Global Industries Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "COMPINFO",
-    "label": "Compuage Infocom Limited"
+    "label": "Compuage Infocom Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "SICAL",
-    "label": "Sical Logistics Limited"
+    "label": "Sical Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "CINELINE",
-    "label": "Cineline India Limited"
+    "label": "Cineline India Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "ISFT",
-    "label": "Intrasoft Technologies Limited"
+    "label": "Intrasoft Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "DCMNVL",
-    "label": "DCM Nouvelle Limited"
+    "label": "DCM Nouvelle Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "PRECOT",
-    "label": "Precot Limited"
+    "label": "Precot Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "INTENTECH",
-    "label": "Intense Technologies Limited"
+    "label": "Intense Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "GILLANDERS",
-    "label": "Gillanders Arbuthnot & Company Limited"
+    "label": "Gillanders Arbuthnot & Company Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "GROBTEA",
-    "label": "The Grob Tea Company Limited"
+    "label": "The Grob Tea Company Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "WEALTH",
-    "label": "Wealth First Portfolio Managers Limited"
+    "label": "Wealth First Portfolio Managers Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "SPLIL",
-    "label": "SPL Industries Limited"
+    "label": "SPL Industries Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "SPECTRUM",
-    "label": "Spectrum Electrical Industries Limited"
+    "label": "Spectrum Electrical Industries Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "BSHSL",
-    "label": "Bombay Super Hybrid Seeds Limited"
+    "label": "Bombay Super Hybrid Seeds Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "JMA",
-    "label": "Jullundur Motor Agency (Delhi) Limited"
+    "label": "Jullundur Motor Agency (Delhi) Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "OMAXAUTO",
-    "label": "Omax Autos Limited"
+    "label": "Omax Autos Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "GTL",
-    "label": "GTL Limited"
+    "label": "GTL Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "SANWARIA",
-    "label": "Sanwaria Consumer Limited"
+    "label": "Sanwaria Consumer Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "AUTOIND",
-    "label": "Autoline Industries Limited"
+    "label": "Autoline Industries Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "ROLTA",
-    "label": "Rolta India Limited"
+    "label": "Rolta India Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "PIONEEREMB",
-    "label": "Pioneer Embroideries Limited"
+    "label": "Pioneer Embroideries Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "CORALFINAC",
-    "label": "Coral India Finance & Housing Limited"
+    "label": "Coral India Finance & Housing Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "GOLDENTOBC",
-    "label": "Golden Tobacco Limited"
+    "label": "Golden Tobacco Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "ROLLT",
-    "label": "Rollatainers Limited"
+    "label": "Rollatainers Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "PREMIERPOL",
-    "label": "Premier Polyfilm Limited"
+    "label": "Premier Polyfilm Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "GSS",
-    "label": "GSS Infotech Limited"
+    "label": "GSS Infotech Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "TOTAL",
-    "label": "Total Transport Systems Limited"
+    "label": "Total Transport Systems Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "DGCONTENT",
-    "label": "Digicontent Limited"
+    "label": "Digicontent Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "CTE",
-    "label": "Cambridge Technology Enterprises Limited"
+    "label": "Cambridge Technology Enterprises Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ARROWGREEN",
-    "label": "Arrow Greentech Limited"
+    "label": "Arrow Greentech Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "CLEDUCATE",
-    "label": "CL Educate Limited"
+    "label": "CL Educate Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "MBECL",
-    "label": "Mcnally Bharat Engineering Company Limited"
+    "label": "Mcnally Bharat Engineering Company Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "MODIRUBBER",
-    "label": "Modi Rubber Limited"
+    "label": "Modi Rubber Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "LSIL",
-    "label": "Lloyds Steels Industries Limited"
+    "label": "Lloyds Steels Industries Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "KAMATHOTEL",
-    "label": "Kamat Hotels (I) Limited"
+    "label": "Kamat Hotels (I) Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "LYKALABS",
-    "label": "Lyka Labs Limited"
+    "label": "Lyka Labs Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "BABAFOOD",
-    "label": "Baba Agro Food Limited"
+    "label": "Baba Agro Food Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "PASHUPATI",
-    "label": "Pashupati Cotspin Limited"
+    "label": "Pashupati Cotspin Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "DAMODARIND",
-    "label": "Damodar Industries Limited"
+    "label": "Damodar Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "SOFTTECH",
-    "label": "Softtech Engineers Limited"
+    "label": "Softtech Engineers Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "WORTH",
-    "label": "Worth Peripherals Limited"
+    "label": "Worth Peripherals Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "A2ZINFRA",
-    "label": "A2Z Infra Engineering Limited"
+    "label": "A2Z Infra Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "AKG",
-    "label": "Akg Exim Limited"
+    "label": "Akg Exim Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "LGBFORGE",
-    "label": "LGB Forge Limited"
+    "label": "LGB Forge Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "WEIZMANIND",
-    "label": "Weizmann Limited"
+    "label": "Weizmann Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "CCHHL",
-    "label": "Country Club Hospitality & Holidays Limited"
+    "label": "Country Club Hospitality & Holidays Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "ORIENTLTD",
-    "label": "Orient Press Limited"
+    "label": "Orient Press Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "IVP",
-    "label": "IVP Limited"
+    "label": "IVP Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "RAMASTEEL",
-    "label": "Rama Steel Tubes Limited"
+    "label": "Rama Steel Tubes Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "BALPHARMA",
-    "label": "Bal Pharma Limited"
+    "label": "Bal Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "MOTOGENFIN",
-    "label": "The Motor & General Finance Limited"
+    "label": "The Motor & General Finance Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SURANAT&P",
-    "label": "Surana Telecom and Power Limited"
+    "label": "Surana Telecom and Power Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "PRAENG",
-    "label": "Prajay Engineers Syndicate Limited"
+    "label": "Prajay Engineers Syndicate Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "INDIANCARD",
-    "label": "Indian Card Clothing Company Limited"
+    "label": "Indian Card Clothing Company Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "ARCHIDPLY",
-    "label": "Archidply Industries Limited"
+    "label": "Archidply Industries Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "BYKE",
-    "label": "The Byke Hospitality Ltd"
+    "label": "The Byke Hospitality Ltd",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "MAANALU",
-    "label": "Maan Aluminium Limited"
+    "label": "Maan Aluminium Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "INNOVANA",
-    "label": "Innovana Thinklabs Limited"
+    "label": "Innovana Thinklabs Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "GLOBALVECT",
-    "label": "Global Vectra Helicorp Limited"
+    "label": "Global Vectra Helicorp Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "PARIN",
-    "label": "Parin Furniture Limited"
+    "label": "Parin Furniture Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BHAGYAPROP",
-    "label": "Bhagyanagar Properties Limited"
+    "label": "Bhagyanagar Properties Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "E2E",
-    "label": "E2E Networks Limited"
+    "label": "E2E Networks Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "SELMCL",
-    "label": "SEL Manufacturing Company Limited"
+    "label": "SEL Manufacturing Company Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ALPA",
-    "label": "Alpa Laboratories Limited"
+    "label": "Alpa Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SIGIND",
-    "label": "Signet Industries Limited"
+    "label": "Signet Industries Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "IL&FSTRANS",
-    "label": "IL&FS Transportation Networks Limited"
+    "label": "IL&FS Transportation Networks Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "PENTAGOLD",
-    "label": "Penta Gold Limited"
+    "label": "Penta Gold Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "GAMMNINFRA",
-    "label": "Gammon Infrastructure Projects Limited"
+    "label": "Gammon Infrastructure Projects Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "VISASTEEL",
-    "label": "Visa Steel Limited"
+    "label": "Visa Steel Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "KWALITY",
-    "label": "kwality limited"
+    "label": "kwality limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "AROGRANITE",
-    "label": "Aro Granite Industries Limited"
+    "label": "Aro Granite Industries Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "VAISHALI",
-    "label": "Vaishali Pharma Limited"
+    "label": "Vaishali Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "PUNJLLOYD",
-    "label": "Punj Lloyd Limited"
+    "label": "Punj Lloyd Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "DUCON",
-    "label": "Ducon Infratechnologies Limited"
+    "label": "Ducon Infratechnologies Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "AAKASH",
-    "label": "Aakash Exploration Services Limited"
+    "label": "Aakash Exploration Services Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "BHARATGEAR",
-    "label": "Bharat Gears Limited"
+    "label": "Bharat Gears Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "NDGL",
-    "label": "Naga Dhunseri Group Limited"
+    "label": "Naga Dhunseri Group Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "IRISDOREME",
-    "label": "Iris Clothings Limited"
+    "label": "Iris Clothings Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "MUKTAARTS",
-    "label": "Mukta Arts Limited"
+    "label": "Mukta Arts Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "AARVI",
-    "label": "Aarvi Encon Limited"
+    "label": "Aarvi Encon Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "TERASOFT",
-    "label": "Tera Software Limited"
+    "label": "Tera Software Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "TAINWALCHM",
-    "label": "Tainwala Chemical and Plastic (I) Limited"
+    "label": "Tainwala Chemical and Plastic (I) Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "AUSOMENT",
-    "label": "Ausom Enterprise Limited"
+    "label": "Ausom Enterprise Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "MRO-TEK",
-    "label": "MRO-TEK Realty Limited"
+    "label": "MRO-TEK Realty Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "ATLANTA",
-    "label": "Atlanta  Limited"
+    "label": "Atlanta  Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "TARMAT",
-    "label": "Tarmat Limited"
+    "label": "Tarmat Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "COMPUSOFT",
-    "label": "Compucom Software Limited"
+    "label": "Compucom Software Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SKIL",
-    "label": "SKIL Infrastructure Limited"
+    "label": "SKIL Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "URAVI",
-    "label": "Uravi T and Wedge Lamps Limited"
+    "label": "Uravi T and Wedge Lamps Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "JYOTISTRUC",
-    "label": "Jyoti Structures Limited"
+    "label": "Jyoti Structures Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "TOKYOPLAST",
-    "label": "Tokyo Plast International Limited"
+    "label": "Tokyo Plast International Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "LOTUSEYE",
-    "label": "Lotus Eye Hospital and Institute Limited"
+    "label": "Lotus Eye Hospital and Institute Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SUNDARAM",
-    "label": "Sundaram Multi Pap Limited"
+    "label": "Sundaram Multi Pap Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "GEEKAYWIRE",
-    "label": "Geekay Wires Limited"
+    "label": "Geekay Wires Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "DEVIT",
-    "label": "Dev Information Technology Limited"
+    "label": "Dev Information Technology Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "GLOBAL",
-    "label": "Global Education Limited"
+    "label": "Global Education Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "PKTEA",
-    "label": "The Peria Karamalai Tea & Produce Company Limited"
+    "label": "The Peria Karamalai Tea & Produce Company Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "SVLL",
-    "label": "Shree Vasu Logistics Limited"
+    "label": "Shree Vasu Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BEDMUTHA",
-    "label": "Bedmutha Industries Limited"
+    "label": "Bedmutha Industries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "KSOLVES",
-    "label": "Ksolves India Limited"
+    "label": "Ksolves India Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "NILASPACES",
-    "label": "Nila Spaces Limited"
+    "label": "Nila Spaces Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SHIVAUM",
-    "label": "Shiv Aum Steels Limited"
+    "label": "Shiv Aum Steels Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "KRITIKA",
-    "label": "Kritika Wires Limited"
+    "label": "Kritika Wires Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "RSSOFTWARE",
-    "label": "R. S. Software (India) Limited"
+    "label": "R. S. Software (India) Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SHRADHA",
-    "label": "Shradha Infraprojects Limited"
+    "label": "Shradha Infraprojects Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "BAGFILMS",
-    "label": "B.A.G Films and Media Limited"
+    "label": "B.A.G Films and Media Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "MTEDUCARE",
-    "label": "MT Educare Limited"
+    "label": "MT Educare Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SIL",
-    "label": "Standard Industries Limited"
+    "label": "Standard Industries Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "AVG",
-    "label": "AVG Logistics Limited"
+    "label": "AVG Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "MAHICKRA",
-    "label": "Mahickra Chemicals Limited"
+    "label": "Mahickra Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "SRPL",
-    "label": "Shree Ram Proteins Limited"
+    "label": "Shree Ram Proteins Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "TEXMOPIPES",
-    "label": "Texmo Pipes and Products Limited"
+    "label": "Texmo Pipes and Products Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "INDOSOLAR",
-    "label": "Indosolar Limited"
+    "label": "Indosolar Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "SICAGEN",
-    "label": "Sicagen India Limited"
+    "label": "Sicagen India Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "SONAMCLOCK",
-    "label": "Sonam Clock Limited"
+    "label": "Sonam Clock Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "OSWALSEEDS",
-    "label": "ShreeOswal Seeds And Chemicals Limited"
+    "label": "ShreeOswal Seeds And Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SAGARDEEP",
-    "label": "Sagardeep Alloys Limited"
+    "label": "Sagardeep Alloys Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "IZMO",
-    "label": "IZMO Limited"
+    "label": "IZMO Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "ARSSINFRA",
-    "label": "ARSS Infrastructure Projects Limited"
+    "label": "ARSS Infrastructure Projects Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SUPREMEENG",
-    "label": "Supreme Engineering Limited"
+    "label": "Supreme Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "REMSONSIND",
-    "label": "Remsons Industries Limited"
+    "label": "Remsons Industries Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "LOKESHMACH",
-    "label": "Lokesh Machines Limited"
+    "label": "Lokesh Machines Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "CMICABLES",
-    "label": "CMI Limited"
+    "label": "CMI Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "GLOBE",
-    "label": "Globe Textiles (India) Limited"
+    "label": "Globe Textiles (India) Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "GANGESSECU",
-    "label": "Ganges Securities Limited"
+    "label": "Ganges Securities Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "DSSL",
-    "label": "Dynacons Systems & Solutions Limited"
+    "label": "Dynacons Systems & Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "NITIRAJ",
-    "label": "Nitiraj Engineers Limited"
+    "label": "Nitiraj Engineers Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "CORDSCABLE",
-    "label": "Cords Cable Industries Limited"
+    "label": "Cords Cable Industries Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "KEYFINSERV",
-    "label": "Keynote Financial Services Limited"
+    "label": "Keynote Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "BDR",
-    "label": "BDR Buildcon Limited"
+    "label": "BDR Buildcon Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "KALYANIFRG",
-    "label": "Kalyani Forge Limited"
+    "label": "Kalyani Forge Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "JAKHARIA",
-    "label": "JAKHARIA FABRIC LIMITED"
+    "label": "JAKHARIA FABRIC LIMITED",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "MANAKALUCO",
-    "label": "Manaksia Aluminium Company Limited"
+    "label": "Manaksia Aluminium Company Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "PRESSMN",
-    "label": "Pressman Advertising Limited"
+    "label": "Pressman Advertising Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "DCM",
-    "label": "DCM  Limited"
+    "label": "DCM  Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "SPMLINFRA",
-    "label": "SPML Infra Limited"
+    "label": "SPML Infra Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ACCURACY",
-    "label": "Accuracy Shipping Limited"
+    "label": "Accuracy Shipping Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "UJAAS",
-    "label": "Ujaas Energy Limited"
+    "label": "Ujaas Energy Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "GARDENSILK",
-    "label": "Garden Silk Mills Limited"
+    "label": "Garden Silk Mills Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "IL&FSENGG",
-    "label": "IL&FS Engineering and Construction Company Limited"
+    "label": "IL&FS Engineering and Construction Company Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "ALMONDZ",
-    "label": "Almondz Global Securities Limited"
+    "label": "Almondz Global Securities Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "BANKA",
-    "label": "Banka BioLoo Limited"
+    "label": "Banka BioLoo Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "IMAGICAA",
-    "label": "Imagicaaworld Entertainment Limited"
+    "label": "Imagicaaworld Entertainment Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "TIRUPATI",
-    "label": "Shree Tirupati Balajee FIBC Limited"
+    "label": "Shree Tirupati Balajee FIBC Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "MITCON",
-    "label": "MITCON Consultancy & Engineering Services Limited"
+    "label": "MITCON Consultancy & Engineering Services Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "TOUCHWOOD",
-    "label": "Touchwood Entertainment Limited"
+    "label": "Touchwood Entertainment Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "MANAKCOAT",
-    "label": "Manaksia Coated Metals & Industries Limited"
+    "label": "Manaksia Coated Metals & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "STEELCITY",
-    "label": "Steel City Securities Limited"
+    "label": "Steel City Securities Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MALUPAPER",
-    "label": "Malu Paper Mills Limited"
+    "label": "Malu Paper Mills Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "MORARJEE",
-    "label": "Morarjee Textiles Limited"
+    "label": "Morarjee Textiles Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "GAL",
-    "label": "Gyscoal Alloys Limited"
+    "label": "Gyscoal Alloys Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "AARON",
-    "label": "Aaron Industries Limited"
+    "label": "Aaron Industries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SURYALAXMI",
-    "label": "Suryalakshmi Cotton Mills Limited"
+    "label": "Suryalakshmi Cotton Mills Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "PATINTLOG",
-    "label": "Patel Integrated Logistics Limited"
+    "label": "Patel Integrated Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "ORTINLABSS",
-    "label": "Ortin Laboratories Limited"
+    "label": "Ortin Laboratories Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "HOVS",
-    "label": "HOV Services Limited"
+    "label": "HOV Services Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "SANGINITA",
-    "label": "Sanginita Chemicals Limited"
+    "label": "Sanginita Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "INDBANK",
-    "label": "Indbank Merchant Banking Services Limited"
+    "label": "Indbank Merchant Banking Services Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "PANACHE",
-    "label": "Panache Digilife Limited"
+    "label": "Panache Digilife Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "TREJHARA",
-    "label": "TREJHARA SOLUTIONS LIMITED"
+    "label": "TREJHARA SOLUTIONS LIMITED",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "ENERGYDEV",
-    "label": "Energy Development Company Limited"
+    "label": "Energy Development Company Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ALKALI",
-    "label": "Alkali Metals Limited"
+    "label": "Alkali Metals Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "MEGASOFT",
-    "label": "Megasoft Limited"
+    "label": "Megasoft Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ONEPOINT",
-    "label": "One Point One Solutions Limited"
+    "label": "One Point One Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "HPIL",
-    "label": "Hindprakash Industries Limited"
+    "label": "Hindprakash Industries Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "SHREERAMA",
-    "label": "Shree Rama Multi-Tech Limited"
+    "label": "Shree Rama Multi-Tech Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "ARCHIES",
-    "label": "Archies Limited"
+    "label": "Archies Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "MRO",
-    "label": "M.R. Organisation Limited"
+    "label": "M.R. Organisation Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "NECCLTD",
-    "label": "North Eastern Carrying Corporation Limited"
+    "label": "North Eastern Carrying Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "WFL",
-    "label": "Wonder Fibromats Limited"
+    "label": "Wonder Fibromats Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "MCDHOLDING",
-    "label": "McDowell Holdings Limited"
+    "label": "McDowell Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "EDUCOMP",
-    "label": "Educomp Solutions Limited"
+    "label": "Educomp Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "LAMBODHARA",
-    "label": "Lambodhara Textiles Limited"
+    "label": "Lambodhara Textiles Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "HISARMETAL",
-    "label": "Hisar Metal Industries Limited"
+    "label": "Hisar Metal Industries Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "MAJESCO",
-    "label": "Majesco Limited"
+    "label": "Majesco Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "ARVEE",
-    "label": "Arvee Laboratories (India) Limited"
+    "label": "Arvee Laboratories (India) Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "GODHA",
-    "label": "Godha Cabcon & Insulation Limited"
+    "label": "Godha Cabcon & Insulation Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "PAR",
-    "label": "Par Drugs and Chemicals Limited"
+    "label": "Par Drugs and Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "TARACHAND",
-    "label": "Tara Chand Logistic Solutions Limited"
+    "label": "Tara Chand Logistic Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "MADHUCON",
-    "label": "Madhucon Projects Limited"
+    "label": "Madhucon Projects Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "ANIKINDS",
-    "label": "Anik Industries Limited"
+    "label": "Anik Industries Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "SURANASOL",
-    "label": "Surana Solar Limited"
+    "label": "Surana Solar Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "PALASHSECU",
-    "label": "Palash Securities Limited"
+    "label": "Palash Securities Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "NEXTMEDIA",
-    "label": "Next Mediaworks Limited"
+    "label": "Next Mediaworks Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "LIBAS",
-    "label": "Libas Consumer Products Limited"
+    "label": "Libas Consumer Products Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "AARVEEDEN",
-    "label": "Aarvee Denims & Exports Limited"
+    "label": "Aarvee Denims & Exports Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "RAJSREESUG",
-    "label": "Rajshree Sugars & Chemicals Limited"
+    "label": "Rajshree Sugars & Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "BANG",
-    "label": "Bang Overseas Limited"
+    "label": "Bang Overseas Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "WIPL",
-    "label": "The Western India Plywoods Limited"
+    "label": "The Western India Plywoods Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "CENTEXT",
-    "label": "Century Extrusions Limited"
+    "label": "Century Extrusions Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "ANSALHSG",
-    "label": "Ansal Housing Limited"
+    "label": "Ansal Housing Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "FLEXITUFF",
-    "label": "Flexituff Ventures International Limited"
+    "label": "Flexituff Ventures International Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "PALREDTEC",
-    "label": "Palred Technologies Limited"
+    "label": "Palred Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "ASAL",
-    "label": "Automotive Stampings and Assemblies Limited"
+    "label": "Automotive Stampings and Assemblies Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SAMBHAAV",
-    "label": "Sambhaav Media Limited"
+    "label": "Sambhaav Media Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "ZENITHEXPO",
-    "label": "Zenith Exports Limited"
+    "label": "Zenith Exports Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "AIROLAM",
-    "label": "Airo Lam limited"
+    "label": "Airo Lam limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "CINEVISTA",
-    "label": "Cinevista Limited"
+    "label": "Cinevista Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MDL",
-    "label": "Marvel Decor Limited"
+    "label": "Marvel Decor Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SERVOTECH",
-    "label": "Servotech Power Systems Limited"
+    "label": "Servotech Power Systems Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "XPROINDIA",
-    "label": "Xpro India Limited"
+    "label": "Xpro India Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "KRIDHANINF",
-    "label": "Kridhan Infra Limited"
+    "label": "Kridhan Infra Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "INDOWIND",
-    "label": "Indowind Energy Limited"
+    "label": "Indowind Energy Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "BHANDARI",
-    "label": "Bhandari Hosiery Exports Limited"
+    "label": "Bhandari Hosiery Exports Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "PANSARI",
-    "label": "Pansari Developers Limited"
+    "label": "Pansari Developers Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "VINNY",
-    "label": "Vinny Overseas Limited"
+    "label": "Vinny Overseas Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "MHHL",
-    "label": "Mohini Health & Hygiene Limited"
+    "label": "Mohini Health & Hygiene Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "OISL",
-    "label": "OCL Iron and Steel Limited"
+    "label": "OCL Iron and Steel Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "BANARBEADS",
-    "label": "Banaras Beads Limited"
+    "label": "Banaras Beads Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MADHAV",
-    "label": "Madhav Marbles and Granites Limited"
+    "label": "Madhav Marbles and Granites Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "KANANIIND",
-    "label": "Kanani Industries Limited"
+    "label": "Kanani Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "SALONA",
-    "label": "Salona Cotspin Limited"
+    "label": "Salona Cotspin Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "UNIVASTU",
-    "label": "Univastu India Limited"
+    "label": "Univastu India Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "DIAPOWER",
-    "label": "Diamond Power Infra Ltd"
+    "label": "Diamond Power Infra Ltd",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "SHAIVAL",
-    "label": "Shaival Reality Limited"
+    "label": "Shaival Reality Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "AMDIND",
-    "label": "AMD Industries Limited"
+    "label": "AMD Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "RAJMET",
-    "label": "Rajnandini Metal Limited"
+    "label": "Rajnandini Metal Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "PNC",
-    "label": "Pritish Nandy Communications Limited"
+    "label": "Pritish Nandy Communications Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "DBSTOCKBRO",
-    "label": "DB (International) Stock Brokers Limited"
+    "label": "DB (International) Stock Brokers Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "KERNEX",
-    "label": "Kernex Microsystems (India) Limited"
+    "label": "Kernex Microsystems (India) Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "SILGO",
-    "label": "Silgo Retail Limited"
+    "label": "Silgo Retail Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "AAATECH",
-    "label": "Aaa Technologies Limited"
+    "label": "Aaa Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "SALSTEEL",
-    "label": "S.A.L. Steel Limited"
+    "label": "S.A.L. Steel Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "LEXUS",
-    "label": "Lexus Granito (India) Limited"
+    "label": "Lexus Granito (India) Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "BVCL",
-    "label": "Barak Valley Cements Limited"
+    "label": "Barak Valley Cements Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "VIVIDHA",
-    "label": "Visagar Polytex Limited"
+    "label": "Visagar Polytex Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "DIGJAMLTD",
-    "label": "Digjam Limited"
+    "label": "Digjam Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "PEARLPOLY",
-    "label": "Pearl Polymers Limited"
+    "label": "Pearl Polymers Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "BSL",
-    "label": "BSL Limited"
+    "label": "BSL Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "ASCOM",
-    "label": "Ascom Leasing & Investments Limited"
+    "label": "Ascom Leasing & Investments Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "MKPL",
-    "label": "M K Proteins Limited"
+    "label": "M K Proteins Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MANUGRAPH",
-    "label": "Manugraph India Limited"
+    "label": "Manugraph India Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "SOMICONVEY",
-    "label": "Somi Conveyor Beltings Limited"
+    "label": "Somi Conveyor Beltings Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "AGROPHOS",
-    "label": "Agro Phos India Limited"
+    "label": "Agro Phos India Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SANGHVIFOR",
-    "label": "Sanghvi Forging and Engineering Limited"
+    "label": "Sanghvi Forging and Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SUPREMEINF",
-    "label": "Supreme Infrastructure India Limited"
+    "label": "Supreme Infrastructure India Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "KSK",
-    "label": "KSK Energy Ventures Limited"
+    "label": "KSK Energy Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "MERCATOR",
-    "label": "Mercator Limited"
+    "label": "Mercator Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "ORIENTALTL",
-    "label": "Oriental Trimex Limited"
+    "label": "Oriental Trimex Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "VARDMNPOLY",
-    "label": "Vardhman Polytex Limited"
+    "label": "Vardhman Polytex Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "SIMBHALS",
-    "label": "Simbhaoli Sugars Limited"
+    "label": "Simbhaoli Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "JITFINFRA",
-    "label": "JITF Infralogistics Limited"
+    "label": "JITF Infralogistics Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "SARVESHWAR",
-    "label": "Sarveshwar Foods Limited"
+    "label": "Sarveshwar Foods Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "LGHL",
-    "label": "Laxmi Goldorna House Limited"
+    "label": "Laxmi Goldorna House Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "PARABDRUGS",
-    "label": "Parabolic Drugs Limited"
+    "label": "Parabolic Drugs Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "BLBLIMITED",
-    "label": "BLB Limited"
+    "label": "BLB Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MOKSH",
-    "label": "Moksh Ornaments Limited"
+    "label": "Moksh Ornaments Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "SUMEETINDS",
-    "label": "Sumeet Industries Limited"
+    "label": "Sumeet Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "KGL",
-    "label": "Karuturi Global Limited"
+    "label": "Karuturi Global Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "TIRUPATIFL",
-    "label": "Tirupati Forge Limited"
+    "label": "Tirupati Forge Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "GOENKA",
-    "label": "Goenka Diamond and Jewels Limited"
+    "label": "Goenka Diamond and Jewels Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SUMIT",
-    "label": "Sumit Woods Limited"
+    "label": "Sumit Woods Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "COX&KINGS",
-    "label": "Cox & Kings Limited"
+    "label": "Cox & Kings Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "DELTAMAGNT",
-    "label": "Delta Manufacturing Limited"
+    "label": "Delta Manufacturing Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "RMCL",
-    "label": "Radha Madhav Corporation Limited"
+    "label": "Radha Madhav Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "TREEHOUSE",
-    "label": "Tree House Education & Accessories Limited"
+    "label": "Tree House Education & Accessories Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "KHFM",
-    "label": "Khfm Hospitality And Facility Management Services Limited"
+    "label": "Khfm Hospitality And Facility Management Services Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "RMDRIP",
-    "label": "R M Drip and Sprinklers Systems Limited"
+    "label": "R M Drip and Sprinklers Systems Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "ABMINTLTD",
-    "label": "ABM International Limited"
+    "label": "ABM International Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "AUTOLITIND",
-    "label": "Autolite (India) Limited"
+    "label": "Autolite (India) Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "ARCOTECH",
-    "label": "Arcotech Limited"
+    "label": "Arcotech Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "NAGREEKEXP",
-    "label": "Nagreeka Exports Limited"
+    "label": "Nagreeka Exports Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "SHIVAMILLS",
-    "label": "Shiva Mills Limited"
+    "label": "Shiva Mills Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "EXCEL",
-    "label": "Excel Realty N Infra Limited"
+    "label": "Excel Realty N Infra Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "COUNCODOS",
-    "label": "Country Condo's Limited"
+    "label": "Country Condo's Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "AJOONI",
-    "label": "Ajooni Biotech Limited"
+    "label": "Ajooni Biotech Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "INDOTHAI",
-    "label": "Indo Thai Securities Limited"
+    "label": "Indo Thai Securities Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "BEARDSELL",
-    "label": "Beardsell Limited"
+    "label": "Beardsell Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "UNIINFO",
-    "label": "Uniinfo Telecom Services Limited"
+    "label": "Uniinfo Telecom Services Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "TMRVL",
-    "label": "The Mandhana Retail Ventures Limited"
+    "label": "The Mandhana Retail Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "JINDALPHOT",
-    "label": "Jindal Photo Limited"
+    "label": "Jindal Photo Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "HINDCON",
-    "label": "Hindcon Chemicals Limited"
+    "label": "Hindcon Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "ATLASCYCLE",
-    "label": "Atlas Cycles (Haryana) Limited"
+    "label": "Atlas Cycles (Haryana) Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "RELIABLE",
-    "label": "Reliable Data Services Limited"
+    "label": "Reliable Data Services Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "ARTNIRMAN",
-    "label": "Art Nirman Limited"
+    "label": "Art Nirman Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "SHANTI",
-    "label": "Shanti Overseas (India) Limited"
+    "label": "Shanti Overseas (India) Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "KEERTI",
-    "label": "Keerti Knowledge and Skills Limited"
+    "label": "Keerti Knowledge and Skills Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "AURDIS",
-    "label": "Aurangabad Distillery Limited"
+    "label": "Aurangabad Distillery Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "CUBEXTUB",
-    "label": "Cubex Tubings Limited"
+    "label": "Cubex Tubings Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "CELEBRITY",
-    "label": "Celebrity Fashions Limited"
+    "label": "Celebrity Fashions Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "SUPERSPIN",
-    "label": "Super Spinning Mills Limited"
+    "label": "Super Spinning Mills Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "LATTEYS",
-    "label": "Latteys Industries Limited"
+    "label": "Latteys Industries Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "UCL",
-    "label": "Ushanti Colour Chem Limited"
+    "label": "Ushanti Colour Chem Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "TIMESGTY",
-    "label": "Times Guaranty Limited"
+    "label": "Times Guaranty Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SILLYMONKS",
-    "label": "Silly Monks Entertainment Limited"
+    "label": "Silly Monks Entertainment Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "TIJARIA",
-    "label": "Tijaria Polypipes Limited"
+    "label": "Tijaria Polypipes Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "GANGAFORGE",
-    "label": "Ganga Forging Limited"
+    "label": "Ganga Forging Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "GTNIND",
-    "label": "GTN Industries Limited"
+    "label": "GTN Industries Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "SHIRPUR-G",
-    "label": "Shirpur Gold Refinery Limited"
+    "label": "Shirpur Gold Refinery Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "DCI",
-    "label": "DC Infotech and Communication Limited"
+    "label": "DC Infotech and Communication Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "HECPROJECT",
-    "label": "HEC Infra Projects Limited"
+    "label": "HEC Infra Projects Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "PROLIFE",
-    "label": "Prolife Industries Limited"
+    "label": "Prolife Industries Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "AISL",
-    "label": "ANI Integrated Services Limited"
+    "label": "ANI Integrated Services Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "METALFORGE",
-    "label": "Metalyst Forgings Limited"
+    "label": "Metalyst Forgings Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "AMBANIORG",
-    "label": "Ambani Organics Limited"
+    "label": "Ambani Organics Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "NITINFIRE",
-    "label": "Nitin Fire Protection Industries Limited"
+    "label": "Nitin Fire Protection Industries Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "BCONCEPTS",
-    "label": "Brand Concepts Limited"
+    "label": "Brand Concepts Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "AGRITECH",
-    "label": "Agri-Tech (India) Limited"
+    "label": "Agri-Tech (India) Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "ANKITMETAL",
-    "label": "Ankit Metal & Power Limited"
+    "label": "Ankit Metal & Power Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "GOLDSTAR",
-    "label": "Goldstar Power Limited"
+    "label": "Goldstar Power Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MIC",
-    "label": "MIC Electronics Limited"
+    "label": "MIC Electronics Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "SECL",
-    "label": "Salasar Exteriors and Contour Limited"
+    "label": "Salasar Exteriors and Contour Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "WILLAMAGOR",
-    "label": "Williamson Magor & Company Limited"
+    "label": "Williamson Magor & Company Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "GLOBOFFS",
-    "label": "Global Offshore Services Limited"
+    "label": "Global Offshore Services Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "KHANDSE",
-    "label": "Khandwala Securities Limited"
+    "label": "Khandwala Securities Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "SGL",
-    "label": "STL Global Limited"
+    "label": "STL Global Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "KSHITIJPOL",
-    "label": "Kshitij Polyline Limited"
+    "label": "Kshitij Polyline Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "RKDL",
-    "label": "Ravi Kumar Distilleries Limited"
+    "label": "Ravi Kumar Distilleries Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "VERA",
-    "label": "Vera Synthetic Limited"
+    "label": "Vera Synthetic Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "JPOLYINVST",
-    "label": "Jindal Poly Investment and Finance Company Limited"
+    "label": "Jindal Poly Investment and Finance Company Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "LPDC",
-    "label": "Landmark Property Development Company Limited"
+    "label": "Landmark Property Development Company Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "FOCUS",
-    "label": "Focus Lighting and Fixtures Limited"
+    "label": "Focus Lighting and Fixtures Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "BALKRISHNA",
-    "label": "Balkrishna Paper Mills Limited"
+    "label": "Balkrishna Paper Mills Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "VSCL",
-    "label": "Vadivarhe Speciality Chemicals Limited"
+    "label": "Vadivarhe Speciality Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "MILTON",
-    "label": "Milton Industries Limited"
+    "label": "Milton Industries Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "PRITI",
-    "label": "Priti International Limited"
+    "label": "Priti International Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "HUSYSLTD",
-    "label": "Husys Consulting Limited"
+    "label": "Husys Consulting Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BURNPUR",
-    "label": "Burnpur Cement Limited"
+    "label": "Burnpur Cement Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "LFIC",
-    "label": "Lakshmi Finance & Industrial Corporation Limited"
+    "label": "Lakshmi Finance & Industrial Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "FOURTHDIM",
-    "label": "Fourth Dimension Solutions Limited"
+    "label": "Fourth Dimension Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "INFOMEDIA",
-    "label": "Infomedia Press Limited"
+    "label": "Infomedia Press Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "3PLAND",
-    "label": "3P Land Holdings Limited"
+    "label": "3P Land Holdings Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "PATSPINLTD",
-    "label": "Patspin India Limited"
+    "label": "Patspin India Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "SHUBHLAXMI",
-    "label": "Shubhlaxmi Jewel Art Limited"
+    "label": "Shubhlaxmi Jewel Art Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "ARIHANT",
-    "label": "Arihant Foundations & Housing Limited"
+    "label": "Arihant Foundations & Housing Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "GOLDTECH",
-    "label": "Goldstone Technologies Limited"
+    "label": "Goldstone Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "UNITEDPOLY",
-    "label": "United Polyfab Gujarat Limited"
+    "label": "United Polyfab Gujarat Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "MMNL",
-    "label": "MIG Media Neurons Limited"
+    "label": "MIG Media Neurons Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "CNOVAPETRO",
-    "label": "CIL Nova Petrochemicals Limited"
+    "label": "CIL Nova Petrochemicals Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "ZODIAC",
-    "label": "Zodiac Energy Limited"
+    "label": "Zodiac Energy Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "LAGNAM",
-    "label": "Lagnam Spintex Limited"
+    "label": "Lagnam Spintex Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "DHARSUGAR",
-    "label": "Dharani Sugars & Chemicals Limited"
+    "label": "Dharani Sugars & Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "BILENERGY",
-    "label": "Bil Energy Systems Limited"
+    "label": "Bil Energy Systems Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "CASTEXTECH",
-    "label": "Castex Technologies Limited"
+    "label": "Castex Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "VASWANI",
-    "label": "Vaswani Industries Limited"
+    "label": "Vaswani Industries Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ATALREAL",
-    "label": "Atal Realtech Limited"
+    "label": "Atal Realtech Limited",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "ADL",
-    "label": "Archidply Decor Limited"
+    "label": "Archidply Decor Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "SIGMA",
-    "label": "Sigma Solve Limited"
+    "label": "Sigma Solve Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "ADROITINFO",
-    "label": "Adroit Infotech Limited"
+    "label": "Adroit Infotech Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "CANDC",
-    "label": "C & C Constructions Limited"
+    "label": "C & C Constructions Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "FELIX",
-    "label": "Felix Industries Limited"
+    "label": "Felix Industries Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "MAGNUM",
-    "label": "Magnum Ventures Limited"
+    "label": "Magnum Ventures Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "UNITY",
-    "label": "Unity Infraprojects Limited"
+    "label": "Unity Infraprojects Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "ROML",
-    "label": "Raj Oil Mills Limited"
+    "label": "Raj Oil Mills Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "MARSHALL",
-    "label": "Marshall Machines Limited"
+    "label": "Marshall Machines Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "WEWIN",
-    "label": "WE WIN LIMITED"
+    "label": "WE WIN LIMITED",
+    "background": "linear-gradient(90deg, hsla(179, 67%, 66%, 1) 0%, hsla(238, 74%, 61%, 1) 100%)"
   },
   {
     "value": "KKVAPOW",
-    "label": "KKV Agro Powers Limited"
+    "label": "KKV Agro Powers Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "MOHOTAIND",
-    "label": "Mohota Industries Limited"
+    "label": "Mohota Industries Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SHAHALLOYS",
-    "label": "Shah Alloys Limited"
+    "label": "Shah Alloys Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "SONAHISONA",
-    "label": "Sona Hi Sona Jewellers (Gujarat) Limited"
+    "label": "Sona Hi Sona Jewellers (Gujarat) Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "CADSYS",
-    "label": "Cadsys (India) Limited"
+    "label": "Cadsys (India) Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "MANGTIMBER",
-    "label": "Mangalam Timber Products Limited"
+    "label": "Mangalam Timber Products Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "GICL",
-    "label": "Globe International Carriers Limited"
+    "label": "Globe International Carriers Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "TGBHOTELS",
-    "label": "TGB Banquets And Hotels Limited"
+    "label": "TGB Banquets And Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "ROHITFERRO",
-    "label": "Rohit Ferro-Tech Limited"
+    "label": "Rohit Ferro-Tech Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "INDLMETER",
-    "label": "IMP Powers Limited"
+    "label": "IMP Powers Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "CALSOFT",
-    "label": "California Software Company Limited"
+    "label": "California Software Company Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "INNOVATIVE",
-    "label": "Innovative Tyres and Tubes Limited"
+    "label": "Innovative Tyres and Tubes Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "AVSL",
-    "label": "AVSL Industries Limited"
+    "label": "AVSL Industries Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "NARMADA",
-    "label": "Narmada Agrobase Limited"
+    "label": "Narmada Agrobase Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "MUKANDENGG",
-    "label": "Mukand Engineers Limited"
+    "label": "Mukand Engineers Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "AVROIND",
-    "label": "AVRO INDIA LIMITED"
+    "label": "AVRO INDIA LIMITED",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "PRAKASHSTL",
-    "label": "Prakash Steelage Limited"
+    "label": "Prakash Steelage Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "SURANI",
-    "label": "Surani Steel Tubes Limited"
+    "label": "Surani Steel Tubes Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "SIKKO",
-    "label": "Sikko Industries Limited"
+    "label": "Sikko Industries Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "BRIGHT",
-    "label": "Bright Solar Limited"
+    "label": "Bright Solar Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "JETFREIGHT",
-    "label": "Jet Freight Logistics Limited"
+    "label": "Jet Freight Logistics Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "ZODJRDMKJ",
-    "label": "Zodiac JRD- MKJ Limited"
+    "label": "Zodiac JRD- MKJ Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "EMCO",
-    "label": "Emco Limited"
+    "label": "Emco Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "KARMAENG",
-    "label": "Karma Energy Limited"
+    "label": "Karma Energy Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "GAYAHWS",
-    "label": "Gayatri Highways Limited"
+    "label": "Gayatri Highways Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "HILTON",
-    "label": "Hilton Metal Forging Limited"
+    "label": "Hilton Metal Forging Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SOLEX",
-    "label": "Solex Energy Limited"
+    "label": "Solex Energy Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "LAXMICOT",
-    "label": "Laxmi Cotspin Limited"
+    "label": "Laxmi Cotspin Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 48%, 1) 0%, hsla(204, 84%, 66%, 1) 100%)"
   },
   {
     "value": "SANCO",
-    "label": "Sanco Industries Limited"
+    "label": "Sanco Industries Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SETUINFRA",
-    "label": "Setubandhan Infrastructure Limited"
+    "label": "Setubandhan Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "VICEROY",
-    "label": "Viceroy Hotels Limited"
+    "label": "Viceroy Hotels Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "PREMIER",
-    "label": "Premier Limited"
+    "label": "Premier Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "NATNLSTEEL",
-    "label": "National Steel And Agro Industries Limited"
+    "label": "National Steel And Agro Industries Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "MITTAL",
-    "label": "Mittal Life Style Limited"
+    "label": "Mittal Life Style Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "SEPOWER",
-    "label": "S.E. Power Limited"
+    "label": "S.E. Power Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SEZAL",
-    "label": "Sezal Glass Limited"
+    "label": "Sezal Glass Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "SRIRAM",
-    "label": "Shri Ram Switchgears Limited"
+    "label": "Shri Ram Switchgears Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "LYPSAGEMS",
-    "label": "Lypsa Gems & Jewellery Limited"
+    "label": "Lypsa Gems & Jewellery Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "UWCSL",
-    "label": "Ultra Wiring Connectivity System Limited"
+    "label": "Ultra Wiring Connectivity System Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "NKIND",
-    "label": "NK Industries Limited"
+    "label": "NK Industries Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "PERFECT",
-    "label": "Perfect Infraengineers Limited"
+    "label": "Perfect Infraengineers Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "DQE",
-    "label": "DQ Entertainment (International) Limited"
+    "label": "DQ Entertainment (International) Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "HAVISHA",
-    "label": "Sri Havisha Hospitality and Infrastructure Limited"
+    "label": "Sri Havisha Hospitality and Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "BARTRONICS",
-    "label": "Bartronics India Limited"
+    "label": "Bartronics India Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "SSINFRA",
-    "label": "S.S. Infrastructure Development Consultants Limited"
+    "label": "S.S. Infrastructure Development Consultants Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "VCL",
-    "label": "Vaxtex Cotfab Limited"
+    "label": "Vaxtex Cotfab Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "ASLIND",
-    "label": "ASL Industries Limited"
+    "label": "ASL Industries Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "EASTSILK",
-    "label": "Eastern Silk Industries Limited"
+    "label": "Eastern Silk Industries Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "NORBTEAEXP",
-    "label": "Norben Tea & Exports Limited"
+    "label": "Norben Tea & Exports Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "21STCENMGM",
-    "label": "21st Century Management Services Limited"
+    "label": "21st Century Management Services Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "MASKINVEST",
-    "label": "Mask Investments Limited"
+    "label": "Mask Investments Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "JETKNIT",
-    "label": "Jet Knitwears Limited"
+    "label": "Jet Knitwears Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "AHIMSA",
-    "label": "Ahimsa Industries Limited"
+    "label": "Ahimsa Industries Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "NANDANI",
-    "label": "Nandani Creation Limited"
+    "label": "Nandani Creation Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "TECHNOFAB",
-    "label": "Technofab Engineering Limited"
+    "label": "Technofab Engineering Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "ZENITHSTL",
-    "label": "Zenith Steel Pipes & Industries Limited"
+    "label": "Zenith Steel Pipes & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "RAJRAYON",
-    "label": "Raj Rayon Industries Limited"
+    "label": "Raj Rayon Industries Limited",
+    "background": "linear-gradient(90deg, hsla(346, 100%, 83%, 1) 0%, hsla(238, 70%, 48%, 1) 100%)"
   },
   {
     "value": "WSI",
-    "label": "W S Industries (I) Limited"
+    "label": "W S Industries (I) Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "SYNCOM",
-    "label": "Syncom Healthcare Limited"
+    "label": "Syncom Healthcare Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "BTML",
-    "label": "Bodhi Tree Multimedia Limited"
+    "label": "Bodhi Tree Multimedia Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "AMJUMBO",
-    "label": "A and M Jumbo Bags Limited"
+    "label": "A and M Jumbo Bags Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "BSELINFRA",
-    "label": "BSEL Infrastructure Realty Limited"
+    "label": "BSEL Infrastructure Realty Limited",
+    "background": "linear-gradient(90deg, hsla(202, 71%, 27%, 1) 0%, hsla(176, 45%, 66%, 1) 100%)"
   },
   {
     "value": "CONTI",
-    "label": "Continental Seeds and Chemicals Limited"
+    "label": "Continental Seeds and Chemicals Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "ACEINTEG",
-    "label": "Ace Integrated Solutions Limited"
+    "label": "Ace Integrated Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(281, 37%, 45%, 1) 0%, hsla(1, 62%, 48%, 1) 100%)"
   },
   {
     "value": "DSML",
-    "label": "Debock Sales And Marketing Limited"
+    "label": "Debock Sales And Marketing Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "SECURCRED",
-    "label": "SecUR Credentials Limited"
+    "label": "SecUR Credentials Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "ALCHEM",
-    "label": "Alchemist Limited"
+    "label": "Alchemist Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "ONELIFECAP",
-    "label": "Onelife Capital Advisors Limited"
+    "label": "Onelife Capital Advisors Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SUBCAPCITY",
-    "label": "International Constructions Limited"
+    "label": "International Constructions Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SOMATEX",
-    "label": "Soma Textiles & Industries Limited"
+    "label": "Soma Textiles & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "ZICOM",
-    "label": "Zicom Electronic Security Systems Limited"
+    "label": "Zicom Electronic Security Systems Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "MOHITIND",
-    "label": "Mohit Industries Limited"
+    "label": "Mohit Industries Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "EASUNREYRL",
-    "label": "Easun Reyrolle Limited"
+    "label": "Easun Reyrolle Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "GUJRAFFIA",
-    "label": "Gujarat Raffia Industries Limited"
+    "label": "Gujarat Raffia Industries Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "BKMINDST",
-    "label": "Bkm Industries Limited"
+    "label": "Bkm Industries Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "CREATIVEYE",
-    "label": "Creative Eye Limited"
+    "label": "Creative Eye Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "ACCORD",
-    "label": "Accord Synergy Limited"
+    "label": "Accord Synergy Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "ABNINT",
-    "label": "A B N Intercorp Limited"
+    "label": "A B N Intercorp Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "CROWN",
-    "label": "Crown Lifters Limited"
+    "label": "Crown Lifters Limited",
+    "background": "linear-gradient(90deg, hsla(291, 79%, 51%, 1) 0%, hsla(240, 91%, 73%, 1) 100%)"
   },
   {
     "value": "SKSTEXTILE",
-    "label": "SKS Textiles Limited"
+    "label": "SKS Textiles Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "POWERFUL",
-    "label": "Powerful Technologies Limited"
+    "label": "Powerful Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "PIGL",
-    "label": "Power & Instrumentation (Gujarat) Limited"
+    "label": "Power & Instrumentation (Gujarat) Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "NAGREEKCAP",
-    "label": "Nagreeka Capital & Infrastructure Limited"
+    "label": "Nagreeka Capital & Infrastructure Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "GTNTEX",
-    "label": "GTN Textiles Limited"
+    "label": "GTN Textiles Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "SUJANAUNI",
-    "label": "Sujana Universal Industries Limited"
+    "label": "Sujana Universal Industries Limited",
+    "background": "linear-gradient(90deg, hsla(57, 100%, 84%, 1) 0%, hsla(280, 84%, 55%, 1) 100%)"
   },
   {
     "value": "SONISOYA",
-    "label": "Soni Soya Products Limited"
+    "label": "Soni Soya Products Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "TVVISION",
-    "label": "TV Vision Limited"
+    "label": "TV Vision Limited",
+    "background": "linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%)"
   },
   {
     "value": "ABINFRA",
-    "label": "A B Infrabuild Limited"
+    "label": "A B Infrabuild Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "SHYAMTEL",
-    "label": "Shyam Telecom Limited"
+    "label": "Shyam Telecom Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "UMESLTD",
-    "label": "Usha Martin Education & Solutions Limited"
+    "label": "Usha Martin Education & Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "EUROTEXIND",
-    "label": "Eurotex Industries and Exports Limited"
+    "label": "Eurotex Industries and Exports Limited",
+    "background": "linear-gradient(90deg, hsla(12, 89%, 89%, 1) 0%, hsla(329, 82%, 76%, 1) 50%, hsla(342, 95%, 78%, 1) 100%)"
   },
   {
     "value": "PULZ",
-    "label": "Pulz Electronics Limited"
+    "label": "Pulz Electronics Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "NTL",
-    "label": "Neueon Towers Limited"
+    "label": "Neueon Towers Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "OMFURN",
-    "label": "Omfurn India Limited"
+    "label": "Omfurn India Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "MINDPOOL",
-    "label": "Mindpool Technologies Limited"
+    "label": "Mindpool Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "SPENTEX",
-    "label": "Spentex Industries Limited"
+    "label": "Spentex Industries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "NIRAJISPAT",
-    "label": "Niraj Ispat Industries Limited"
+    "label": "Niraj Ispat Industries Limited",
+    "background": "linear-gradient(90deg, hsla(56, 83%, 59%, 1) 0%, hsla(307, 100%, 66%, 1) 100%)"
   },
   {
     "value": "TFL",
-    "label": "Transwarranty Finance Limited"
+    "label": "Transwarranty Finance Limited",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "DNAMEDIA",
-    "label": "Diligent Media Corporation Limited"
+    "label": "Diligent Media Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "ALPSINDUS",
-    "label": "Alps Industries Limited"
+    "label": "Alps Industries Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "MPTODAY",
-    "label": "Madhya Pradesh Today Media Limited"
+    "label": "Madhya Pradesh Today Media Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "CHROMATIC",
-    "label": "Chromatic India Limited"
+    "label": "Chromatic India Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "GFSTEELS",
-    "label": "Grand Foundry Limited"
+    "label": "Grand Foundry Limited",
+    "background": "linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%)"
   },
   {
     "value": "GLFL",
-    "label": "Gujarat Lease Financing Limited"
+    "label": "Gujarat Lease Financing Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "TCIFINANCE",
-    "label": "TCI Finance Limited"
+    "label": "TCI Finance Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "KALYANI",
-    "label": "Kalyani Commercials Limited"
+    "label": "Kalyani Commercials Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "RADAAN",
-    "label": "Radaan Mediaworks India Limited"
+    "label": "Radaan Mediaworks India Limited",
+    "background": "linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%)"
   },
   {
     "value": "TRANSWIND",
-    "label": "Transwind Infrastructures Limited"
+    "label": "Transwind Infrastructures Limited",
+    "background": "linear-gradient(90deg, hsla(307, 93%, 84%, 1) 0%, hsla(256, 96%, 44%, 1) 100%)"
   },
   {
     "value": "VIJIFIN",
-    "label": "Viji Finance Limited"
+    "label": "Viji Finance Limited",
+    "background": "linear-gradient(90deg, hsla(132, 79%, 68%, 1) 0%, hsla(101, 62%, 48%, 1) 100%)"
   },
   {
     "value": "LAKPRE",
-    "label": "Lakshmi Precision Screws Limited"
+    "label": "Lakshmi Precision Screws Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "KAUSHALYA",
-    "label": "Kaushalya Infrastructure Development Corporation Limited"
+    "label": "Kaushalya Infrastructure Development Corporation Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "EUROCERA",
-    "label": "Euro Ceramics Limited"
+    "label": "Euro Ceramics Limited",
+    "background": "linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%)"
   },
   {
     "value": "S&SPOWER",
-    "label": "S&S Power Switchgears Limited"
+    "label": "S&S Power Switchgears Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   },
   {
     "value": "METKORE",
-    "label": "Metkore Alloys & Industries Limited"
+    "label": "Metkore Alloys & Industries Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "DRL",
-    "label": "Dhanuka Realty Limited"
+    "label": "Dhanuka Realty Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "INTEGRA",
-    "label": "Integra Garments and Textiles Limited"
+    "label": "Integra Garments and Textiles Limited",
+    "background": "linear-gradient(90deg, hsla(185, 64%, 51%, 1) 0%, hsla(277, 74%, 24%, 1) 100%)"
   },
   {
     "value": "ORCHPHARMA",
-    "label": "Orchid Pharma Limited"
+    "label": "Orchid Pharma Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "THIRUSUGAR",
-    "label": "Thiru Arooran Sugars Limited"
+    "label": "Thiru Arooran Sugars Limited",
+    "background": "linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(225, 89%, 47%, 1) 100%)"
   },
   {
     "value": "CMMIPL",
-    "label": "CMM Infraprojects Limited"
+    "label": "CMM Infraprojects Limited",
+    "background": "linear-gradient(90deg, hsla(333, 37%, 46%, 1) 0%, hsla(243, 10%, 47%, 1) 50%, hsla(197, 44%, 42%, 1) 100%)"
   },
   {
     "value": "BHALCHANDR",
-    "label": "Bhalchandram Clothing Limited"
+    "label": "Bhalchandram Clothing Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "HBSL",
-    "label": "HB Stockholdings Limited"
+    "label": "HB Stockholdings Limited",
+    "background": "linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "TNTELE",
-    "label": "Tamilnadu Telecommunication Limited"
+    "label": "Tamilnadu Telecommunication Limited",
+    "background": "linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%)"
   },
   {
     "value": "EUROMULTI",
-    "label": "Euro Multivision Limited"
+    "label": "Euro Multivision Limited",
+    "background": "linear-gradient(90deg, hsla(61, 91%, 54%, 1) 0%, hsla(95, 98%, 41%, 1) 100%)"
   },
   {
     "value": "SMPL",
-    "label": "Splendid Metal Products Limited"
+    "label": "Splendid Metal Products Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "TECHIN",
-    "label": "Techindia Nirman Limited"
+    "label": "Techindia Nirman Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "JALAN",
-    "label": "Jalan Transolutions (India) Limited"
+    "label": "Jalan Transolutions (India) Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "SMVD",
-    "label": "SMVD Poly Pack Limited"
+    "label": "SMVD Poly Pack Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "ORTEL",
-    "label": "Ortel Communications Limited"
+    "label": "Ortel Communications Limited",
+    "background": "linear-gradient(90deg, hsla(207, 80%, 59%, 1) 0%, hsla(344, 64%, 79%, 1) 50%, hsla(343, 93%, 69%, 1) 100%)"
   },
   {
     "value": "ARENTERP",
-    "label": "Rajdarshan Industries Limited"
+    "label": "Rajdarshan Industries Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "CYBERMEDIA",
-    "label": "Cyber Media (India) Limited"
+    "label": "Cyber Media (India) Limited",
+    "background": "linear-gradient(90deg, hsla(191, 75%, 60%, 1) 0%, hsla(248, 87%, 36%, 1) 100%)"
   },
   {
     "value": "TANTIACONS",
-    "label": "Tantia Constructions Limited"
+    "label": "Tantia Constructions Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "MELSTAR",
-    "label": "Melstar Information Technologies Limited"
+    "label": "Melstar Information Technologies Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "GRETEX",
-    "label": "Gretex Industries Limited"
+    "label": "Gretex Industries Limited",
+    "background": "linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)"
   },
   {
     "value": "RAMSARUP",
-    "label": "Ramsarup Industries Limited"
+    "label": "Ramsarup Industries Limited",
+    "background": "linear-gradient(90deg, hsla(355, 74%, 62%, 1) 0%, hsla(0, 0%, 3%, 1) 100%)"
   },
   {
     "value": "DCMFINSERV",
-    "label": "DCM Financial Services Limited"
+    "label": "DCM Financial Services Limited",
+    "background": "linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%)"
   },
   {
     "value": "VASA",
-    "label": "Vasa Retail and Overseas Ltd"
+    "label": "Vasa Retail and Overseas Ltd",
+    "background": "linear-gradient(90deg, hsla(328, 75%, 45%, 1) 0%, hsla(269, 85%, 41%, 1) 100%)"
   },
   {
     "value": "PRADIP",
-    "label": "Pradip Overseas Limited"
+    "label": "Pradip Overseas Limited",
+    "background": "linear-gradient(90deg, hsla(54, 56%, 66%, 1) 0%, hsla(261, 84%, 45%, 1) 100%)"
   },
   {
     "value": "MANAV",
-    "label": "Manav Infra Projects Limited"
+    "label": "Manav Infra Projects Limited",
+    "background": "linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%)"
   },
   {
     "value": "CKPLEISURE",
-    "label": "CKP Leisure Limited"
+    "label": "CKP Leisure Limited",
+    "background": "linear-gradient(90deg, hsla(270, 94%, 25%, 1) 0%, hsla(158, 94%, 49%, 1) 100%)"
   },
   {
     "value": "GISOLUTION",
-    "label": "GI Engineering Solutions Limited"
+    "label": "GI Engineering Solutions Limited",
+    "background": "linear-gradient(90deg, hsla(235, 100%, 78%, 1) 0%, hsla(222, 77%, 33%, 1) 100%)"
   },
   {
     "value": "GBGLOBAL",
-    "label": "GB Global Limited"
+    "label": "GB Global Limited",
+    "background": "linear-gradient(90deg, hsla(116, 50%, 48%, 1) 0%, hsla(101, 46%, 8%, 1) 100%)"
   },
   {
     "value": "THOMASCOTT",
-    "label": "Thomas Scott (India) Limited"
+    "label": "Thomas Scott (India) Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "PAEL",
-    "label": "PAE Limited"
+    "label": "PAE Limited",
+    "background": "linear-gradient(90deg, hsla(334, 95%, 51%, 1) 0%, hsla(328, 100%, 9%, 1) 100%)"
   },
   {
     "value": "BOHRA",
-    "label": "Bohra Industries Limited"
+    "label": "Bohra Industries Limited",
+    "background": "linear-gradient(90deg, hsla(39, 100%, 71%, 1) 0%, hsla(216, 100%, 62%, 1) 100%)"
   },
   {
     "value": "JAINSTUDIO",
-    "label": "Jain Studios Limited"
+    "label": "Jain Studios Limited",
+    "background": "linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%)"
   },
   {
     "value": "HOTELRUGBY",
-    "label": "Hotel Rugby Limited"
+    "label": "Hotel Rugby Limited",
+    "background": "linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%)"
   },
   {
     "value": "JAIHINDPRO",
-    "label": "Jaihind Projects Limited"
+    "label": "Jaihind Projects Limited",
+    "background": "linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%)"
   },
   {
     "value": "SABEVENTS",
-    "label": "Sab Events & Governance Now Media Limited"
+    "label": "Sab Events & Governance Now Media Limited",
+    "background": "linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(42, 100%, 66%, 1) 100%)"
   }
 ];

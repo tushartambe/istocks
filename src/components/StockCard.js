@@ -3,6 +3,7 @@ import React from 'react';
 import { useHistory } from 'react-router';
 import { INR } from "../constants/constants";
 import { getAvatarText } from '../utils/utils';
+import allStocks from "../constants/allStocks";
 const { Text } = Typography;
 const { Meta } = Card;
 
@@ -10,6 +11,8 @@ const StockCard = (props) => {
   const history = useHistory();
   const dayChange = props.currentPrice - props.previousClose;
   const textType = dayChange > 0 ? 'success' : 'danger';
+  const stock = allStocks.find(element => element.value === props.symbol);
+
   return (
     <Card
       size='small'
@@ -22,7 +25,7 @@ const StockCard = (props) => {
     >
       <Skeleton loading={props.loading} avatar active>
         <Meta
-          avatar={<Avatar >{getAvatarText(props.name)}</Avatar>}
+          avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle' }} size="large" gap={4}>{getAvatarText(props.name)}</Avatar>}
           title={props.name}
           description={props.symbol}
         />

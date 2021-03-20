@@ -29,7 +29,7 @@ const Home = (props) => {
     },
     {
       name: 'Reliance',
-      symbol: 'RIL',
+      symbol: 'RELIANCE',
       currentPrice: 9008,
       previousClose: 8987
     },
@@ -41,13 +41,13 @@ const Home = (props) => {
     },
     {
       name: 'Tata Motors',
-      symbol: 'TATA',
+      symbol: 'TATAMOTORS',
       currentPrice: 987,
       previousClose: 720
     },
     {
       name: 'Pidilite',
-      symbol: 'PD',
+      symbol: 'PIDILITIND',
       currentPrice: 567,
       previousClose: 440
     },
@@ -62,13 +62,13 @@ const Home = (props) => {
     },
     {
       name: 'Tata Motors',
-      symbol: 'TATA',
+      symbol: 'TATAMOTORS',
       currentPrice: 987,
       previousClose: 999
     },
     {
       name: 'Pidilite',
-      symbol: 'PD',
+      symbol: 'PIDILITIND',
       currentPrice: 567,
       previousClose: 798
     },
@@ -86,7 +86,7 @@ const Home = (props) => {
     },
     {
       name: 'Reliance',
-      symbol: 'RIL',
+      symbol: 'RELIANCE',
       currentPrice: 9008,
       previousClose: 9187
     }

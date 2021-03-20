@@ -17,7 +17,7 @@ const Favorites = (props) => {
     },
     {
       name: 'Tata Motors',
-      symbol: 'TATA',
+      symbol: 'TATAMOTORS',
       currentPrice: 987,
       previousClose: 999
     }
