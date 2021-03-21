@@ -9,19 +9,18 @@ const { Meta } = Card;
 
 const StockCard = (props) => {
   const history = useHistory();
-  const dayChange = props.currentPrice - props.previousClose;
-  const textType = dayChange > 0 ? 'success' : 'danger';
+  const textType = props.dayChange > 0 ? 'success' : 'danger';
   const stock = allStocks.find(element => element.value === props.symbol);
 
   return (
     <Card
       size='small'
       bordered={true}
-      hoverable
       style={{ width: 200, margin: 5 }}
       onClick={() =>
         history.push(`/stocks/${props.symbol}`)
       }
+      hoverable
     >
       <Skeleton loading={props.loading} avatar active>
         <Meta
@@ -31,7 +30,7 @@ const StockCard = (props) => {
         />
         <Text>{INR + props.currentPrice}</Text>
         <br />
-        <Text type={textType}>{'+'.repeat(dayChange >= 0) + dayChange}</Text>
+        <Text type={textType}>{'+'.repeat(props.dayChange >= 0) + props.dayChange}{props.dayChangeSuffix}</Text>
       </Skeleton>
     </Card>
   );

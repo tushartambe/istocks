@@ -1,20 +1,20 @@
 import { ArrowDownOutlined, ArrowUpOutlined } from '@ant-design/icons';
 import { Card, Space, Statistic, Typography } from 'antd';
 import React from 'react';
-import { roundToTwoDigits } from '../utils/utils';
 
 const { Text } = Typography;
 
 const IndexCard = (props) => {
-  const dayChange = roundToTwoDigits(props.currentValue - props.previousClose);
-  const color = dayChange > 0 ? '#3f8600' : '#cf1322';
-  const prefix = dayChange > 0 ? <ArrowUpOutlined /> : <ArrowDownOutlined />;
+  const color = props.dayChange > 0 ? '#3f8600' : '#cf1322';
+  const prefix = props.dayChange > 0 ? <ArrowUpOutlined /> : <ArrowDownOutlined />;
+
   return (
     <Card
       size='small'
       title={props.indexName}
-      hoverable
       style={{ maxWidth: '400px', margin: 10 }}
+      loading={props.loading}
+      hoverable
     >
       <Statistic
         title={props.exchangeName}
@@ -29,7 +29,7 @@ const IndexCard = (props) => {
                 {value}
               </Text>
               <Text style={{ fontSize: '15px', color: color }}>
-                {'+'.repeat(dayChange >= 0) + dayChange}
+                {'+'.repeat(props.dayChange >= 0) + props.dayChange}{"%"}
               </Text>
             </Space>
           )

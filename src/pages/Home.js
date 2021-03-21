@@ -1,164 +1,98 @@
 import React, { useEffect, useState } from 'react';
-import axios from "axios";
 import CustomLayout from '../components/CustomLayout';
-import StockCard from '../components/StockCard';
 import StockCardList from '../components/StockCardList';
-import { Collapse, Typography } from 'antd';
+import { Collapse, Typography, notification } from 'antd';
 import IndexCard from '../components/IndexCard';
-
+import { getGainers, getIndices, getLosers } from '../apis/market-data';
 const { Panel } = Collapse;
 const { Title } = Typography;
 
 const Home = (props) => {
-  const [loading, setLoading] = useState(true);
+  const [indexLoading, setIndexLoading] = useState(true);
+  const [gainersLoading, setGainersLoading] = useState(true);
+  const [losersLoading, setLosersLoading] = useState(true);
+  const [indexData, setIndexData] = useState(null);
   const [topGainers, setTopGainers] = useState([]);
   const [topLosers, setTopLosers] = useState([]);
 
-  const stocks = [
-    {
-      name: 'TCS',
-      symbol: 'TCS',
-      currentPrice: 205,
-      previousClose: 200
-    },
-    {
-      name: 'Mahindra and Mahindra',
-      symbol: 'M&M',
-      currentPrice: 2080,
-      previousClose: 2040
-    },
-    {
-      name: 'Reliance',
-      symbol: 'RELIANCE',
-      currentPrice: 9008,
-      previousClose: 8987
-    },
-    {
-      name: 'Indian railway',
-      symbol: 'IRCTC',
-      currentPrice: 76,
-      previousClose: 55
-    },
-    {
-      name: 'Tata Motors',
-      symbol: 'TATAMOTORS',
-      currentPrice: 987,
-      previousClose: 720
-    },
-    {
-      name: 'Pidilite',
-      symbol: 'PIDILITIND',
-      currentPrice: 567,
-      previousClose: 440
-    },
-  ]
+  const loadMarketData = () => {
 
-  const stocks1 = [
-    {
-      name: 'Indian railway',
-      symbol: 'IRCTC',
-      currentPrice: 76,
-      previousClose: 90
-    },
-    {
-      name: 'Tata Motors',
-      symbol: 'TATAMOTORS',
-      currentPrice: 987,
-      previousClose: 999
-    },
-    {
-      name: 'Pidilite',
-      symbol: 'PIDILITIND',
-      currentPrice: 567,
-      previousClose: 798
-    },
-    {
-      name: 'TCS',
-      symbol: 'TCS',
-      currentPrice: 205,
-      previousClose: 256
-    },
-    {
-      name: 'Mahindra and Mahindra',
-      symbol: 'M&M',
-      currentPrice: 2080,
-      previousClose: 2140
-    },
-    {
-      name: 'Reliance',
-      symbol: 'RELIANCE',
-      currentPrice: 9008,
-      previousClose: 9187
-    }
-  ]
+    getIndices().then(response => {
+      setIndexData(response.data[0]);
+      setIndexLoading(false);
+    }).catch(error => {
+      if (error.status === 500) {
+        notification.error({
+          message: 'iStocks',
+          description: 'Unable to fetch index value. Please try again!'
+        });
+      } else {
+        notification.error({
+          message: 'iStocks',
+          description: error.message || 'Sorry! Something went wrong. Please try again!'
+        });
+      }
+      setIndexLoading(false);
+    });
 
-  setTimeout(function () { setLoading(false); }, 3000);
+    getGainers().then(response => {
+      console.log("Gainers --------------", response.data);
+      setTopGainers(response.data);
+      setGainersLoading(false);
+    }).catch(error => {
+      if (error.status === 500) {
+        notification.error({
+          message: 'iStocks',
+          description: 'Unable to top gainers right now. Please try again!'
+        });
+      } else {
+        notification.error({
+          message: 'iStocks',
+          description: error.message || 'Sorry! Something went wrong. Please try again!'
+        });
+      }
+      setGainersLoading(false);
+    });
 
-  // useEffect(() => {
-  //   axios.get('http://localhost:3000/nse/get_gainers')
-  //     .then(res => {
-  //       const quotes = res.data.data;
-  //       quotes.map(q => {
-  //         axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
-  //           .then(res => {
-  //             const quote = res.data.data[0];
-  //             setTopGainers(state => {
-  //               return [...state, {
-  //                 symbol: quote.symbol,
-  //                 name: quote.companyName,
-  //                 dayHigh: quote.dayHigh,
-  //                 dayLow: quote.dayLow,
-  //                 previousClose: quote.previousClose,
-  //                 currentPrice: quote.closePrice,
-  //                 yearLow: quote.low52,
-  //                 yearHigh: quote.high52,
-  //                 openPrice: quote.open
-  //               }]
-  //             })
-  //           })
-  //       })
-  //     })
+    getLosers().then(response => {
+      console.log("losers --------------", response.data);
+      setTopLosers(response.data);
+      setLosersLoading(false);
+    }).catch(error => {
+      if (error.status === 500) {
+        notification.error({
+          message: 'iStocks',
+          description: 'Unable to top losers right now. Please try again!'
+        });
+      } else {
+        notification.error({
+          message: 'iStocks',
+          description: error.message || 'Sorry! Something went wrong. Please try again!'
+        });
+      }
+      setLosersLoading(false);
+    });
+  }
 
-  //   axios.get('http://localhost:3000/nse/get_losers')
-  //     .then(res => {
-  //       const quotes = res.data.data;
-  //       quotes.map(q => {
-  //         axios.get('http://localhost:3000/nse/get_quote_info?companyName=' + q.symbol)
-  //           .then(res => {
-  //             const quote = res.data.data[0];
-  //             setTopLosers(state => {
-  //               return [...state, {
-  //                 symbol: quote.symbol,
-  //                 name: quote.companyName,
-  //                 dayHigh: quote.dayHigh,
-  //                 dayLow: quote.dayLow,
-  //                 previousClose: quote.previousClose,
-  //                 currentPrice: quote.closePrice,
-  //                 yearLow: quote.low52,
-  //                 yearHigh: quote.high52,
-  //                 openPrice: quote.open
-  //               }]
-  //             })
-  //           })
-  //       })
-  //     })
-  // }, []);
+  useEffect(() => {
+    loadMarketData();
+  }, []);
 
   return (
     <CustomLayout>
       <IndexCard
-        indexName={"NIFTY"}
+        indexName={indexData?.indexName}
         exchangeName={"NSE"}
-        currentValue={13000.90}
-        previousClose={13100.11}
-      >
-      </IndexCard>
+        dayChange={indexData?.percChange}
+        currentValue={indexData?.last}
+        previousClose={indexData?.previousClose}
+        loading={indexLoading} />
       <Collapse defaultActiveKey={['1', '2']} ghost>
         <Panel header={<Title type="success" level={4}>Top Gainers</Title>} showArrow={false} key="1">
-          <StockCardList stockList={stocks} loading={loading}></StockCardList>
+          <StockCardList stockList={topGainers} loading={gainersLoading} />
         </Panel>
         <Panel header={<Title type="danger" level={4}>Top Losers</Title>} showArrow={false} key="2">
-          <StockCardList stockList={stocks1} loading={loading}></StockCardList>
+          <StockCardList stockList={topLosers} loading={losersLoading} />
         </Panel>
       </Collapse>
     </CustomLayout>
