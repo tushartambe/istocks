@@ -1,4 +1,5 @@
 import React from 'react';
+import { ThemeSwitcherProvider } from "react-css-theme-switcher";
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './index.css';
@@ -10,7 +11,6 @@ import Register from './pages/Register';
 import StockDetails from './pages/StockDetails';
 import Transactions from './pages/Transactions';
 import reportWebVitals from './reportWebVitals';
-import { ThemeSwitcherProvider } from "react-css-theme-switcher";
 
 const themes = {
   dark: `${process.env.PUBLIC_URL}/dark-theme.css`,
@@ -18,7 +18,6 @@ const themes = {
 };
 
 ReactDOM.render(
-
   <React.StrictMode>
     <ThemeSwitcherProvider
       themeMap={themes}

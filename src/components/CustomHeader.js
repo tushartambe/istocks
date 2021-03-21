@@ -13,7 +13,7 @@ const { Title } = Typography;
 const { Search } = Input;
 
 const CustomHeader = (props) => {
-  const [isDarkMode, setIsDarkMode] = useState();
+  const [isDarkMode, setIsDarkMode] = useState(false);
   const { switcher, currentTheme, status, themes } = useThemeSwitcher();
 
   const toggleTheme = (isChecked) => {
@@ -26,9 +26,6 @@ const CustomHeader = (props) => {
     window.location.href = URL;
   };
 
-  const IconFont = createFromIconfontCN({
-    scriptUrl: '//at.alicdn.com/t/font_8d5l8fzk5b87iudi.js',
-  });
 
   return (
     <div style={{ padding: '5px', margin: "0 25%", display: 'flex', flexDirection: 'row', justifyContent: 'space-around', alignItems: 'center' }}>

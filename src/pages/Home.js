@@ -36,7 +36,6 @@ const Home = (props) => {
     });
 
     getGainers().then(response => {
-      console.log("Gainers --------------", response.data);
       setTopGainers(response.data);
       setGainersLoading(false);
     }).catch(error => {
@@ -55,7 +54,6 @@ const Home = (props) => {
     });
 
     getLosers().then(response => {
-      console.log("losers --------------", response.data);
       setTopLosers(response.data);
       setLosersLoading(false);
     }).catch(error => {

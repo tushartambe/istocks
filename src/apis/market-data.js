@@ -39,3 +39,10 @@ export const getLosers = () => {
     method: 'GET'
   });
 }
+
+export const getQuote = (symbol) => {
+  return request({
+    url: MARKET_DATA_URL + "/nse/get_quote_info?companyName=" + symbol,
+    method: 'GET'
+  });
+}
