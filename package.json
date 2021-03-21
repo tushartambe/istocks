@@ -9,10 +9,13 @@
     "antd": "^4.11.2",
     "axios": "^0.21.1",
     "react": "^17.0.1",
+    "react-css-theme-switcher": "^0.2.2",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "react-switch": "^6.0.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -38,5 +41,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-postcss": "^9.0.0",
+    "less-plugin-npm-import": "^2.1.0"
   }
 }
