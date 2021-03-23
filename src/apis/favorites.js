@@ -24,6 +24,12 @@ const request = (options) => {
     );
 };
 
+export const getFavoriteStocks = () => {
+  return request({
+    url: API_BASE_URL + "/favorites",
+    method: 'GET'
+  });
+}
 
 export const addToFavorites = (favoritesRequest) => {
   return request({

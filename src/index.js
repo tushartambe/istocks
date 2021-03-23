@@ -21,7 +21,7 @@ ReactDOM.render(
   <React.StrictMode>
     <ThemeSwitcherProvider
       themeMap={themes}
-      defaultTheme="light"
+      defaultTheme="dark"
       insertionPoint="styles-insertion-point"
     >
       <Router>
