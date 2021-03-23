@@ -9,8 +9,7 @@ import {
 import { Button, Dropdown, Menu, notification } from 'antd';
 import React from 'react';
 import { useHistory } from 'react-router-dom';
-import { JWT_TOKEN } from '../utils/APIUtils';
-
+import { JWT_TOKEN } from '../constants/constants';
 
 const ProfileActions = (props) => {
   const history = useHistory();
@@ -25,6 +24,7 @@ const ProfileActions = (props) => {
       description: "You've successfully logged out.",
     });
   }
+
   const menu = (
     <Menu>
       <Menu.Item key="1" icon={<WalletOutlined />} onClick={() => history.push("/transactions")}>

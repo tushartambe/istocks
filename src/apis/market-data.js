@@ -1,23 +1,6 @@
+import { request } from "../utils/APIUtils";
+
 export const MARKET_DATA_URL = 'http://localhost:3000';
-
-const request = (options) => {
-  const headers = new Headers({
-    'Content-Type': 'application/json'
-  });
-
-  const defaults = { headers: headers };
-  options = Object.assign({}, defaults, options);
-
-  return fetch(options.url, options)
-    .then(response =>
-      response.json().then(json => {
-        if (!response.ok) {
-          return Promise.reject(json);
-        }
-        return json;
-      })
-    );
-};
 
 export const getIndices = () => {
   return request({

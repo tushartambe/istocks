@@ -2,8 +2,10 @@ import { LockTwoTone, MailTwoTone, SmileTwoTone } from "@ant-design/icons";
 import { Button, Form, Input, Layout, notification, Typography } from "antd";
 import React, { useState } from 'react';
 import { Link } from "react-router-dom";
+import { register } from "../apis/authentication";
 import UnAuthCustomLayout from '../components/UnAuthCustomLayout';
-import { register } from '../utils/APIUtils';
+import { JWT_TOKEN } from "../constants/constants";
+
 
 const { Content } = Layout;
 const { Title } = Typography;

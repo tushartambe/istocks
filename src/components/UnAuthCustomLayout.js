@@ -5,6 +5,7 @@ import { layoutStyle } from '../styles';
 const { Title } = Typography;
 const { Search } = Input;
 const { Footer, Header, Content } = Layout;
+
 const UnAuthCustomLayout = (props) => {
   return (
     <Layout style={layoutStyle}>

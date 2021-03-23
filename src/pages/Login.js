@@ -2,9 +2,9 @@ import { LockTwoTone, MailTwoTone } from "@ant-design/icons";
 import { Button, Form, Input, Layout, notification, Typography } from "antd";
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { login } from "../apis/authentication";
 import UnAuthCustomLayout from '../components/UnAuthCustomLayout';
-import { JWT_TOKEN, login } from '../utils/APIUtils';
-const { Content } = Layout;
+import {JWT_TOKEN} from '../constants/constants';
 const { Title } = Typography;
 
 const Login = (props) => {
@@ -17,7 +17,7 @@ const Login = (props) => {
       "username": email,
       "password": password
     };
-
+    
     login(loginRequest)
       .then(response => {
         localStorage.setItem(JWT_TOKEN, response.jwtToken);
