@@ -1,12 +1,14 @@
-import { HeartOutlined, FrownOutlined, SmileOutlined, HeartFilled } from '@ant-design/icons';
-import { Avatar, Button, Card, Col, Tooltip, Slider, InputNumber, Divider, Row, Tabs, Typography, Space, notification } from 'antd';
+import { HeartOutlined, FrownOutlined, ExclamationCircleOutlined, SmileOutlined, HeartFilled } from '@ant-design/icons';
+import { Avatar, Button, Card, Col, Tooltip, Slider, InputNumber, Divider, Row, Tabs, Typography, Space, notification, Modal } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { addToFavorites, isFavorite, removeFromFavorites } from '../apis/favorites';
 import { getQuote } from '../apis/market-data';
+import { placeOrder } from '../apis/orders';
+import BuySellConfirmModal from '../components/BuySellConfirmModal';
 import CustomLayout from '../components/CustomLayout';
 import CustomPropertyText from '../components/CustomPropertyText';
 import allStocks from '../constants/allStocks';
-import { INR, NSE_QUOTE_URL } from "../constants/constants";
+import { INR, NSE_QUOTE_URL, OrderType } from "../constants/constants";
 import { getAvatarText } from '../utils/utils';
 import './StockDetails.css';
 
@@ -18,6 +20,8 @@ const StockDetails = (props) => {
   const [loading, setLoading] = useState(true);
   const [stockInfo, setStockInfo] = useState();
   const [isStockFavorite, setIsStockFavorite] = useState(false);
+  const [buySharesQuantity, setBuySharesQuantity] = useState(1);
+  const [sellSharesQuantity, setSellSharesQuantity] = useState(1);
 
   const loadStockDetails = () => {
     getQuote(symbol).then(response => {
@@ -25,13 +29,13 @@ const StockDetails = (props) => {
       setStockInfo({
         name: data.companyName,
         symbol: data.symbol,
-        currentPrice: data.lastPrice,
-        openPrice: data.open,
-        previousClose: data.previousClose,
-        dayLow: data.dayLow,
-        dayHigh: data.dayHigh,
-        yearLow: data.low52,
-        yearHigh: data.high52,
+        currentPrice: Number(data.lastPrice.replace(/\,/g, '')),
+        openPrice: Number(data.open.replace(/\,/g, '')),
+        previousClose: Number(data.previousClose.replace(/\,/g, '')),
+        dayLow: Number(data.dayLow.replace(/\,/g, '')),
+        dayHigh: Number(data.dayHigh.replace(/\,/g, '')),
+        yearLow: Number(data.low52.replace(/\,/g, '')),
+        yearHigh: Number(data.high52.replace(/\,/g, '')),
       });
       setLoading(false);
     }).catch(error => {
@@ -124,6 +128,43 @@ const StockDetails = (props) => {
           description: error.message || 'Sorry! Something went wrong. Please try again!'
         });
       }
+    });
+  }
+
+  const order = () => {
+    const orderRequest = {
+      amount: buySharesQuantity * stockInfo.currentPrice,
+      orderType: OrderType.BUY,
+      companySymbol: stockInfo.symbol,
+      companyName: stockInfo.name,
+      currentSharePrice: stockInfo.currentPrice,
+      shareQuantity: buySharesQuantity,
+    };
+
+    placeOrder(orderRequest).then(response => {
+      notification.success({
+        message: 'iStocks',
+        description: 'Order Executed Successfully!'
+      });
+    }).catch(error => {
+      if (error.status === 500) {
+        notification.error({
+          message: 'iStocks',
+          description: 'Unable to place your order right now. Please try again!'
+        });
+      } else {
+        notification.error({
+          message: 'iStocks',
+          description: error.message || 'Sorry! Something went wrong. Please try again!'
+        });
+      }
+    });
+  }
+
+  const confirmBuyOrder = () => {
+    BuySellConfirmModal({
+      content: "You're buying " + buySharesQuantity + " Shares of " + stockInfo.name + " at " + stockInfo.currentPrice + ". Total Price : " + (buySharesQuantity * stockInfo.currentPrice),
+      onOk: order
     });
   }
 
@@ -220,8 +261,8 @@ const StockDetails = (props) => {
               </Text>}
               key="1">
               <Space>
-                <InputNumber min={1} max={10} defaultValue={1} /> Shares @ {INR + stockInfo?.currentPrice}
-                <Button type="primary">Buy Now</Button>
+                <InputNumber min={1} max={10} defaultValue={1} onChange={(value) => setBuySharesQuantity(value)} /> Shares @ {INR + stockInfo?.currentPrice}
+                <Button type="primary" onClick={confirmBuyOrder}>Buy Now</Button>
               </Space>
             </TabPane>
             <TabPane
