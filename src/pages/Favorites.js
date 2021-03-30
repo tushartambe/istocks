@@ -14,7 +14,13 @@ const Favorites = (props) => {
   const loadFavoriteStocks = () => {
     getFavoriteStocks().then(response => {
       console.log("favorites-------------------", response);
-      setFavorites(response);
+      let sanitizedData = response.map(stock => {
+        let lastPrice = Number(stock.lastPrice.replace(/\,/g, ''));
+        let previousClose = Number(stock.previousClose.replace(/\,/g, ''));
+        return { ...stock, ltp: stock.lastPrice, netPrice: Math.round(lastPrice - previousClose) }
+      });
+
+      setFavorites(sanitizedData);
       setLoading(false);
     }).catch(error => {
       if (error.status === 500) {

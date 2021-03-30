@@ -2,6 +2,7 @@ import React from 'react';
 import { ThemeSwitcherProvider } from "react-css-theme-switcher";
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import withAuth from './components/withAuth';
 import './index.css';
 import Favorites from './pages/Favorites';
 import Home from './pages/Home';
@@ -26,13 +27,13 @@ ReactDOM.render(
     >
       <Router>
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/" component={withAuth(Home)} />
           <Route path="/login" component={Login} />
           <Route path="/register" component={Register} />
-          <Route path="/stocks/:symbol" component={StockDetails} />
-          <Route path="/my-investments" component={Investments} />
-          <Route path="/transactions" component={Transactions} />
-          <Route path="/favorites" component={Favorites} />
+          <Route path="/stocks/:symbol" component={withAuth(StockDetails)} />
+          <Route path="/my-investments" component={withAuth(Investments)} />
+          <Route path="/transactions" component={withAuth(Transactions)} />
+          <Route exact path="/favorites" component={withAuth(Favorites)} />
         </Switch>
       </Router>
     </ThemeSwitcherProvider>

@@ -10,10 +10,17 @@ export const login = (loginRequest) => {
   });
 }
 
-export function register(registerRequest) {
+export const register = (registerRequest) => {
   return request({
     url: API_BASE_URL + "/register",
     method: 'POST',
     body: JSON.stringify(registerRequest)
+  });
+}
+
+export const checkToken = () => {
+  return request({
+    url: API_BASE_URL + "/checkToken",
+    method: 'GET'
   });
 }

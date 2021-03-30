@@ -18,7 +18,7 @@ const StockCardList = (props) => {
           return (
             <Col key={index}>
               <StockCard
-                name={stock.symbol}
+                name={stock.name || stock.symbol}
                 symbol={stock.symbol}
                 currentPrice={stock.ltp}
                 dayChange={stock.netPrice}
