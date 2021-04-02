@@ -1,5 +1,5 @@
-import { HeartOutlined, FrownOutlined, ExclamationCircleOutlined, SmileOutlined, HeartFilled } from '@ant-design/icons';
-import { Avatar, Button, Card, Col, Tooltip, Slider, InputNumber, Divider, Row, Tabs, Typography, Space, notification, Modal } from 'antd';
+import { HeartFilled, HeartOutlined } from '@ant-design/icons';
+import { Avatar, Button, Card, Col, InputNumber, notification, Row, Slider, Space, Tabs, Typography } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { addToFavorites, isFavorite, removeFromFavorites } from '../apis/favorites';
 import { getQuote } from '../apis/market-data';
@@ -131,26 +131,19 @@ const StockDetails = (props) => {
     });
   }
 
-  const order = () => {
-    const orderRequest = {
-      amount: buySharesQuantity * stockInfo.currentPrice,
-      orderType: OrderType.BUY,
-      companySymbol: stockInfo.symbol,
-      companyName: stockInfo.name,
-      currentSharePrice: stockInfo.currentPrice,
-      shareQuantity: buySharesQuantity,
-    };
-
+  const order = (orderRequest) => {
     placeOrder(orderRequest).then(response => {
+      console.log("ressssssss", response);
       notification.success({
         message: 'iStocks',
         description: 'Order Executed Successfully!'
       });
     }).catch(error => {
-      if (error.status === 500) {
+      console.log("errprrr------", error);
+      if (error.status === 400) {
         notification.error({
           message: 'iStocks',
-          description: 'Unable to place your order right now. Please try again!'
+          description: error.message
         });
       } else {
         notification.error({
@@ -162,9 +155,34 @@ const StockDetails = (props) => {
   }
 
   const confirmBuyOrder = () => {
+    const orderRequest = {
+      amount: buySharesQuantity * stockInfo.currentPrice,
+      orderType: OrderType.BUY,
+      companySymbol: stockInfo.symbol,
+      companyName: stockInfo.name,
+      currentSharePrice: stockInfo.currentPrice,
+      shareQuantity: buySharesQuantity,
+    };
+
     BuySellConfirmModal({
       content: "You're buying " + buySharesQuantity + " Shares of " + stockInfo.name + " at " + stockInfo.currentPrice + ". Total Price : " + (buySharesQuantity * stockInfo.currentPrice),
-      onOk: order
+      onOk: order.bind(null, orderRequest)
+    });
+  }
+
+  const confirmSellOrder = () => {
+    const orderRequest = {
+      amount: sellSharesQuantity * stockInfo.currentPrice,
+      orderType: OrderType.SELL,
+      companySymbol: stockInfo.symbol,
+      companyName: stockInfo.name,
+      currentSharePrice: stockInfo.currentPrice,
+      shareQuantity: sellSharesQuantity,
+    };
+
+    BuySellConfirmModal({
+      content: "You're Selling " + buySharesQuantity + " Shares of " + stockInfo.name + " at " + stockInfo.currentPrice + ". Total Price : " + (sellSharesQuantity * stockInfo.currentPrice),
+      onOk: order.bind(null, orderRequest)
     });
   }
 
@@ -235,21 +253,7 @@ const StockDetails = (props) => {
             <Col key="close-price" span={6}>
               <CustomPropertyText name="Previous Close" value={stockInfo?.previousClose} prefix={INR}></CustomPropertyText>
             </Col>
-            {/* <Col key="day-low" span={8}>
-              <CustomPropertyText name="Today's Low" value={stockInfo.dayLow} prefix={INR}></CustomPropertyText>
-            </Col> */}
           </Row>
-          {/* <Row gutter={24} >
-            <Col key="day-high" span={8}>
-              <CustomPropertyText name="Today's High" value={stockInfo.dayHigh} prefix={INR}></CustomPropertyText>
-            </Col>
-            <Col key="52week-low" span={8}>
-              <CustomPropertyText name="52 week Low" value={stockInfo.yearLow} prefix={INR}></CustomPropertyText>
-            </Col>
-            <Col key="52week-high" span={8}>
-              <CustomPropertyText name="52 week high" value={stockInfo.yearHigh} prefix={INR}></CustomPropertyText>
-            </Col>
-          </Row> */}
           <Link href={NSE_QUOTE_URL + symbol} target="_blank">
             More Information..
           </Link>
@@ -261,7 +265,7 @@ const StockDetails = (props) => {
               </Text>}
               key="1">
               <Space>
-                <InputNumber min={1} max={10} defaultValue={1} onChange={(value) => setBuySharesQuantity(value)} /> Shares @ {INR + stockInfo?.currentPrice}
+                <InputNumber min={1} defaultValue={1} onChange={(value) => setBuySharesQuantity(value)} /> Shares @ {INR + stockInfo?.currentPrice}
                 <Button type="primary" onClick={confirmBuyOrder}>Buy Now</Button>
               </Space>
             </TabPane>
@@ -272,8 +276,8 @@ const StockDetails = (props) => {
                 </Text>}
               key="2">
               <Space>
-                <InputNumber min={1} max={10} defaultValue={1} /> Shares @ {INR + stockInfo?.currentPrice}
-                <Button type="primary" danger>Sell Now</Button>
+                <InputNumber min={1} defaultValue={1} onChange={(value) => setSellSharesQuantity(value)} /> Shares @ {INR + stockInfo?.currentPrice}
+                <Button type="primary" danger onClick={confirmSellOrder}>Sell Now</Button>
               </Space>
             </TabPane>
           </Tabs>
