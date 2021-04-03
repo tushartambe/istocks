@@ -9,3 +9,10 @@ export const placeOrder = (orderRequest) => {
     body: JSON.stringify(orderRequest)
   });
 }
+
+export const getOrders = () => {
+  return request({
+    url: API_BASE_URL + "/orders",
+    method: 'GET'
+  });
+}

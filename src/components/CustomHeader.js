@@ -44,16 +44,6 @@ const CustomHeader = (props) => {
         <Search style={{ maxWidth: '400px' }} placeholder="input search text" onSearch={onSelect} enterButton />
       </AutoComplete>
       <ProfileActions></ProfileActions>
-      {/* <Switch
-        checked={isDarkMode}
-        unCheckedChildren={<IoSunny />}
-        checkedChildren={<IoMoon />}
-        onChange={toggleTheme}
-        style={{
-          color: 'white'
-        }}
-      /> */}
-
       <Switch
         checked={isDarkMode}
         onChange={toggleTheme}

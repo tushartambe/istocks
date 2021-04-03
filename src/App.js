@@ -6,6 +6,7 @@ import Favorites from './pages/Favorites';
 import Home from './pages/Home';
 import Investments from './pages/Investments';
 import Login from './pages/Login';
+import Orders from './pages/Orders';
 import Register from './pages/Register';
 import StockDetails from './pages/StockDetails';
 import Transactions from './pages/Transactions';
@@ -20,6 +21,7 @@ const App = (props) => {
         <Route path="/stocks/:symbol" component={withAuth(StockDetails)} />
         <Route path="/my-investments" component={withAuth(Investments)} />
         <Route path="/transactions" component={withAuth(Transactions)} />
+        <Route path="/orders" component={withAuth(Orders)} />
         <Route exact path="/favorites" component={withAuth(Favorites)} />
       </Switch>
     </Router>

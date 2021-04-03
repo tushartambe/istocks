@@ -30,7 +30,7 @@ const ProfileActions = (props) => {
       <Menu.Item key="1" icon={<WalletOutlined />} onClick={() => history.push("/transactions")}>
         Wallet
     </Menu.Item>
-      <Menu.Item key="2" icon={<FileDoneOutlined />} onClick={() => history.push("/transactions")}>
+      <Menu.Item key="2" icon={<FileDoneOutlined />} onClick={() => history.push("/orders")}>
         Orders
     </Menu.Item>
       <Menu.Item key="3" icon={<BookOutlined />} onClick={() => history.push("/my-investments")}>
