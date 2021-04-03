@@ -5,3 +5,7 @@ export const OrderType = {
   BUY: "BUY",
   SELL: "SELL"
 }
+export const TransactionType = {
+  CREDIT: "CREDIT",
+  DEBIT: "DEBIT"
+}
