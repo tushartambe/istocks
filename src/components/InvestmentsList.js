@@ -33,7 +33,7 @@ const InvestmentsList = (props) => {
         compare: (a, b) => a.marketPrice - b.marketPrice,
       },
       render: (text, record) => (
-        <Text>{INR}{record.averagePrice}</Text>
+        <Text>{INR}{record.marketPrice}</Text>
       )
     },
     {

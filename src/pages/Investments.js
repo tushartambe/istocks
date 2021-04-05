@@ -1,11 +1,14 @@
 import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
-import { Card, Col, Row, Statistic, Typography, notification } from 'antd';
+import { Card, Col, Row, Statistic, Typography, notification, Tabs } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { getHoldings } from '../apis/holdings';
 import CustomLayout from '../components/CustomLayout';
+import InvestmentCharts from '../components/InvestmentsCharts';
 import InvestmentsList from '../components/InvestmentsList';
 import { INR } from '../constants/constants';
+import { roundToTwoDigits } from '../utils/utils';
 const { Title } = Typography;
+const { TabPane } = Tabs;
 const Investments = (props) => {
   const [loading, setLoading] = useState(true);
   const [holdings, setHoldings] = useState([]);
@@ -55,27 +58,34 @@ const Investments = (props) => {
     <CustomLayout>
       <div style={{ marginRight: '12.5%', marginLeft: '12.5%', marginTop: '10px' }}>
         <Title level={4}>Your Holdings</Title>
-        <div style={{ marginRight: '12.5%', marginLeft: '12.5%', marginTop: '10px', padding: 10, background: '#ececec' }}>
-          <Row >
-            <Col span={8}>
-              <Card size='small' hoverable loading={loading}>
-                <Statistic title="Total Returns" valueStyle={{ color: color }}
-                  value={totalReturns} prefix={<>{prefix} {INR}</>} />
-              </Card>
-            </Col>
-            <Col span={8}>
-              <Card size='small' hoverable loading={loading}>
-                <Statistic title="Current Value" value={currentValue} prefix={INR} />
-              </Card>
-            </Col>
-            <Col span={8}>
-              <Card size='small' hoverable loading={loading}>
-                <Statistic title="Invested Value" value={investedValue} prefix={INR} />
-              </Card>
-            </Col>
-          </Row>
-        </div>
-        <InvestmentsList holdings={holdings} loading={loading}></InvestmentsList>
+        <Tabs defaultActiveKey="1" size="large">
+          <TabPane tab="Table" key="1">
+            <div style={{ marginRight: '12.5%', marginLeft: '12.5%', marginTop: '10px', padding: 10, background: '#ececec' }}>
+              <Row >
+                <Col span={8}>
+                  <Card size='small' hoverable loading={loading}>
+                    <Statistic title="Total Returns" valueStyle={{ color: color }}
+                      value={roundToTwoDigits(totalReturns)} prefix={<>{prefix} {INR}</>} />
+                  </Card>
+                </Col>
+                <Col span={8}>
+                  <Card size='small' hoverable loading={loading}>
+                    <Statistic title="Current Value" value={roundToTwoDigits(currentValue)} prefix={INR} />
+                  </Card>
+                </Col>
+                <Col span={8}>
+                  <Card size='small' hoverable loading={loading}>
+                    <Statistic title="Invested Value" value={roundToTwoDigits(investedValue)} prefix={INR} />
+                  </Card>
+                </Col>
+              </Row>
+            </div>
+            <InvestmentsList holdings={holdings} loading={loading}></InvestmentsList>
+          </TabPane>
+          <TabPane tab="Charts" key="2">
+            <InvestmentCharts data={holdings}></InvestmentCharts>
+          </TabPane>
+        </Tabs>
       </div>
     </CustomLayout>
   );
