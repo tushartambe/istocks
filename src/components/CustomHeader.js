@@ -14,7 +14,7 @@ const { Search } = Input;
 const CustomHeader = (props) => {
   const history = useHistory();
 
-  const [isDarkMode, setIsDarkMode] = useState(false);
+  const [isDarkMode, setIsDarkMode] = useState(true);
   const { switcher, currentTheme, status, themes } = useThemeSwitcher();
 
   const toggleTheme = (isChecked) => {
