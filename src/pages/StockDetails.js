@@ -1,12 +1,11 @@
-import { HeartFilled, HeartOutlined } from '@ant-design/icons';
 import { Avatar, Button, Card, Col, InputNumber, notification, Row, Slider, Space, Tabs, Typography } from 'antd';
 import React, { useEffect, useState } from 'react';
-import { addToFavorites, isFavorite, removeFromFavorites } from '../apis/favorites';
 import { getQuote } from '../apis/market-data';
 import { placeOrder } from '../apis/orders';
 import BuySellConfirmModal from '../components/BuySellConfirmModal';
 import CustomLayout from '../components/CustomLayout';
 import CustomPropertyText from '../components/CustomPropertyText';
+import FavoritesButton from '../components/FavoritesButton';
 import allStocks from '../constants/allStocks';
 import { INR, NSE_QUOTE_URL, OrderType } from "../constants/constants";
 import { getAvatarText } from '../utils/utils';
@@ -19,7 +18,6 @@ const StockDetails = (props) => {
   const symbol = props.match.params.symbol;
   const [loading, setLoading] = useState(true);
   const [stockInfo, setStockInfo] = useState();
-  const [isStockFavorite, setIsStockFavorite] = useState(false);
   const [buySharesQuantity, setBuySharesQuantity] = useState(1);
   const [sellSharesQuantity, setSellSharesQuantity] = useState(1);
 
@@ -58,15 +56,6 @@ const StockDetails = (props) => {
     loadStockDetails();
   }, []);
 
-  useEffect(() => {
-    isFavorite(symbol).then(response => {
-      setIsStockFavorite(response);
-    }).catch(error => {
-      setIsStockFavorite(false);
-    });
-  }, [isStockFavorite]);
-
-
   const stock = allStocks.find(element => element.value === stockInfo?.symbol);
 
   const tipFormatter = (value) => {
@@ -75,60 +64,6 @@ const StockDetails = (props) => {
         {INR + stockInfo?.currentPrice}
       </div>
     )
-  }
-
-  const addStockToFavorites = () => {
-    const favoritesRequest = {
-      "symbol": symbol,
-      "name": stockInfo?.name
-    };
-
-    addToFavorites(favoritesRequest).then(response => {
-      notification.success({
-        message: 'iStocks',
-        description: 'Added to favorites'
-      });
-      setIsStockFavorite(true);
-    }).catch(error => {
-      if (error.status === 500) {
-        notification.error({
-          message: 'iStocks',
-          description: 'Unable to stock details right now. Please try again!'
-        });
-      } else {
-        notification.error({
-          message: 'iStocks',
-          description: error.message || 'Sorry! Something went wrong. Please try again!'
-        });
-      }
-    });
-  }
-
-  const removeStockFromFavorites = () => {
-    const favoritesRequest = {
-      "symbol": symbol,
-      "name": stockInfo?.name
-    };
-
-    removeFromFavorites(favoritesRequest).then(response => {
-      notification.success({
-        message: 'iStocks',
-        description: 'Removed to favorites'
-      });
-      setIsStockFavorite(false);
-    }).catch(error => {
-      if (error.status === 500) {
-        notification.error({
-          message: 'iStocks',
-          description: 'Unable to stock details right now. Please try again!'
-        });
-      } else {
-        notification.error({
-          message: 'iStocks',
-          description: error.message || 'Sorry! Something went wrong. Please try again!'
-        });
-      }
-    });
   }
 
   const order = (orderRequest) => {
@@ -191,9 +126,9 @@ const StockDetails = (props) => {
       <div style={{ marginRight: '25%', marginLeft: '25%', marginTop: '10px' }}>
         <Card
           loading={loading}
-          extra={<Button style={{ borderStyle: 'none' }} shape='circle' icon={
-            isStockFavorite ? <HeartFilled style={{ color: 'red' }} onClick={removeStockFromFavorites} /> : <HeartOutlined onClick={addStockToFavorites} />
-          }></Button>}
+          extra={
+            <FavoritesButton name={stockInfo?.name} symbol={symbol}></FavoritesButton>
+          }
         >
           <Meta
             avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle' }} size="large" gap={4}>{getAvatarText(stockInfo?.name)}</Avatar>}
