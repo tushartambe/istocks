@@ -1,18 +1,19 @@
 import { StockOutlined } from '@ant-design/icons';
 import { AutoComplete, Input, Typography } from 'antd';
-import { useThemeSwitcher } from "react-css-theme-switcher";
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useThemeSwitcher } from "react-css-theme-switcher";
+import { IoMoon, IoSunny } from "react-icons/io5";
+import { Link, useHistory } from 'react-router-dom';
+import Switch from "react-switch";
 import allStocks from "../constants/allStocks";
 import ProfileActions from './ProfileActions';
-import { createFromIconfontCN } from '@ant-design/icons';
-import { IoPartlySunnySharp, IoCloudyNightSharp, IoSunny, IoMoon } from "react-icons/io5";
-import Switch from "react-switch";
 
 const { Title } = Typography;
 const { Search } = Input;
 
 const CustomHeader = (props) => {
+  const history = useHistory();
+
   const [isDarkMode, setIsDarkMode] = useState(false);
   const { switcher, currentTheme, status, themes } = useThemeSwitcher();
 
@@ -23,7 +24,7 @@ const CustomHeader = (props) => {
 
   const onSelect = (value) => {
     let URL = "/stocks/" + value;
-    window.location.href = URL;
+    history.push(URL);
   };
 
 

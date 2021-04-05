@@ -33,7 +33,7 @@ const withAuth = (ComponentToProtect) => {
       checkIsSessionValid();
     }, []);
 
-    return loading ? null : redirect ? <Redirect to="/login" /> : <ComponentToProtect {...props} />;
+    return loading ? null : redirect ? <Redirect to="/login" /> : <ComponentToProtect {...props} key={props.match.params.symbol} keyProp={props.match.params.symbol} />;
   }
 };
 
