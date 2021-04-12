@@ -17,9 +17,10 @@ const StockCard = (props) => {
       size='small'
       bordered={true}
       style={{ width: 200, margin: 5 }}
-      onClick={() =>
-        history.push(`/stocks/${props.symbol}`)
-      }
+      onClick={() => {
+        let symbol = unescape(props.symbol);
+        history.push(`/stocks/${encodeURIComponent(symbol)}`)
+      }}
       hoverable
     >
       <Skeleton loading={props.loading} avatar active>
@@ -32,7 +33,7 @@ const StockCard = (props) => {
         <br />
         <Text type={textType}>{'+'.repeat(props.dayChange >= 0) + props.dayChange}{props.dayChangeSuffix}</Text>
       </Skeleton>
-    </Card>
+    </Card >
   );
 };
 

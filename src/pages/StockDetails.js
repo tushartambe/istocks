@@ -16,7 +16,6 @@ const { Meta } = Card;
 const { TabPane } = Tabs;
 const StockDetails = (props) => {
   const symbol = props.match.params.symbol;
-
   const [loading, setLoading] = useState(true);
   const [stockInfo, setStockInfo] = useState();
   const [buySharesQuantity, setBuySharesQuantity] = useState(1);

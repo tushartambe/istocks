@@ -13,7 +13,7 @@ const Favorites = (props) => {
 
   const loadFavoriteStocks = () => {
     getFavoriteStocks().then(response => {
-      console.log("favorites-------------------", response);
+
       let sanitizedData = response.map(stock => {
         let lastPrice = Number(stock.lastPrice.replace(/\,/g, ''));
         let previousClose = Number(stock.previousClose.replace(/\,/g, ''));

@@ -23,7 +23,7 @@ const CustomHeader = (props) => {
   };
 
   const onSelect = (value) => {
-    let URL = "/stocks/" + value;
+    let URL = "/stocks/" + encodeURIComponent(value);
     history.push(URL);
   };
 
