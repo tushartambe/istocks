@@ -1,7 +1,7 @@
 import { HeartFilled, HeartOutlined } from '@ant-design/icons';
 import { Button, notification } from 'antd';
 import React, { useEffect, useState } from 'react';
-import { addToFavorites, isFavorite, removeFromFavorites } from '../apis/favorites';
+import { addToFavorites, isFavorite, removeFromFavorites } from '../../apis/favorites';
 const FavoritesButton = (props) => {
   const [isStockFavorite, setIsStockFavorite] = useState(false);
 

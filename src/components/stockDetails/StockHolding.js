@@ -1,9 +1,8 @@
-import React, { Component, useEffect, useState } from 'react';
-import { Avatar, Card, Skeleton, Typography, Statistic, Divider } from 'antd';
-import { getHoldingsFor } from '../apis/holdings';
-import { INR } from '../constants/constants';
+import { Card, Divider, Statistic } from 'antd';
+import React, { useEffect, useState } from 'react';
+import { getHoldingsFor } from '../../apis/holdings';
+import { INR } from '../../constants/constants';
 
-const { Title } = Typography;
 const StockHolding = (props) => {
   const [holding, setHolding] = useState({});
   const gridStyle = {
@@ -43,6 +42,7 @@ const StockHolding = (props) => {
         <Statistic
           title="Current Amount"
           value={holding.currentAmount}
+          valueStyle={{ color: holding.totalReturns >= 0 ? '#3f8600' : '#cf1322' }}
           prefix={INR}
         />
       </Card.Grid>

@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { Modal, Button, Space } from 'antd';
 import { ExclamationCircleOutlined } from '@ant-design/icons';
+import { Modal } from 'antd';
+import React from 'react';
 
 const BuySellConfirmModal = (props) => {
   return (
