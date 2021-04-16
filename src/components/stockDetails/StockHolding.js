@@ -2,6 +2,7 @@ import { Card, Divider, Statistic } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { getHoldingsFor } from '../../apis/holdings';
 import { INR } from '../../constants/constants';
+import { getColorValueFor } from '../../utils/utils';
 
 const StockHolding = (props) => {
   const [holding, setHolding] = useState({});
@@ -42,7 +43,7 @@ const StockHolding = (props) => {
         <Statistic
           title="Current Amount"
           value={holding.currentAmount}
-          valueStyle={{ color: holding.totalReturns >= 0 ? '#3f8600' : '#cf1322' }}
+          valueStyle={{ color: getColorValueFor(holding.totalReturns) }}
           prefix={INR}
         />
       </Card.Grid>
@@ -57,7 +58,7 @@ const StockHolding = (props) => {
         <Statistic
           title="Returns"
           value={holding.totalReturns}
-          valueStyle={{ color: holding.totalReturns >= 0 ? '#3f8600' : '#cf1322' }}
+          valueStyle={{ color: getColorValueFor(holding.totalReturns) }}
           prefix={INR}
         />
       </Card.Grid>

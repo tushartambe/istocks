@@ -8,7 +8,7 @@ import StockPerformance from '../components/stockDetails/StcokPerformance';
 import StockHolding from '../components/stockDetails/StockHolding';
 import allStocks from '../constants/allStocks';
 import { INR, NSE_QUOTE_URL } from "../constants/constants";
-import { getAvatarText, roundToTwoDigits } from '../utils/utils';
+import { getAvatarText, getColorValueFor, roundToTwoDigits } from '../utils/utils';
 import './StockDetails.css';
 
 const { Title, Link, Text } = Typography;
@@ -68,7 +68,7 @@ const StockDetails = (props) => {
           <Meta
             avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle' }} size="large" gap={4}>{getAvatarText(stockInfo?.name)}</Avatar>}
             title={<Title level={4}>{stockInfo?.name}</Title>}
-            description={<Title level={5}>{INR}{stockInfo?.currentPrice} (<Text style={{ color: dayChange >= 0 ? '#3f8600' : '#cf1322' }}>{'+'.repeat(dayChange >= 0) + dayChange}</Text>) </Title>}
+            description={<Title level={5}>{INR}{stockInfo?.currentPrice} (<Text style={{ color: getColorValueFor(dayChange) }}>{'+'.repeat(dayChange >= 0) + dayChange}</Text>) </Title>}
           />
           <br />
           <StockPerformance stockInfo={stockInfo}></StockPerformance>

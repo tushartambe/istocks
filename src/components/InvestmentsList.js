@@ -2,7 +2,7 @@ import { Table, Typography } from 'antd';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { INR } from '../constants/constants';
-import { roundToTwoDigits } from '../utils/utils';
+import { getColorValueFor, roundToTwoDigits } from '../utils/utils';
 
 const { Text } = Typography;
 
@@ -47,9 +47,9 @@ const InvestmentsList = (props) => {
         const returnPercentage = (record.currentAmount - record.totalInvestedAmount) * 100 / record.totalInvestedAmount;
         return (
           <>
-            <Text strong>{INR}{record.totalReturns}</Text>
+            <Text strong style={{ color: getColorValueFor(record.totalReturns) }}>{INR}{record.totalReturns}</Text>
             <br />
-            <Text>{roundToTwoDigits(returnPercentage)}%</Text>
+            <Text >{roundToTwoDigits(returnPercentage)}%</Text>
           </>
         )
       }
@@ -63,7 +63,7 @@ const InvestmentsList = (props) => {
       },
       render: (text, record) => (
         <>
-          <Text strong>{INR}{record.currentAmount}</Text>
+          <Text strong style={{ color: getColorValueFor(record.totalReturns) }}>{INR}{record.currentAmount}</Text>
           <br />
           <Text>{INR}{record.totalInvestedAmount}</Text>
         </>

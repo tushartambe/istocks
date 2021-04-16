@@ -6,7 +6,7 @@ import CustomLayout from '../components/layout/CustomLayout';
 import InvestmentCharts from '../components/InvestmentsCharts';
 import InvestmentsList from '../components/InvestmentsList';
 import { INR } from '../constants/constants';
-import { roundToTwoDigits } from '../utils/utils';
+import { getColorValueFor, roundToTwoDigits } from '../utils/utils';
 const { Title } = Typography;
 const { TabPane } = Tabs;
 const Investments = (props) => {
@@ -51,7 +51,7 @@ const Investments = (props) => {
     loadAllHoldings();
   }, []);
 
-  const color = totalReturns < 0 ? '#cf1322' : '#3f8600';
+  const color = getColorValueFor(totalReturns);
   const prefix = totalReturns < 0 ? <ArrowDownOutlined /> : <ArrowUpOutlined />;
 
   return (

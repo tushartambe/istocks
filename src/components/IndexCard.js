@@ -1,11 +1,12 @@
 import { ArrowDownOutlined, ArrowUpOutlined } from '@ant-design/icons';
 import { Card, Space, Statistic, Typography } from 'antd';
 import React from 'react';
+import { getColorValueFor } from '../utils/utils';
 
 const { Text } = Typography;
 
 const IndexCard = (props) => {
-  const color = props.dayChange > 0 ? '#3f8600' : '#cf1322';
+  const color = getColorValueFor(props.dayChange);
   const prefix = props.dayChange > 0 ? <ArrowUpOutlined /> : <ArrowDownOutlined />;
 
   return (

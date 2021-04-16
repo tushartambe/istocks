@@ -11,3 +11,7 @@ export const getAvatarText = (input) => {
 export const roundToTwoDigits = (number) => {
   return Math.round(number * 100) / 100;
 }
+
+export const getColorValueFor = (number) => {
+  return number >= 0 ? '#3f8600' : '#cf1322'
+}
