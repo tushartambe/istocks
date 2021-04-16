@@ -4,6 +4,7 @@ import StockCardList from '../components/StockCardList';
 import { Typography, Collapse, Empty, notification, Spin } from 'antd';
 import { getFavoriteStocks } from '../apis/favorites';
 import { INR } from '../constants/constants';
+import { roundToTwoDigits } from '../utils/utils';
 
 const { Panel } = Collapse;
 const { Title } = Typography;
@@ -18,7 +19,7 @@ const Favorites = (props) => {
       let sanitizedData = response.map(stock => {
         let lastPrice = Number(stock.lastPrice.replace(/\,/g, ''));
         let previousClose = Number(stock.previousClose.replace(/\,/g, ''));
-        return { ...stock, ltp: stock.lastPrice, netPrice: Math.round(lastPrice - previousClose) }
+        return { ...stock, ltp: stock.lastPrice, netPrice: roundToTwoDigits(lastPrice - previousClose) }
       });
 
       setFavorites(sanitizedData);

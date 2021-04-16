@@ -54,7 +54,7 @@ const StockDetails = (props) => {
   }, []);
 
   const stock = allStocks.find(element => element.value === stockInfo?.symbol);
-  const dayChange = stockInfo?.currentPrice - stockInfo?.previousClose;
+  const dayChange = roundToTwoDigits(stockInfo?.currentPrice - stockInfo?.previousClose);
 
   return (
     <CustomLayout>
@@ -68,7 +68,7 @@ const StockDetails = (props) => {
           <Meta
             avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle' }} size="large" gap={4}>{getAvatarText(stockInfo?.name)}</Avatar>}
             title={<Title level={4}>{stockInfo?.name}</Title>}
-            description={<Title level={5}>{INR}{stockInfo?.currentPrice} (<Text style={{ color: dayChange >= 0 ? '#3f8600' : '#cf1322' }}>{roundToTwoDigits(dayChange)}</Text>) </Title>}
+            description={<Title level={5}>{INR}{stockInfo?.currentPrice} (<Text style={{ color: dayChange >= 0 ? '#3f8600' : '#cf1322' }}>{'+'.repeat(dayChange >= 0) + dayChange}</Text>) </Title>}
           />
           <br />
           <StockPerformance stockInfo={stockInfo}></StockPerformance>
