@@ -1,3 +1,4 @@
+import { JWT_TOKEN } from "../constants/constants";
 import { request } from "../utils/APIUtils";
 
 export const API_BASE_URL = 'http://localhost:8080';
@@ -11,6 +12,7 @@ export const login = (loginRequest) => {
 }
 
 export const register = (registerRequest) => {
+  localStorage.removeItem(JWT_TOKEN);
   return request({
     url: API_BASE_URL + "/register",
     method: 'POST',
