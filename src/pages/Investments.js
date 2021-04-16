@@ -2,7 +2,7 @@ import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
 import { Card, Col, Row, Statistic, Typography, notification, Tabs } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { getHoldings } from '../apis/holdings';
-import CustomLayout from '../components/CustomLayout';
+import CustomLayout from '../components/layout/CustomLayout';
 import InvestmentCharts from '../components/InvestmentsCharts';
 import InvestmentsList from '../components/InvestmentsList';
 import { INR } from '../constants/constants';

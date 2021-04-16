@@ -3,13 +3,9 @@ import { Button, Form, Input, Layout, notification, Typography } from "antd";
 import React, { useState } from 'react';
 import { Link } from "react-router-dom";
 import { register } from "../apis/authentication";
-import UnAuthCustomLayout from '../components/UnAuthCustomLayout';
-import { JWT_TOKEN } from "../constants/constants";
+import UnAuthCustomLayout from '../components/layout/UnAuthCustomLayout';
 
-
-const { Content } = Layout;
 const { Title } = Typography;
-
 
 const Register = (props) => {
   const [email, setLocalEmail] = useState("");

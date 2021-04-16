@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import CustomLayout from '../components/CustomLayout';
+import CustomLayout from '../components/layout/CustomLayout';
 import StockCardList from '../components/StockCardList';
 import { Typography, Collapse, Empty, notification, Spin } from 'antd';
 import { getFavoriteStocks } from '../apis/favorites';

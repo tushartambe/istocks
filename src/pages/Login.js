@@ -3,7 +3,7 @@ import { Button, Form, Input, Layout, notification, Typography } from "antd";
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { login } from "../apis/authentication";
-import UnAuthCustomLayout from '../components/UnAuthCustomLayout';
+import UnAuthCustomLayout from '../components/layout/UnAuthCustomLayout';
 import {JWT_TOKEN} from '../constants/constants';
 const { Title } = Typography;
 

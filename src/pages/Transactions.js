@@ -1,11 +1,10 @@
-import { Divider, Typography, notification } from 'antd';
+import { Divider, notification, Typography } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { getTransactions } from '../apis/transactions';
-import CustomLayout from '../components/CustomLayout';
+import CustomLayout from '../components/layout/CustomLayout';
 import TransactionList from '../components/TransactionList';
 import Wallet from '../components/Wallet';
 
-const { Title } = Typography;
 const Transactions = (props) => {
   const [loading, setLoading] = useState(true);
   const [transactions, setTransactions] = useState([]);

@@ -5,8 +5,8 @@ import { useThemeSwitcher } from "react-css-theme-switcher";
 import { IoMoon, IoSunny } from "react-icons/io5";
 import { Link, useHistory } from 'react-router-dom';
 import Switch from "react-switch";
-import allStocks from "../constants/allStocks";
-import ProfileActions from './ProfileActions';
+import allStocks from '../../constants/allStocks';
+import ProfileActions from '../ProfileActions';
 
 const { Title } = Typography;
 const { Search } = Input;

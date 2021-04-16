@@ -1,6 +1,6 @@
 import { Layout } from 'antd';
 import React from 'react';
-import { layoutStyle } from '../styles';
+import { layoutStyle } from '../../styles';
 import CustomFooter from './CustomFooter';
 import CustomHeader from './CustomHeader';
 

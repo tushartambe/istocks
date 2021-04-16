@@ -1,7 +1,7 @@
 import { Avatar, Card, notification, Typography } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { getQuote } from '../apis/market-data';
-import CustomLayout from '../components/CustomLayout';
+import CustomLayout from '../components/layout/CustomLayout';
 import BuyOrSellStock from '../components/stockDetails/BuyOrSellStock';
 import FavoritesButton from '../components/stockDetails/FavoritesButton';
 import StockPerformance from '../components/stockDetails/StcokPerformance';
