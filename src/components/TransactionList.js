@@ -53,7 +53,7 @@ const TransactionList = (props) => {
             <Statistic title="Company" value={record.orderResponse.companyName} valueStyle={{ fontSize: '15px' }} />
           </Col>
           <Col span={8}>
-            <Statistic title="Price" value={record.orderResponse.currentSharePrice} suffix={INR} valueStyle={{ fontSize: '15px' }} />
+            <Statistic title="Price" value={record.orderResponse.currentSharePrice} prefix={INR} valueStyle={{ fontSize: '15px' }} />
           </Col>
           <Col span={8}>
             <Statistic title="Quantity" value={record.orderResponse.shareQuantity} valueStyle={{ fontSize: '15px' }} />

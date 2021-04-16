@@ -1,14 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import CustomLayout from '../components/CustomLayout';
 import StockCardList from '../components/StockCardList';
-import { Typography, Collapse, Empty, notification } from 'antd';
+import { Typography, Collapse, Empty, notification, Spin } from 'antd';
 import { getFavoriteStocks } from '../apis/favorites';
+import { INR } from '../constants/constants';
 
 const { Panel } = Collapse;
 const { Title } = Typography;
 
 const Favorites = (props) => {
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [favorites, setFavorites] = useState([]);
 
   const loadFavoriteStocks = () => {
@@ -46,9 +47,10 @@ const Favorites = (props) => {
     <CustomLayout>
       <Collapse defaultActiveKey={['1']} ghost>
         <Panel header={<Title type="success" level={4}>Your Favorites</Title>} showArrow={false} key="1">
-          {favorites && favorites.length > 0 ?
-            <StockCardList stockList={favorites} loading={loading}></StockCardList> :
-            <Empty image={Empty.PRESENTED_IMAGE_DEFAULT} description="Search and add some favorites." />}
+          {loading ? <Spin style={{ position: 'absolute', left: '50%', top: '35%' }} />
+            : (favorites.length > 0) ?
+              <StockCardList stockList={favorites} loading={loading} dayChangeSuffix={INR} ></StockCardList>
+              : <Empty image={Empty.PRESENTED_IMAGE_DEFAULT} description="Search and add some favorites." />}
         </Panel>
       </Collapse>
     </CustomLayout>

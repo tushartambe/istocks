@@ -22,7 +22,7 @@ const StockCardList = (props) => {
                 symbol={stock.symbol}
                 currentPrice={stock.ltp}
                 dayChange={stock.netPrice}
-                dayChangeSuffix={"%"}
+                dayChangeSuffix={props.dayChangeSuffix}
                 loading={props.loading}
               />
             </Col>

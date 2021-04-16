@@ -87,10 +87,10 @@ const Home = (props) => {
         loading={indexLoading} />
       <Collapse defaultActiveKey={['1', '2']} ghost>
         <Panel header={<Title type="success" level={4}>Top Gainers</Title>} showArrow={false} key="1">
-          <StockCardList stockList={topGainers} loading={gainersLoading} />
+          <StockCardList stockList={topGainers} loading={gainersLoading} dayChangeSuffix="%" />
         </Panel>
         <Panel header={<Title type="danger" level={4}>Top Losers</Title>} showArrow={false} key="2">
-          <StockCardList stockList={topLosers} loading={losersLoading} />
+          <StockCardList stockList={topLosers} loading={losersLoading} dayChangeSuffix="%" />
         </Panel>
       </Collapse>
     </CustomLayout>
