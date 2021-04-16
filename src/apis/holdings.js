@@ -8,3 +8,10 @@ export const getHoldings = () => {
     method: 'GET'
   });
 }
+
+export const getHoldingsFor = (symbol) => {
+  return request({
+    url: API_BASE_URL + "/holdings/single?symbol=" + symbol,
+    method: 'GET'
+  });
+}

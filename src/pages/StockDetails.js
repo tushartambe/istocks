@@ -1,4 +1,4 @@
-import { Avatar, Button, Card, Col, InputNumber, notification, Row, Slider, Space, Tabs, Typography } from 'antd';
+import { Avatar, Button, Card, Col, Divider, InputNumber, notification, Row, Slider, Space, Tabs, Typography } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { getQuote } from '../apis/market-data';
 import { placeOrder } from '../apis/orders';
@@ -6,6 +6,7 @@ import BuySellConfirmModal from '../components/BuySellConfirmModal';
 import CustomLayout from '../components/CustomLayout';
 import CustomPropertyText from '../components/CustomPropertyText';
 import FavoritesButton from '../components/FavoritesButton';
+import StockHolding from '../components/StockHolding';
 import allStocks from '../constants/allStocks';
 import { INR, NSE_QUOTE_URL, OrderType } from "../constants/constants";
 import { getAvatarText } from '../utils/utils';
@@ -217,6 +218,7 @@ const StockDetails = (props) => {
             </TabPane>
           </Tabs>
         </Card>
+        <StockHolding symbol={symbol}></StockHolding>
       </div>
     </CustomLayout>
   );
