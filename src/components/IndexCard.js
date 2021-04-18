@@ -30,7 +30,7 @@ const IndexCard = (props) => {
                 {value}
               </Text>
               <Text style={{ fontSize: '15px', color: color }}>
-                {'+'.repeat(props.dayChange >= 0) + props.dayChange}{"%"}
+                ({'+'.repeat(props.dayChange >= 0) + props.dayChange}{"%"})
               </Text>
             </Space>
           )

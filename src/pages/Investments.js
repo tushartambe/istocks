@@ -1,6 +1,7 @@
 import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
 import { Card, Col, Row, Statistic, Typography, notification, Tabs } from 'antd';
 import React, { useEffect, useState } from 'react';
+import AnimatedNumber from "animated-number-react";
 import { getHoldings } from '../apis/holdings';
 import CustomLayout from '../components/layout/CustomLayout';
 import InvestmentCharts from '../components/InvestmentsCharts';
@@ -54,6 +55,10 @@ const Investments = (props) => {
   const color = getColorValueFor(totalReturns);
   const prefix = totalReturns < 0 ? <ArrowDownOutlined /> : <ArrowUpOutlined />;
 
+  const numberFormatter = (value) => {
+    return <AnimatedNumber value={value} formatValue={(value) => value.toFixed(2)} />
+  }
+
   return (
     <CustomLayout>
       <div style={{ marginRight: '12.5%', marginLeft: '12.5%', marginTop: '10px' }}>
@@ -64,18 +69,33 @@ const Investments = (props) => {
               <Row >
                 <Col span={8}>
                   <Card size='small' hoverable loading={loading}>
-                    <Statistic title="Total Returns" valueStyle={{ color: color }}
-                      value={roundToTwoDigits(totalReturns)} prefix={<>{prefix} {INR}</>} />
+                    <Statistic
+                      title="Total Returns"
+                      valueStyle={{ color: color }}
+                      value={roundToTwoDigits(totalReturns)}
+                      prefix={<>{prefix} {INR}</>}
+                      formatter={numberFormatter}
+                    />
                   </Card>
                 </Col>
                 <Col span={8}>
                   <Card size='small' hoverable loading={loading}>
-                    <Statistic title="Current Value" value={roundToTwoDigits(currentValue)} prefix={INR} />
+                    <Statistic
+                      title="Current Value"
+                      value={roundToTwoDigits(currentValue)}
+                      prefix={INR}
+                      formatter={numberFormatter}
+                    />
                   </Card>
                 </Col>
                 <Col span={8}>
                   <Card size='small' hoverable loading={loading}>
-                    <Statistic title="Invested Value" value={roundToTwoDigits(investedValue)} prefix={INR} />
+                    <Statistic
+                      title="Invested Value"
+                      value={roundToTwoDigits(investedValue)}
+                      prefix={INR}
+                      formatter={numberFormatter}
+                    />
                   </Card>
                 </Col>
               </Row>
