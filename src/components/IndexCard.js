@@ -1,5 +1,5 @@
 import { ArrowDownOutlined, ArrowUpOutlined } from '@ant-design/icons';
-import { Card, Space, Statistic, Typography } from 'antd';
+import { Card, Space, Statistic, Typography, Badge } from 'antd';
 import React from 'react';
 import { getColorValueFor } from '../utils/utils';
 
@@ -8,6 +8,9 @@ const { Text } = Typography;
 const IndexCard = (props) => {
   const color = getColorValueFor(props.dayChange);
   const prefix = props.dayChange > 0 ? <ArrowUpOutlined /> : <ArrowDownOutlined />;
+  const marketStatus = props.marketStatus === "open"
+    ? <Badge status="success" size="small" className="badge-animation" text="Market is Open" />
+    : <Badge status="error" text="Market is Closed" />;
 
   return (
     <Card
@@ -16,6 +19,7 @@ const IndexCard = (props) => {
       style={{ maxWidth: '400px', margin: 10 }}
       loading={props.loading}
       hoverable
+      extra={marketStatus}
     >
       <Statistic
         title={props.exchangeName}

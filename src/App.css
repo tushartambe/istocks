@@ -36,4 +36,17 @@
     transform: rotate(360deg);
   }
 }
-  
+
+.badge-animation{
+  animation: pulse 1s infinite;
+  animation-direction: alternate;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

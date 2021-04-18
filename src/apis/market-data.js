@@ -2,6 +2,13 @@ import { request } from "../utils/APIUtils";
 
 export const MARKET_DATA_URL = 'http://localhost:3000';
 
+export const getMarketStatus = () => {
+  return request({
+    url: MARKET_DATA_URL + "/get_market_status",
+    method: 'GET'
+  });
+}
+
 export const getIndices = () => {
   return request({
     url: MARKET_DATA_URL + "/nse/get_indices",
