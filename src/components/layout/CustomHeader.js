@@ -42,7 +42,7 @@ const CustomHeader = (props) => {
           option.value.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1
         }
       >
-        <Search style={{ maxWidth: '400px' }} placeholder="input search text" onSearch={onSelect} enterButton />
+        <Search style={{ maxWidth: '400px' }} placeholder="input search text" enterButton />
       </AutoComplete>
       <ProfileActions></ProfileActions>
       <Switch
