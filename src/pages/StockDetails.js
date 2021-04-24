@@ -58,7 +58,7 @@ const StockDetails = (props) => {
 
   return (
     <CustomLayout>
-      <div style={{ marginRight: '25%', marginLeft: '25%', marginTop: '10px' }}>
+      <div style={{ marginRight: '20%', marginLeft: '20%', marginTop: '10px' }}>
         <Card
           loading={loading}
           extra={
@@ -66,7 +66,7 @@ const StockDetails = (props) => {
           }
         >
           <Meta
-            avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle' }} size="large" gap={4}>{getAvatarText(stockInfo?.name)}</Avatar>}
+            avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle', fontWeight: 'bold' }} size="large" gap={4}>{getAvatarText(stockInfo?.name)}</Avatar>}
             title={<Title level={4}>{stockInfo?.name}</Title>}
             description={<Title level={5}>{INR}{stockInfo?.currentPrice} (<Text style={{ color: getColorValueFor(dayChange) }}>{'+'.repeat(dayChange >= 0) + dayChange}</Text>) </Title>}
           />

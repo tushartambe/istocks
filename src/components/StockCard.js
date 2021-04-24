@@ -25,7 +25,7 @@ const StockCard = (props) => {
     >
       <Skeleton loading={props.loading} avatar active>
         <Meta
-          avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle' }} size="large" gap={4}>{getAvatarText(props.name)}</Avatar>}
+          avatar={<Avatar style={{ background: stock?.background, verticalAlign: 'middle', fontWeight: 'bold' }} size="large" gap={4}>{getAvatarText(props.name)}</Avatar>}
           title={props.name}
           description={props.symbol}
         />

@@ -35,6 +35,7 @@ const StockHolding = (props) => {
       <Card.Grid style={gridStyle}>
         <Statistic
           title="Average Price"
+          precision={2}
           value={holding.averagePrice}
           prefix={INR}
         />
@@ -42,6 +43,7 @@ const StockHolding = (props) => {
       <Card.Grid style={gridStyle}>
         <Statistic
           title="Current Amount"
+          precision={2}
           value={holding.currentAmount}
           valueStyle={{ color: getColorValueFor(holding.totalReturns) }}
           prefix={INR}
@@ -50,6 +52,7 @@ const StockHolding = (props) => {
       <Card.Grid style={gridStyle}>
         <Statistic
           title="Invested Amount"
+          precision={2}
           value={holding.totalInvestedAmount}
           prefix={INR}
         />
@@ -57,6 +60,7 @@ const StockHolding = (props) => {
       <Card.Grid style={gridStyle}>
         <Statistic
           title="Returns"
+          precision={2}
           value={holding.totalReturns}
           valueStyle={{ color: getColorValueFor(holding.totalReturns) }}
           prefix={INR}
